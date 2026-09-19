@@ -4,7 +4,7 @@
 
 ![version][version-badge] ![license][license-badge] ![type][type-badge]
 
-[English](README.en.md) | 中文 · [共同方法](LOOP-PATTERN.md) · [版本记录](CHANGELOG.md)
+[English](README.en.md) | 中文 · [共同方法](LOOP-PATTERN.md) · [公开评审候选](REVIEW-CANDIDATES.md) · [版本记录](CHANGELOG.md)
 
 把一次性生成变成可检查的写作闭环：先确认材料和目标，再起草、逐项评审，按问题修订，到达上限就把剩余问题交还给你。
 
@@ -16,6 +16,10 @@
 | --- | --- | --- | --- |
 | [Article Writer][article] | 给中文观点长文检查立场、结构与事实，再按需要修订 | [v0.3.0][article-release] | [![Article stars][article-stars]][article] |
 | [Report Writer][report] | 从真实成果账本整理周报、述职和晋升材料 | [v0.3.1][report-release] | [![Report stars][report-stars]][report] |
+
+## 公开评审候选
+
+另有 [13 个候选的独立评审入口](REVIEW-CANDIDATES.md)，按固定提交列出范围、REVIEW 与只读评审请求。它们全部维持 **HOLD**，不在上面的已发布产品表内；公开源码不表示正式发布、行为验证通过或推荐安装。
 
 ## 选择与安装
 
@@ -38,7 +42,7 @@
 - Skill 是给模型宿主读取的文本指令；具体执行效果取决于宿主、输入和人工复核。
 - 各仓分别披露测试环境、通过范围和已知限制。安装成功、模型行为通过、真人认可分别判断。
 - 使用脱敏材料；模型宿主可能保留输入和输出。第三方徽章会向其服务请求公开仓库信息。
-- 后续只在产品实际发布、链接可访问后加入目录；不把开发中的项目当成可安装产品。
+- 已发布项目表只在产品实际发布、链接可访问后扩充；开发候选另列于评审目录，不作为可安装产品推荐。
 - 反馈功能问题时，到对应项目提供脱敏的最小复现。索引问题可在本仓提出。
 
 ## 许可

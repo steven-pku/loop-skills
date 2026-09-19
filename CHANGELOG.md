@@ -1,5 +1,16 @@
 # Changelog
 
+## [Unreleased]
+
+### Review directory
+
+- Separate review directory for 13 candidates, with pinned REVIEW links, explicit HOLD scope, and a read-only review prompt.
+- Chinese and English README links to the review directory.
+
+### Candidate scope
+
+- Candidate entries are separate from the released Article Writer and Report Writer products; this change creates no formal skill release.
+
 ## [0.1.0] - 2026-09-20
 
 ### Added
