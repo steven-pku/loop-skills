@@ -6,7 +6,7 @@ This is an overview, not a line-by-line translation. The [Chinese README](README
 
 ## What it is
 
-A directory of independently released writing skills. Each uses explicit review criteria and bounded revision to help identify and improve weak drafts.
+A series for content creation, career preparation, and important conversations. Each uses explicit review criteria and bounded revision to help identify and improve weak drafts.
 
 ## Available releases
 
@@ -15,7 +15,7 @@ A directory of independently released writing skills. Each uses explicit review 
 
 ## Public review candidates
 
-A separate [review directory lists 13 candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
+A separate [review directory lists 7 Loop candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
 
 ## Start
 

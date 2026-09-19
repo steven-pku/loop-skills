@@ -4,10 +4,12 @@
 
 ### Review directory
 
-- Separate review directory for 13 candidates, with pinned REVIEW links, explicit HOLD scope, and a read-only review prompt.
+- Separate review directory for 7 Loop candidates, with pinned REVIEW links, explicit HOLD scope, and a read-only review prompt.
 - Chinese and English README links to the review directory.
 
 ### Candidate scope
+
+- The public directory now focuses on the Loop series: two released products and seven review candidates. Other experimental candidates are outside this release track.
 
 - Candidate entries are separate from the released Article Writer and Report Writer products; this change creates no formal skill release.
 
