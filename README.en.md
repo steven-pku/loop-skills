@@ -15,9 +15,11 @@ A series for content creation, career preparation, and important conversations. 
 
 - [Script Writer v0.3.1](https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1): Chinese spoken-video scripts, duration checks, fact boundaries and bounded revisions.
 
+- [Decision v0.3.1](https://github.com/steven-pku/loop-decision/releases/tag/v0.3.1): Decision preparation, evidence checks, red-team review and stop-loss planning.
+
 ## Public review candidates
 
-A separate [review directory lists 6 Loop candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
+A separate [review directory lists 5 Loop candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
 
 ## Start
 

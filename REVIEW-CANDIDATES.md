@@ -1,16 +1,15 @@
 # 公开评审候选 / Public review candidates
 
-**6 个 Loop 系列候选均为 HOLD，供独立审查；不属于正式发布或安装推荐。**
+**5 个 Loop 系列候选均为 HOLD，供独立审查；不属于正式发布或安装推荐。**
 
 已发布产品仍以 [README 的已发布项目表](README.md#已发布项目) 为准。这里的用途描述只是各候选的审查范围，不代表效果、安全、兼容性或行为验证已经通过。各仓的已知问题、未测范围与验证方法以固定提交中的 REVIEW 为准。
 
-All 6 Loop entries are review candidates on HOLD, separate from the [released products](README.en.md#available-releases). Scope descriptions are review targets, not claims of verified behavior, safety, compatibility, or outcomes. Use the pinned REVIEW for each candidate's actual evidence and limits.
+All 5 Loop entries are review candidates on HOLD, separate from the [released products](README.en.md#available-releases). Scope descriptions are review targets, not claims of verified behavior, safety, compatibility, or outcomes. Use the pinned REVIEW for each candidate's actual evidence and limits.
 
 ## 固定评审入口
 
 | 候选仓库 | 审查范围 | 固定提交 | REVIEW | 状态 |
 | --- | --- | --- | --- | --- |
-| [loop-decision](https://github.com/steven-pku/loop-decision) | 决策准备与复盘；事实状态、停止条件与结果偏差 | `4c5cd614013d25c63c5eb72f7be8ee4c6630c18b` | [REVIEW](https://github.com/steven-pku/loop-decision/blob/4c5cd614013d25c63c5eb72f7be8ee4c6630c18b/REVIEW.md) | HOLD |
 | [loop-content-audit](https://github.com/steven-pku/loop-content-audit) | 已发布内容诊断；证据、归因与改进建议 | `eae006a7df1a0e8c20f2d1c275910170892be252` | [REVIEW](https://github.com/steven-pku/loop-content-audit/blob/eae006a7df1a0e8c20f2d1c275910170892be252/REVIEW.md) | HOLD |
 | [loop-topic-picker](https://github.com/steven-pku/loop-topic-picker) | 选题准备；人设、评分、热度与 Brief 契约 | `9b21c122c823ca821c188497e2ef872401bb6a0c` | [REVIEW](https://github.com/steven-pku/loop-topic-picker/blob/9b21c122c823ca821c188497e2ef872401bb6a0c/REVIEW.md) | HOLD |
 | [loop-resume-writer](https://github.com/steven-pku/loop-resume-writer) | 中文简历与求职信；岗位匹配、事实与表达 | `bf8ceda2be1ed1c4df4ce8401ce511d3de19c6c5` | [REVIEW](https://github.com/steven-pku/loop-resume-writer/blob/bf8ceda2be1ed1c4df4ce8401ce511d3de19c6c5/REVIEW.md) | HOLD |
