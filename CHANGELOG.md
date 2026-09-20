@@ -2,16 +2,11 @@
 
 ## [Unreleased]
 
-### Review directory
+### Updated
 
-- Separate review directory for 7 Loop candidates, with pinned REVIEW links, explicit HOLD scope, and a read-only review prompt.
-- Chinese and English README links to the review directory.
-
-### Candidate scope
-
-- The public directory now focuses on the Loop series: two released products and seven review candidates. Other experimental candidates are outside this release track.
-
-- Candidate entries are separate from the released Article Writer and Report Writer products; this change creates no formal skill release.
+- Promoted Script Writer v0.3.1 after their formal GitHub releases.
+- Current directory: 3 released Loop products and 6 candidates on HOLD, with fixed review links.
+- Other experimental series remain outside this release track.
 
 ## [0.1.0] - 2026-09-20
 

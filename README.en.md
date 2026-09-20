@@ -13,9 +13,11 @@ A series for content creation, career preparation, and important conversations. 
 - [Article Writer v0.3.0](https://github.com/steven-pku/loop-article-writer/releases/tag/v0.3.0): Chinese opinion articles, stance checks, structural review and fact discipline.
 - [Report Writer v0.3.1](https://github.com/steven-pku/loop-report-writer/releases/tag/v0.3.1): weekly reports and promotion materials grounded in a user-supplied achievement ledger.
 
+- [Script Writer v0.3.1](https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1): Chinese spoken-video scripts, duration checks, fact boundaries and bounded revisions.
+
 ## Public review candidates
 
-A separate [review directory lists 7 Loop candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
+A separate [review directory lists 6 Loop candidates](REVIEW-CANDIDATES.md), with pinned commits, review scope, REVIEW links, and a short read-only review prompt. All remain **HOLD** and are outside the available-releases list. Public source does not mean a formal release, verified behavior, or an installation recommendation.
 
 ## Start
 

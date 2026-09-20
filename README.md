@@ -8,7 +8,7 @@
 
 把一次性生成变成可检查的写作闭环：先确认材料和目标，再起草、逐项评审，按问题修订，到达上限就把剩余问题交还给你。
 
-本系列围绕内容创作、求职准备和关键对话，采用共同的生成、评审与修订流程。当前包含两件正式产品与七个评审候选；各件独立，完整用法、评测和限制以对应版本的文档为准。
+本系列围绕内容创作、求职准备和关键对话，采用共同的生成、评审与修订流程。当前包含 3 件正式产品与 6 个评审候选；各件独立，完整用法、评测和限制以对应版本的文档为准。
 
 ## 已发布项目
 
@@ -16,14 +16,15 @@
 | --- | --- | --- | --- |
 | [Article Writer][article] | 给中文观点长文检查立场、结构与事实，再按需要修订 | [v0.3.0][article-release] | [![Article stars][article-stars]][article] |
 | [Report Writer][report] | 从真实成果账本整理周报、述职和晋升材料 | [v0.3.1][report-release] | [![Report stars][report-stars]][report] |
+| [Script Writer][script-writer] | 给中文口播脚本检查钩子、时长与事实，再按需要修订 | [v0.3.1][script-writer-release] | [![Script Writer stars][script-writer-stars]][script-writer] |
 
 ## 公开评审候选
 
-另有 [7 个 Loop 候选的独立评审入口](REVIEW-CANDIDATES.md)，按固定提交列出范围、REVIEW 与只读评审请求。它们全部维持 **HOLD**，不在上面的已发布产品表内；公开源码不表示正式发布、行为验证通过或推荐安装。
+另有 [6 个 Loop 候选的独立评审入口](REVIEW-CANDIDATES.md)，按固定提交列出范围、REVIEW 与只读评审请求。它们全部维持 **HOLD**，不在上面的已发布产品表内；公开源码不表示正式发布、行为验证通过或推荐安装。
 
 ## 选择与安装
 
-1. 修改观点文章，打开 [Article Writer 的安装说明][article-install]；整理工作成果，打开 [Report Writer 的安装说明][report-install]。
+1. 在上表选择所需产品，打开固定版本的 README 安装说明。
 2. 选择文档中已验证的宿主与项目级安装方式。这个索引仓无需安装，不包含 `SKILL.md`。
 3. 开启新会话，运行对应 README 的最小示例。先确认模式、事实边界和输出符合需要，再用于自己的材料。
 
@@ -56,7 +57,9 @@
 [report]: https://github.com/steven-pku/loop-report-writer
 [article-release]: https://github.com/steven-pku/loop-article-writer/releases/tag/v0.3.0
 [report-release]: https://github.com/steven-pku/loop-report-writer/releases/tag/v0.3.1
-[article-install]: https://github.com/steven-pku/loop-article-writer/blob/v0.3.0/README.md#安装
-[report-install]: https://github.com/steven-pku/loop-report-writer/blob/v0.3.1/README.md#codex-快速开始
 [article-stars]: https://img.shields.io/github/stars/steven-pku/loop-article-writer?style=social
 [report-stars]: https://img.shields.io/github/stars/steven-pku/loop-report-writer?style=social
+
+[script-writer]: https://github.com/steven-pku/loop-script-writer
+[script-writer-release]: https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1
+[script-writer-stars]: https://img.shields.io/github/stars/steven-pku/loop-script-writer?style=social
