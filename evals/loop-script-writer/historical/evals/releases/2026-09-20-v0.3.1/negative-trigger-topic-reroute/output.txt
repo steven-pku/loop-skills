@@ -1,0 +1,11 @@
+这次需要先走 **loop-topic-picker 选题**，选定角度后再写口播稿。
+
+项目内 [loop-script-writer](.agents/skills/loop-script-writer/SKILL.md) 明确规定：“Topic choice routes to `loop-topic-picker`”，并要求在选题阶段停止写稿流程。当前项目没有安装这个选题 skill，因此本轮停在这里。
+
+选题需要你提供：**3–5 条候选热点的标题或简述，以及目标观众**（职场新人、普通员工或管理者）。目前没有具体热点材料，无法据此判断哪个最值得做。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+
+本次在 Scope Gate 停止，未进入写作步骤，因此未读取写作 references。

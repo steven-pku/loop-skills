@@ -1,0 +1,641 @@
+{
+  "product": "loop-script-writer",
+  "version": "0.3.1",
+  "repository": "steven-pku/loop-script-writer",
+  "tag": "v0.3.1",
+  "tag_object": {
+    "sha": "9d51bc8d1baa8de8724f7d91384c321868b39d01",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-script-writer/git/tags/9d51bc8d1baa8de8724f7d91384c321868b39d01"
+  },
+  "commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+  "release_id": 392340767,
+  "release_url": "https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1",
+  "assets": [
+    {
+      "id": 576305438,
+      "name": "loop-script-writer-v0.3.1.zip",
+      "size": 379055,
+      "digest": "sha256:0de981282166716b2aacc22522087404a14a264efc17664f7dc81151c63c46d4",
+      "browser_download_url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/loop-script-writer-v0.3.1.zip",
+      "updated_at": "2026-09-20T06:52:22Z"
+    },
+    {
+      "id": 576305439,
+      "name": "post-install-check.json",
+      "size": 862,
+      "digest": "sha256:731637a84f626e2df8250989c39ecfb3210edfc45dd0a85853e21d9d658170e3",
+      "browser_download_url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/post-install-check.json",
+      "updated_at": "2026-09-20T06:52:21Z"
+    },
+    {
+      "id": 576305436,
+      "name": "SHA256SUMS.txt",
+      "size": 96,
+      "digest": "sha256:c366fb855fc0928814a7f2290ce4e11f4ef3cad0c5fd414afeba9dc8b9f7963e",
+      "browser_download_url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/SHA256SUMS.txt",
+      "updated_at": "2026-09-20T06:52:21Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "ce638bde39c93bc6a0cc05720326cc1cc5d9cd7359a25b6490a8c9fe4102c0e1",
+  "captured_at": "2026-10-02T21:46:47.093356+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-script-writer",
+  "runtime_manifest_sha256": "bd23d90748ce8b7bd518daa96e6e45574b424443c97b087d3923686ab0f1d0be",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "782367aa1d1e88b399861d3259daa51707950988d9a52d802eced4f0c5fb515e",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/cover.jpg",
+      "sha256": "61f0277cee9c0496cb2c8120bb3ae76eda38454910063065c05c5f7dc758c071",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/60s-douyin-full-loop.md",
+      "sha256": "04f240f1450f3f221368c1d92b27f1482bcc5a65fe9122dad471cf5a74bb730b",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/qa-only-diagnosis.md",
+      "sha256": "3c9039a3e5e6df32937fcffc1aa6ce7a33b835299930c29a139367113e127a74",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/chinese-ai-tone-oral.md",
+      "sha256": "7860737817349a8d3fcb35bca166ed7fb3575b3630445106c09840874d42e3d2",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/colloquial-craft.md",
+      "sha256": "b9fc663a6d28af0c3406d3fa73b08301efcd5b025af407e1f9b04beec3522f9b",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/fact-discipline.md",
+      "sha256": "f1041675ac9111c2d4498b24ecc82b9828cad9601e5c2c29378cc9af7d641462",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/hook-types.md",
+      "sha256": "67467ef0a1cc5d5592fef167f744886b3e19d778adb4b292e6e756011f7335af",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/pacing-and-length.md",
+      "sha256": "2b1c190887e2223c55f1a4aae4ea9d821cc65b019cdbb6fcccfff27c28384043",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-notes.md",
+      "sha256": "3df9b688bc9a49c80baeed1583d7494871b069a71ebc81d4d34998b59ed5db08",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/script-rubric.md",
+      "sha256": "677672cadb519cb8052256af69dd053c9d04ecebbaf6768421b4aa21728605bb",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-script-writer/CHANGELOG.md",
+      "sha256": "3a56fe982d5fa1ddce1f867c1ad1a2887b0fc31f209c16eea184858102dd6e8f",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-script-writer/LICENSE",
+      "sha256": "e6e7514ba6f941e42e12290d8067d17c804c2fce49d4477bab41c901ae184498",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-script-writer/REVIEW.md",
+      "sha256": "8e0e5227a55ca0d35d15601a1fe4f8e0a6c787049dc7b5ae069359fc4e5a3662",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-script-writer/SECURITY.md",
+      "sha256": "c31336edad8868d4b2bf9a57ef126b26fc039dd2e1b3202e4e7c71344a2ba29f",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-script-writer/SKILL.md",
+      "sha256": "782367aa1d1e88b399861d3259daa51707950988d9a52d802eced4f0c5fb515e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "THIRD_PARTY_NOTICES.md",
+      "target_path": "skills/loop-script-writer/THIRD_PARTY_NOTICES.md",
+      "sha256": "25a8666cc11eb6ba53cde8e3cfb7e1d77551e48fe4dbdef15f2f2242600f7a0e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "assets/cover.jpg",
+      "target_path": "skills/loop-script-writer/assets/cover.jpg",
+      "sha256": "61f0277cee9c0496cb2c8120bb3ae76eda38454910063065c05c5f7dc758c071",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1.md",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1.md",
+      "sha256": "0d80e32da84e72ee4497fce424869c8a6cc2a7665bd152a93b864bbc6edd1210",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-colloquial-negative-written/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-colloquial-negative-written/input.txt",
+      "sha256": "265c73a952d578970f5021219aa042e692dcef7f10d1dbd0e06469fac11df882",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-colloquial-negative-written/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-colloquial-negative-written/output.txt",
+      "sha256": "c7d6ed73006fea097649ff877c76a2fc47f9e0d1b82ae4fcc5429511e302edf4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-colloquial-positive-spoken/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-colloquial-positive-spoken/input.txt",
+      "sha256": "e593a3dddfa7f718989216d2181a59fb90f8141c4266b41092462b5f0333ddac",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-colloquial-positive-spoken/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-colloquial-positive-spoken/output.txt",
+      "sha256": "725e77a1f636ddb3af94bb77ded9eea33f453c6e7878296998a3cf28da8940ee",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-density-negative-flatline/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-density-negative-flatline/input.txt",
+      "sha256": "e46946fdd31e9919ca033e3e8d5a8fb908db690e7bd79cba67161f6e6f9c22c9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-density-negative-flatline/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-density-negative-flatline/output.txt",
+      "sha256": "bccd093efab4e4bac524fa95d6ad2de7194792c2cc19bed6ad4f19208709be99",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-density-positive-curve/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-density-positive-curve/input.txt",
+      "sha256": "53a9cc84858a909d484c34ee27158fa829ae5177d9450c41aafa4ac493a6c363",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-density-positive-curve/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-density-positive-curve/output.txt",
+      "sha256": "e76ab788549298169d4a43f5b4ea44dfc88b68ad1cfc8e31b9794e09782b4182",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-hook-negative-buried/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-hook-negative-buried/input.txt",
+      "sha256": "4887d838dccf603c675f7de3027c90b6c820a3017e524ae19fa28c90c2653479",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-hook-negative-buried/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-hook-negative-buried/output.txt",
+      "sha256": "8fbe11149a2e841c9e184a5d97f66f96ef1576d0455c99e132b54bac71ce319a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-hook-positive-named/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-hook-positive-named/input.txt",
+      "sha256": "8543f24d5a2729d597ddd26285017903173677f3c53647ecfde1ba259d70cfb4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/anchor-hook-positive-named/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/anchor-hook-positive-named/output.txt",
+      "sha256": "a4acb920f2309556be8033b7a0b2aff0cb477d118f714dcedd9be2cb308f6274",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/fatal-unsourced-f3/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/fatal-unsourced-f3/input.txt",
+      "sha256": "3333ed9bbd5c5e4c1c218439a240098d2c911f23ad89fe85e2e120a53bd3f918",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/fatal-unsourced-f3/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/fatal-unsourced-f3/output.txt",
+      "sha256": "6a5137adb378f1337b6a4c8c4274c2343681901fd7bd3938e7668c2cebba12cd",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-causal-claims/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-causal-claims/input.txt",
+      "sha256": "22e46a30347357a7f8c5e3de15eef0647188d0d9a7cfa20b558188cd77750cd5",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-causal-claims/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-causal-claims/output.txt",
+      "sha256": "488f390ecd131fccbad8d5ac1b3a38347ee694414203a540bb1061089aca5fcd",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-duration-cap/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-duration-cap/input.txt",
+      "sha256": "3ba67d0f4caf31d1b6ef1268276f95b0dfb01e14e2173815fcf523e63eab1bde",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-duration-cap/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-duration-cap/output.txt",
+      "sha256": "b17cf636e048cf941320ba75fb73beb35a265eea4b5e5c40eba7537f6d2b39ae",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-full-loop-backup/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-full-loop-backup/input.txt",
+      "sha256": "99b2d830e4447c88fb55d0cc1d741023f9d6a02eca65576206a4660c03927e59",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-full-loop-backup/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-full-loop-backup/output.txt",
+      "sha256": "7936153888f5e1ad5657142a5acfab30b9a05d1d19d5ccaa5d93d1596beaed84",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-material-injection/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-material-injection/input.txt",
+      "sha256": "c62de5eceacff2a242d7a3ebc8a9146d782c8a1d4106a0890390e20cffbbc3a0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-material-injection/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-material-injection/output.txt",
+      "sha256": "c83d1f46ef7594e6c55101f1fb955187ee8b2522e38a758ac7f793829fa077f0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-qa-prior-counter/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-qa-prior-counter/input.txt",
+      "sha256": "b4d0e4d952b48ca246e07163307b5d9cdb507763e60cff6ab791dc91e94a2874",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/forward-qa-prior-counter/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/forward-qa-prior-counter/output.txt",
+      "sha256": "b1ff73cf7424255ccd65692e9cfde51cb6be184a5c8eeaa6ce8e061f0a17b647",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "sha256": "c4a04330e7a9016144ec2562f477a20f28cbd4a17da66cdbe9a3b7facb5d38f3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/mode-duration-compression-complete-v0.3.0/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/mode-duration-compression-complete-v0.3.0/input.txt",
+      "sha256": "5d7e0f4c93d663e4f58ffef918b893ef867fee1d52251ebbdcc3ebe9c7074a7a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/mode-duration-compression-complete-v0.3.0/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/mode-duration-compression-complete-v0.3.0/output.txt",
+      "sha256": "351e56c6c15964f2eb02fb1775dad6369ba1d573b2f494c84eff00444cccbe68",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/mode-duration-compression/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/mode-duration-compression/input.txt",
+      "sha256": "b15476fff1188a93f4f3644f5ba73ef0adc0c5fb8e8cf499f259958ec41d0bee",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/mode-duration-compression/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/mode-duration-compression/output.txt",
+      "sha256": "04457ee89d5af1a93b585b22ee628301beec5b664778437299b6027ace5d858c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-article-reroute/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-article-reroute/input.txt",
+      "sha256": "c9e18d056fbee5c58e5ca8e04f730d92ba5623fbf20e39ad23d782dacd9b3936",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-article-reroute/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-article-reroute/output.txt",
+      "sha256": "fd2c15ab1133b6375d794afdac4cb65bdebc0eef81cf5c3fa11fdc8ade4832c0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-audit-reroute/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-audit-reroute/input.txt",
+      "sha256": "91cd6d42abeafc004c16a5e4dd59ed6d7df4ac296597e627c523718a37199cf4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-audit-reroute/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-audit-reroute/output.txt",
+      "sha256": "e1a1420df2e6d7c7bdf10d2b10a6fe102747521a1d5a8ec904cbc9b6fd4088c1",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-detector-evasion/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-detector-evasion/input.txt",
+      "sha256": "b80438967f15243eb8dfee67124198b5da8110903f6942a79f22efd0757eeadf",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-detector-evasion/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-detector-evasion/output.txt",
+      "sha256": "b497e89f24a6afd8550064f2ffd2b670f4412138fe71cd481a96b5eb8d2faccf",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-topic-reroute/input.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-topic-reroute/input.txt",
+      "sha256": "ed94417839f31e8f74e9e0d1d3cc857d90262486a8f6f3c66eb2c9972476e072",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/negative-trigger-topic-reroute/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/negative-trigger-topic-reroute/output.txt",
+      "sha256": "d0f9cfefc811c47201618ceec630e890d2e2ae7cfbf65634109b92e69a6c77a9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/script-allowance-turn3/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/script-allowance-turn3/output.txt",
+      "sha256": "4a0f6865691f055d7f50a7fb916bbd32e27a4ef81e1340778f9260973206069d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/script-install-turn1/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/script-install-turn1/output.txt",
+      "sha256": "8c104363733a8361bbc9ce4b918a2af2bab30792d8fe4fe8960c747df1a159a8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/script-stop-turn2/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/script-stop-turn2/output.txt",
+      "sha256": "d3ad2ce07f0e7f50997c8f07ca00e18a4893b5d5ffd1b8379a9e5685d2cd5a7d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/series-routing/output.txt",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/series-routing/output.txt",
+      "sha256": "2c36a85ad1489aba6d2024fd97154330dbad7c666ac9d0e4f121b405cabcf018",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/smoke-manifest.json",
+      "target_path": "skills/loop-script-writer/evals/releases/2026-09-20-v0.3.1/smoke-manifest.json",
+      "sha256": "c215e5e5a4ff6339f9c559c25121b1b7d8ca1bab109499ad22e90b39dc7ab7f0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "examples/60s-douyin-full-loop.md",
+      "target_path": "skills/loop-script-writer/examples/60s-douyin-full-loop.md",
+      "sha256": "04f240f1450f3f221368c1d92b27f1482bcc5a65fe9122dad471cf5a74bb730b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/qa-only-diagnosis.md",
+      "target_path": "skills/loop-script-writer/examples/qa-only-diagnosis.md",
+      "sha256": "3c9039a3e5e6df32937fcffc1aa6ce7a33b835299930c29a139367113e127a74",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/chinese-ai-tone-oral.md",
+      "target_path": "skills/loop-script-writer/references/chinese-ai-tone-oral.md",
+      "sha256": "7860737817349a8d3fcb35bca166ed7fb3575b3630445106c09840874d42e3d2",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/colloquial-craft.md",
+      "target_path": "skills/loop-script-writer/references/colloquial-craft.md",
+      "sha256": "b9fc663a6d28af0c3406d3fa73b08301efcd5b025af407e1f9b04beec3522f9b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/fact-discipline.md",
+      "target_path": "skills/loop-script-writer/references/fact-discipline.md",
+      "sha256": "f1041675ac9111c2d4498b24ecc82b9828cad9601e5c2c29378cc9af7d641462",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/hook-types.md",
+      "target_path": "skills/loop-script-writer/references/hook-types.md",
+      "sha256": "67467ef0a1cc5d5592fef167f744886b3e19d778adb4b292e6e756011f7335af",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/pacing-and-length.md",
+      "target_path": "skills/loop-script-writer/references/pacing-and-length.md",
+      "sha256": "2b1c190887e2223c55f1a4aae4ea9d821cc65b019cdbb6fcccfff27c28384043",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-notes.md",
+      "target_path": "skills/loop-script-writer/references/platform-notes.md",
+      "sha256": "3df9b688bc9a49c80baeed1583d7494871b069a71ebc81d4d34998b59ed5db08",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/script-rubric.md",
+      "target_path": "skills/loop-script-writer/references/script-rubric.md",
+      "sha256": "677672cadb519cb8052256af69dd053c9d04ecebbaf6768421b4aa21728605bb",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-script-writer-v0.3.1.zip",
+      "sha256": "0de981282166716b2aacc22522087404a14a264efc17664f7dc81151c63c46d4",
+      "runtime_files_compared": 11,
+      "runtime_mismatches": [],
+      "asset_files": 97
+    },
+    {
+      "asset": "post-install-check.json",
+      "sha256": "731637a84f626e2df8250989c39ecfb3210edfc45dd0a85853e21d9d658170e3",
+      "kind": "receipt_or_checksum"
+    },
+    {
+      "asset": "SHA256SUMS.txt",
+      "sha256": "c366fb855fc0928814a7f2290ce4e11f4ef3cad0c5fd414afeba9dc8b9f7963e",
+      "kind": "receipt_or_checksum"
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

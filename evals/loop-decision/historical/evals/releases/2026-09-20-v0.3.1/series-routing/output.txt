@@ -1,0 +1,18 @@
+| 编号 | 实际选择 | 简要理由 |
+|---|---|---|
+| 1 | `loop-article-writer` | 支持公众号观点长文的 QA Only 模式。 |
+| 2 | `loop-topic-picker` | 覆盖账号选题规划与内容排期。 |
+| 3 | `loop-script-writer` | 覆盖口播脚本创作及目标时长控制。 |
+| 4 | `loop-report-writer` | 面向主管的周报属于职场汇报。 |
+| 5 | `loop-report-writer` | 明确覆盖晋升答辩书面材料。 |
+| 6 | `loop-report-writer` | 明确覆盖 OKR 执行结果的复盘汇报。 |
+| 7 | `loop-decision` | 目标取舍属于决策选择，不是成果汇报。 |
+| 8 | `loop-negotiation` | 覆盖谈薪准备与模拟对抗演练。 |
+| 9 | `loop-resume-writer` | 覆盖求职简历经历与成就句改写。 |
+| 10 | `loop-interview-writer` | 覆盖面试答案准备及追问演练。 |
+| 11 | `loop-decision` | 复盘模式评估决策过程，并区分过程与结果。 |
+| 12 | ordinary assistant | 平台提交明确不属于汇报 Skill，其他八项也不覆盖。 |
+| 13 | `loop-content-audit` | 使用用户提供的后台数据诊断发布后表现。 |
+| 14 | `loop-script-writer` | 支持现稿诊断，可只诊断而不改写。 |
+| 15 | `loop-article-writer` | 正文范围包含实用方法文章及小红书图文。 |
+| 16 | `loop-decision` | Type 2 复盘支持低风险、可逆事项的简短评估。 |

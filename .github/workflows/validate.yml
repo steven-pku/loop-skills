@@ -2,15 +2,37 @@ name: validate
 
 on:
   push:
-    branches: [main]
+    branches: [main, 'codex/**']
   pull_request:
 
 permissions:
   contents: read
 
 jobs:
-  markdown:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
-      - run: npx --yes markdownlint-cli2@0.23.0 "**/*.md"
+        with:
+          fetch-depth: 0
+      - name: Install validation dependency
+        run: python3 -m pip install --target "$RUNNER_TEMP/loop-python" -r tools/requirements.txt
+      - name: Validate identity, closure and mutation controls
+        env:
+          PYTHONPATH: ${{ runner.temp }}/loop-python
+        run: |
+          python3 tools/catalog.py --check
+          python3 tools/validate.py
+          python3 tools/check_controls.py
+          python3 tools/check_version_controls.py
+          python3 tools/package.py --output "$RUNNER_TEMP/loop-packages"
+      - name: Check versions against the base
+        env:
+          PYTHONPATH: ${{ runner.temp }}/loop-python
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if git cat-file -e "$BASE_SHA^{commit}" 2>/dev/null; then
+            python3 tools/check_versions.py --base "$BASE_SHA"
+          fi
+      - name: Lint maintained documentation
+        run: npx --yes markdownlint-cli2@0.23.0 "*.md" "docs/*.md" "skills/*/README.md"

@@ -1,0 +1,5 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+继续。交接：我们正在修同一份小红书已发布内容诊断报告，已实际完成两次改写加复评，累计 QA loop 2/2，刚刚 Halt。最佳稿保留如下。
+来源：用户后台转录，未独立核验；72 小时同窗自然流量，本条小眼睛 8000、藏 80，历史 3 条分别为 8000/80、10000/100、12000/120，字段口径相同。观察：本条与三个基线收藏比例相同，均 1%。没有留存曲线。假设：结果先展示也许有助理解，仍待验证。建议：下一次只调整首图为前后对照，本层可修，保持正文和标签；看同口径账号内收藏与点击字段，无变化只记本轮未获支持。六维已检查，搜索、时机因果与人设影响仍缺资料。残余：缺首图点击及搜索来源数据。
+我现在想继续改善这份报告。

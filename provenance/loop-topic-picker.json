@@ -1,0 +1,295 @@
+{
+  "product": "loop-topic-picker",
+  "version": "0.4.1",
+  "repository": "steven-pku/loop-topic-picker",
+  "tag": "v0.4.1",
+  "tag_object": {
+    "sha": "59f08e58ca98ef2831f4d39d7d614742ed68936f",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-topic-picker/git/tags/59f08e58ca98ef2831f4d39d7d614742ed68936f"
+  },
+  "commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+  "release_id": 393042425,
+  "release_url": "https://github.com/steven-pku/loop-topic-picker/releases/tag/v0.4.1",
+  "assets": [
+    {
+      "id": 579229599,
+      "name": "loop-topic-picker-v0.4.1.zip",
+      "size": 175759,
+      "digest": "sha256:c769dbb7f968f45f34ffacf8c081138b367f1070283ec8d1db2f6c81b8992cb1",
+      "browser_download_url": "https://github.com/steven-pku/loop-topic-picker/releases/download/v0.4.1/loop-topic-picker-v0.4.1.zip",
+      "updated_at": "2026-09-21T14:43:34Z"
+    },
+    {
+      "id": 579229601,
+      "name": "loop-topic-picker-v0.4.1.zip.sha256",
+      "size": 95,
+      "digest": "sha256:d34322d7506df222746e81ee836e2d7f4deb06ff8a663cafa8ecf69c19984a35",
+      "browser_download_url": "https://github.com/steven-pku/loop-topic-picker/releases/download/v0.4.1/loop-topic-picker-v0.4.1.zip.sha256",
+      "updated_at": "2026-09-21T14:43:33Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "32c0047bd5c715d5676de7539419e0cae17f72ff0be1083cf74f9fadb6d24073",
+  "captured_at": "2026-10-02T21:46:57.874670+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-topic-picker",
+  "runtime_manifest_sha256": "7dab3f9c3a82bde631bfe631a29773139dac63930fbc684e8fb5423596b19ae0",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "64db835611523af9b0d0464e26694c4a3aec6cd5e2c0871102ca427b2a372f7d",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/account-profile-template.md",
+      "sha256": "c8af87e70e935b4026f829067ae4080c4194d6bdf743a6769085169a0a5ae646",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/pool-scorecard-template.md",
+      "sha256": "1e0b0e76767c9a51e9583a1b43001cfff2e2950aeaa9f3110e0aaff69e0dd30b",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/topic-brief-template.md",
+      "sha256": "ca7ae619bb57fca68d3f1b9014f1f7c1a1b3b68fdd8995400636d83255c36cb8",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/fullloop-gate-to-picks.md",
+      "sha256": "b4d08fcc38d9c7a5da5cda377e88a4e9c54c97c0e119b799264eed8a47dec0b8",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/quickscore-dedup-eliminate.md",
+      "sha256": "36e472fcb3a00e8ea4c1c0243cf1f4230c289bb127644c749ea89e14c0ea8287",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/unverified-hotness-refill.md",
+      "sha256": "db411b94654e4549295f24bed706b45af1b2269df66fd567296fea7e58dfe7fc",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/angle-playbook.md",
+      "sha256": "1afc878d28bea38043d145bb7b40c9ee29b7858e0c36a0f5c8fe8d8c7552976e",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/evidence-notes.md",
+      "sha256": "18a9ea41eb594c16232b878d1da2e2a28076c8968ccbfd49d8d82e0d58ad3689",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/hotness-check-guide.md",
+      "sha256": "f49008aa54206bb36455147e4ad426a35c7ab930894e9768024ae4aa24eb7f56",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/persona-gate-guide.md",
+      "sha256": "9fca9a812a9c387e457e05340a2f01a882b33731a339934bba32921a1119fedf",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/topic-brief-spec.md",
+      "sha256": "c277c7d9e17f40cb779ae28276abc088b24a447a7b6febe1e20b8c0dc7c6d759",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/topic-rubric.md",
+      "sha256": "797a4b4db2caf6b95327a793bdc5f26dae260a8b7b0c0037df71b77bfc7bbb86",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-topic-picker/CHANGELOG.md",
+      "sha256": "847e4aa7689673734e34563369e7774d8e62731ed218289664d5cd7982a938fa",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-topic-picker/LICENSE",
+      "sha256": "f5ef1cb91215a16f97573a4f2099068c4069511c97c3e175375319e7ea1cfff3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-topic-picker/REVIEW.md",
+      "sha256": "6bc52e981cdb996334789f29a1afaa971cae1894ee75435b3a9e00abde76a8b6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-topic-picker/SECURITY.md",
+      "sha256": "2f936b208f1c6b18009b0c8e7e7d9e66fc8d9d258e800c431f4d90e3260d29c3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-topic-picker/SKILL.md",
+      "sha256": "64db835611523af9b0d0464e26694c4a3aec6cd5e2c0871102ca427b2a372f7d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/account-profile-template.md",
+      "target_path": "skills/loop-topic-picker/assets/account-profile-template.md",
+      "sha256": "c8af87e70e935b4026f829067ae4080c4194d6bdf743a6769085169a0a5ae646",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/pool-scorecard-template.md",
+      "target_path": "skills/loop-topic-picker/assets/pool-scorecard-template.md",
+      "sha256": "1e0b0e76767c9a51e9583a1b43001cfff2e2950aeaa9f3110e0aaff69e0dd30b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/topic-brief-template.md",
+      "target_path": "skills/loop-topic-picker/assets/topic-brief-template.md",
+      "sha256": "ca7ae619bb57fca68d3f1b9014f1f7c1a1b3b68fdd8995400636d83255c36cb8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.4.1.md",
+      "target_path": "skills/loop-topic-picker/evals/releases/2026-09-20-v0.4.1.md",
+      "sha256": "9323baef202d5ed0c658c92cdc8f797898a43829911a39323b2cf2e2296e5bd0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.4.1/manifest.json",
+      "target_path": "skills/loop-topic-picker/evals/releases/2026-09-20-v0.4.1/manifest.json",
+      "sha256": "06e058014c92d7b19b891d6aef88aa4b94010399e861fe759d0f80ec43779634",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-independent-review.md",
+      "target_path": "skills/loop-topic-picker/evals/releases/2026-09-21-independent-review.md",
+      "sha256": "b0904fae1a1c9494fc3e75f7e21b91758205fb0f75020d43e3ace333042ae1ae",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/pre-repair-review.md",
+      "target_path": "skills/loop-topic-picker/evals/releases/pre-repair-review.md",
+      "sha256": "01e7a35f12da596ceae6bd31661b87158f83f8083fb74c05cd13ed72df36ea9c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "examples/fullloop-gate-to-picks.md",
+      "target_path": "skills/loop-topic-picker/examples/fullloop-gate-to-picks.md",
+      "sha256": "b4d08fcc38d9c7a5da5cda377e88a4e9c54c97c0e119b799264eed8a47dec0b8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/quickscore-dedup-eliminate.md",
+      "target_path": "skills/loop-topic-picker/examples/quickscore-dedup-eliminate.md",
+      "sha256": "36e472fcb3a00e8ea4c1c0243cf1f4230c289bb127644c749ea89e14c0ea8287",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/unverified-hotness-refill.md",
+      "target_path": "skills/loop-topic-picker/examples/unverified-hotness-refill.md",
+      "sha256": "db411b94654e4549295f24bed706b45af1b2269df66fd567296fea7e58dfe7fc",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/angle-playbook.md",
+      "target_path": "skills/loop-topic-picker/references/angle-playbook.md",
+      "sha256": "1afc878d28bea38043d145bb7b40c9ee29b7858e0c36a0f5c8fe8d8c7552976e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/evidence-notes.md",
+      "target_path": "skills/loop-topic-picker/references/evidence-notes.md",
+      "sha256": "18a9ea41eb594c16232b878d1da2e2a28076c8968ccbfd49d8d82e0d58ad3689",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/hotness-check-guide.md",
+      "target_path": "skills/loop-topic-picker/references/hotness-check-guide.md",
+      "sha256": "f49008aa54206bb36455147e4ad426a35c7ab930894e9768024ae4aa24eb7f56",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/persona-gate-guide.md",
+      "target_path": "skills/loop-topic-picker/references/persona-gate-guide.md",
+      "sha256": "9fca9a812a9c387e457e05340a2f01a882b33731a339934bba32921a1119fedf",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/topic-brief-spec.md",
+      "target_path": "skills/loop-topic-picker/references/topic-brief-spec.md",
+      "sha256": "c277c7d9e17f40cb779ae28276abc088b24a447a7b6febe1e20b8c0dc7c6d759",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/topic-rubric.md",
+      "target_path": "skills/loop-topic-picker/references/topic-rubric.md",
+      "sha256": "797a4b4db2caf6b95327a793bdc5f26dae260a8b7b0c0037df71b77bfc7bbb86",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-topic-picker-v0.4.1.zip",
+      "sha256": "c769dbb7f968f45f34ffacf8c081138b367f1070283ec8d1db2f6c81b8992cb1",
+      "runtime_files_compared": 13,
+      "runtime_mismatches": [],
+      "asset_files": 78
+    },
+    {
+      "asset": "loop-topic-picker-v0.4.1.zip.sha256",
+      "sha256": "d34322d7506df222746e81ee836e2d7f4deb06ff8a663cafa8ecf69c19984a35",
+      "kind": "receipt_or_checksum"
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-20",
+  "runtime_skill_sha256": "cfbe223a6c052c438d458d87cfb8fe32351dd81bca509753860f1a3e1133820a",
+  "runtime_files_sha256": {
+    "SKILL.md": "cfbe223a6c052c438d458d87cfb8fe32351dd81bca509753860f1a3e1133820a",
+    "references/diagnosis-dimensions.md": "2e987d7f39e2be810eb27c3b65c357806193cfc10c5be0be7a042e016711350a",
+    "references/platform-shipinhao.md": "4294e44911311fc4cf92e3245a9c74133c4571c07629292d7730ac723f647fba",
+    "references/platform-xhs.md": "406c20876789ae7a837fc106911d53896ee1fa2c01c15f3f1f1342a22cc61ad7",
+    "references/audit-rubric.md": "557d3166adac0a8571ad77ebdcd91cb74511d63b710429367ae20555dc5de457",
+    "references/improvement-rules-standard.md": "1d5421e1e18a18db4eec34c210fa133690e5c31b1e476f3c3cc7b5256eef1f31",
+    "references/platform-douyin.md": "a828a3a48d6a8e40a8e388b5f5721235004a6ab33f3ca15f0fa3cdd7db288265",
+    "references/platform-bilibili.md": "0898ddcda89ae5f375019632c412cba4a25f961589cf82ea7369c44777067358",
+    "references/attribution-honesty.md": "ac6fe2caf4d6a7e1cb1f928a6d5784ac267c84f720f906977f63ca42f08c1755"
+  },
+  "environment": {
+    "cli": "codex-cli 0.155.1",
+    "configured_default_model": "gpt-5.6-sol",
+    "configured_reasoning_effort": "xhigh",
+    "model_override": false,
+    "scope": "project-only candidate runtime; read-only host",
+    "network": "forbidden within evaluated task",
+    "limitations": "Host read-only restriction contributes to write containment; does not prove Skill-only containment."
+  },
+  "cases": [
+    {
+      "case": "anchor-attribution-positive-graded",
+      "exit_code": 0,
+      "elapsed_seconds": 136.6,
+      "output_exists": true,
+      "maintainer_verdict": "FAIL",
+      "input_sha256": "8ab08856ddca9aa57e0a837bcf83d1dc5ca37f98342c27b30bc3c605924cffb7",
+      "original_output_sha256": "6a6f20cc5bcadb3b093ecf0fc7c2c38ef470a81526b46c42d805a03c5ca3fa1b",
+      "public_output_sha256": "e20ad4583370dc7024d1d7372e7d503d82fb84521d77e2947814d2ed46bde32e",
+      "redaction": "Absolute temporary project root replaced by [review-project]. No other output edits."
+    },
+    {
+      "case": "mode-batch-small-sample",
+      "exit_code": 0,
+      "elapsed_seconds": 155.2,
+      "output_exists": true,
+      "maintainer_verdict": "FAIL",
+      "input_sha256": "b8a255b47ca02c6ed6a5b34aada7978592f5873eeb72e3a0cce664acdd705951",
+      "original_output_sha256": "19c8739797697f449cbf14b0aee6e8222bb22bbd8fdfe7f4f4a590dadb33f70b",
+      "public_output_sha256": "2f629c0334b6f9e7fdca7374053a67ec755ac0a03b14825beb91a6cab430f3a1",
+      "redaction": "Absolute temporary project root replaced by [review-project]. No other output edits."
+    }
+  ]
+}

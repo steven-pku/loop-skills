@@ -1,0 +1,11 @@
+**仅凭“播放 800”，还不能判断是不是脚本写得不行。** 目前也没有口播稿，无法评价文本质量。
+
+这属于发布后效果复盘，应转给 **`loop-content-audit`**。你指定的 [SKILL.md](.agents/skills/loop-script-writer/SKILL.md) 在 Scope Gate 要求：“For these out-of-scope requests, name the destination and stop without drafting.” 本项目未找到该复盘技能，因此当前停在这里，不做未经证据支持的归因。
+
+对应复盘需要已发布视频或完整脚本、发布平台与时间、留存及互动数据、历史表现作为对照。如果单独检查脚本文本，则需要完整口播稿；文本诊断不能直接解释这次播放量。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+
+Scope Gate 要求在读取写作协议前停止，因此未读取后续 references。

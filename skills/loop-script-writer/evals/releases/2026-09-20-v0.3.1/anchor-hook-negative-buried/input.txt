@@ -1,0 +1,5 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 的 QA Only 模式看这条 60 秒抖音口播的开头(先只看钩子):
+「大家好,我是老王,做剪辑八年了。今天想跟大家聊一个话题,就是很多新手朋友经常会问我的:
+剪辑软件到底应该怎么选。这个问题其实挺复杂的,我们先从头说起。市面上的剪辑软件大概分三类……」

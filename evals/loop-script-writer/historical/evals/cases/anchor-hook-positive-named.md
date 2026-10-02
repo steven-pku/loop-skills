@@ -1,0 +1,24 @@
+# anchor-hook-positive-named
+
+Anchor pair A（正例）。配对：`anchor-hook-negative-buried`。
+
+## Input
+
+```text
+用 loop-script-writer 的 QA Only 模式看这条 60 秒抖音口播的开头(先只看钩子):
+「剪辑软件选错了,你前两年白干——这不是吓你,是我自己的账。
+八年前我从最贵的那款学起,结果接的单子根本用不上它。
+今天 60 秒,告诉你怎么按接单类型倒推选软件。」
+```
+
+## Expected behavior
+
+- Hook Gate 通过:第 1 句损失/冲突钩(可命名:冲突/对比 + 痛点),第 2 句个人账本背书(F1 体验),第 3 句利益承诺 + 时长预期
+- 钩子类型被明确命名(七类中的对应项)
+- 承诺-兑现链启动:「按接单类型倒推选软件」被标记为待兑现承诺,提示 Ship Check 复查
+- Hook 强度高分档(22-25)
+
+## Pass criteria
+
+- 与负例分差 >= 25(Hook 维度)
+- 承诺被登记为兑现点检查项

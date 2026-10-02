@@ -1,0 +1,8 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 的 QA Only 模式诊断这条 60 秒(快节奏 300 字/分)口播稿:
+「随着人工智能技术的不断发展,内容创作领域正在经历深刻的变革。值得注意的是,越来越多的创作者
+开始借助 AI 工具进行辅助创作。首先,AI 能够显著提升脚本撰写的效率;其次,在素材整理方面,
+其表现同样可圈可点;最后,通过数据分析能力,创作者可以更好地把握受众偏好。然而,我们也应当
+清醒地认识到,过度依赖 AI 可能导致内容同质化。综上所述,如何在效率与独特性之间取得平衡,
+是每一位创作者需要思考的命题。那么你是怎么看待这个问题的呢?欢迎在评论区留言讨论。」

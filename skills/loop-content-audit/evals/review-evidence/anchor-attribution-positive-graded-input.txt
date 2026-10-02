@@ -1,0 +1,8 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md. Read actual runtime references as needed. This is an isolated synthetic evaluation, not a request concerning an actual person or organization. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, execute external actions, or use the network. When real-world facts require verification, clearly state that verification is unavailable here. Produce the normal user-visible response to the following request, then list the actual runtime paths read.
+
+用 loop-content-audit 审这份复盘报告(抖音,数据真实,后台截图):
+「1.[B] 5s 完播 38% vs 基线 52%(-14pp,截图):开头留人显著弱于自身水平——开头 6 秒
+是品牌 logo 动画,内容 12 秒才出现;2.[A] 完播率是官方明示的衡量指标之一(巨量引擎 FAQ),
+本条完播 15% vs 基线 30%,全链路弱;3.[D] 标题未含账号历史高流量词『面试』〔待验证〕
+→ 回归钩子:下条标题回归词族,看搜索流量占比;4. 改进:删 logo 动画直接开场(脚本层,
+预期 5s 完播回基线),下条测标题词族(本层)。」

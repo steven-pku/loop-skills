@@ -1,0 +1,6 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 的 QA Only 模式看这条 60 秒抖音口播的开头(先只看钩子):
+「剪辑软件选错了,你前两年白干——这不是吓你,是我自己的账。
+八年前我从最贵的那款学起,结果接的单子根本用不上它。
+今天 60 秒,告诉你怎么按接单类型倒推选软件。」

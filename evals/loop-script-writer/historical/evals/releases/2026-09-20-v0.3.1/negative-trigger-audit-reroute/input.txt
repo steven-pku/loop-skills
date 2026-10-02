@@ -1,0 +1,4 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 分析下我上周发的口播视频为什么数据这么差,
+播放才 800,是不是脚本写得不行?帮我复盘一下。

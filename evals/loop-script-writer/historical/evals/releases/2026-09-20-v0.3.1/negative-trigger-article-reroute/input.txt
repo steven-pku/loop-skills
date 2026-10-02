@@ -1,0 +1,4 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 帮我写一篇 3000 字的公众号文章,主题是「AI 时代普通人的技能焦虑」,
+要有观点有案例,结尾引导关注。

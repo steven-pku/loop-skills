@@ -1,0 +1,5 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md. Read actual runtime references as needed. This is an isolated synthetic evaluation, not a request concerning an actual person or organization. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, execute external actions, or use the network. When real-world facts require verification, clearly state that verification is unavailable here. Produce the normal user-visible response to the following request, then list the actual runtime paths read.
+
+用 loop-content-audit 批量复盘我近 4 条 B站视频(数据截图齐):
+①知识类 播放 8 万(爆了) ②知识类 播放 3000 ③生活类 播放 5000 ④知识类 播放 4000。
+结论我大概有了:知识类才是我的方向(①证明了),生活类别做了(③不行)。你确认下就行。

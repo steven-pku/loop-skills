@@ -1,0 +1,5 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 的时长压缩,把这条 3 分钟 B站口播(约 780 字,含钩子、
+4 个技巧点各带案例、结尾 CTA)压成 60 秒抖音版(标准语速)。
+[附完整 3 分钟稿:钩子为反常识型;技巧 1 最强(带前后数据对比);技巧 2-3 中等;技巧 4 最弱]

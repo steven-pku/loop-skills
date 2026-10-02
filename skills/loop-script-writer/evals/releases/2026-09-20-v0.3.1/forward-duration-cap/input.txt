@@ -1,0 +1,31 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+QA Only，不改稿。我的实测语速300字每分钟，目标60秒。请完整诊断下面的稿子，列语言与时长依据：
+L1 不买相机，一部手机也能剪出电影感
+L2 今天这条视频，我把三个关键设置一次讲完
+L3 学会了，你发的视频质感直接上一个台阶
+L4 首先我们需要打开相机的专业模式
+L5 把分辨率调到 4K，帧率选 30
+L6 现在的新款手机基本都支持 4K 拍摄
+L7 如果你的手机不支持也不用担心
+L8 高清档拍好了同样能看
+L9 第二个设置是网格线，构图全靠它
+L10 拍的时候把主体放在交叉点上
+L11 画面立刻就稳了
+L12 值得注意的是，光线比参数更重要
+L13 白天靠窗拍，晚上开一盏台灯就够
+L14 第三个设置在剪辑软件里
+L15 剪辑软件用手机自带的就行
+L16 很多人拍完发现画面发灰
+L17 这个其实是正常现象
+L18 别急着删素材，问题出在调色
+L19 调色不要用滤镜，用曲线
+L20 把高光稍微压下来，阴影提一点
+L21 电影感的秘密其实就是低对比
+L22 然后再把饱和度降百分之十
+L23 你可以先拿一段旧素材练手
+L24 剪完对比一下，效果一目了然
+L25 这三个设置我自己每天都在用
+L26 新手照着做就能少走弯路
+L27 综上所述，参数、构图、调色三步走
+L28 觉得有用的话，记得关注我

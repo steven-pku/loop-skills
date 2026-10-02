@@ -1,0 +1,9 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-script-writer 的 QA Only 模式诊断这条 60 秒(标准 260 字/分)口播稿:
+「AI 写脚本,快是真快。但你发现没——写出来全一个味儿。
+我上个月测了 4 款工具,同一个选题,出来的开头能一模一样。
+(停半拍)问题不在工具,在你喂给它的东西。
+你只给选题,它就给你平均值。你给它你自己的案例、你的口头禅、你踩过的坑,
+它才能写出像你的稿子。
+我把测试记录整理成了一页对照表,评论区扣『对照表』发你。」

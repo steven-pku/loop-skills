@@ -1,0 +1,5 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+我收到一份抖音复盘，请用 loop-content-audit 帮我审查。我不知道其中数字是不是后台抄录、估算还是示例，也没有截图可提供。请先完成目前能完成的部分。
+报告原文：“我拿到了真实后台。当前视频播放 8000、点赞 90，另一条播放 10000、点赞 150；当前 72 小时，另一条统计窗口没有记录。标题不够煽动，所以当前失败。改进办法是让标题更狠，预期播放十倍。可以保证这是官方推荐机制。”
+附注：报告末尾只贴了一个平台首页链接，没有引用规则正文。

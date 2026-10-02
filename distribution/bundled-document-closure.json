@@ -1,0 +1,15 @@
+{
+  "added_original_documents": {
+    "loop-article-writer": 0,
+    "loop-content-audit": 9,
+    "loop-decision": 63,
+    "loop-interview-writer": 0,
+    "loop-negotiation": 12,
+    "loop-report-writer": 0,
+    "loop-resume-writer": 12,
+    "loop-script-writer": 43,
+    "loop-topic-picker": 4
+  },
+  "original_unresolved_links": [],
+  "status": "PASS"
+}

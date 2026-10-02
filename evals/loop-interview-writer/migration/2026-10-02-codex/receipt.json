@@ -1,0 +1,24 @@
+{
+  "id": "single-loop-interview-writer",
+  "execution_status": "EXECUTED",
+  "returncode": 0,
+  "seconds": 76.71,
+  "expected": [
+    "loop-interview-writer"
+  ],
+  "observed_explicit_instruction_reads": [
+    "loop-interview-writer"
+  ],
+  "observed_resource_products": [
+    "loop-interview-writer"
+  ],
+  "answer_sha256": "8e950cd29a6805249548c91ae608ab5782d596659cc5be29683c3085fcf17833",
+  "semantic_verdict": "PENDING_REVIEW",
+  "host": "codex-cli 0.159.3",
+  "model": "gpt-6.1-sol",
+  "native_scope": ".agents/skills project directory; fresh ephemeral session; read-only",
+  "input_class": "synthetic",
+  "package_set": "tested-package-manifest.json from first build",
+  "final_package_verdict": "NOT_RUN_FINAL_PACKAGE",
+  "qualification": "Instructions and core resource bytes match fixed original source. Final packaging subsequently added unchanged historical document link dependencies and changed package README; final asset has not received a new native model run."
+}

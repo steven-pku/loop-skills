@@ -1,0 +1,3 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用QA Only，只检查这段开头的事实与可念状态，不改稿：“观众划走，肯定就是你没讲好前三秒。增加更新频率是唯一有用的办法。等发够三十条再买设备，绝对不会亏。”我没有后台数据或相关研究，也没有做过这个实验，但愿意接受风险，准备今天就念出去。

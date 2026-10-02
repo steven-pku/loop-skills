@@ -1,0 +1,8 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用 loop-content-audit 复盘我刚发布的 A，给完整诊断。我下面逐项抄录自本人抖音后台；没有发送原图，名称已匿名化。四条均为 60 秒自然流量知识口播，发布后恰好 72 小时取数，没有投流或平台通知，同一版本后台、同字段分母与统计口径。5 秒字段、完播字段按后台显示抄录，未取得其公开公式。账号固定讲书桌整理。
+A｜周三 19:00｜标题：我的书桌整理经验｜开头：8 秒自我介绍与预告｜播放 8000｜点赞 80｜收藏 64｜评论 16｜5 秒字段 40%｜完播字段 20%｜搜索来源 8%｜非粉观看 70%。
+历史 B｜周三 19:00｜标题：三步理清桌面｜开头：直接展示凌乱桌面与结果｜播放 10000｜点赞 100｜收藏 100｜评论 20｜5 秒字段 50%｜完播字段 30%｜搜索来源 10%｜非粉观看 72%。
+历史 C｜周三 19:00｜标题：文具分类清单｜开头：展示分类清单｜播放 12000｜点赞 120｜收藏 120｜评论 24｜5 秒字段 52%｜完播字段 32%｜搜索来源 9%｜非粉观看 71%。
+历史 D｜周三 19:00｜标题：三种文件归位法｜开头：先演示找文件｜播放 8000｜点赞 80｜收藏 80｜评论 16｜5 秒字段 48%｜完播字段 28%｜搜索来源 11%｜非粉观看 69%。
+四条中段都讲三个步骤，结尾都问观众最难整理什么。A 评论抽样两条：“能给标签清单吗”“收纳盒尺寸是多少”；其他评论未整理。没有留存曲线，没做随机实验。我想知道哪些地方值得下一条测试。

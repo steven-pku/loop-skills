@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "version_source": "SKILL.md metadata.version",
+  "skills": [
+    {
+      "name": "loop-article-writer",
+      "version": "0.3.0",
+      "description": "中文观点长文 QA-loop 写作与改稿。公众号/小红书适用；评分硬门、去 AI 腔、事实分级；不做选题、口播稿与检测器规避。",
+      "path": "skills/loop-article-writer",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "0d4f0f93ad1ff9c9e628e20577ec37ec5fa8d6b0b55d7dac168d949a966c3880",
+      "source_repository": "steven-pku/loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "source_tag": "v0.3.0"
+    },
+    {
+      "name": "loop-content-audit",
+      "version": "0.3.1",
+      "description": "发布后内容数据复盘与复盘报告审查：真实表现归因只用用户提供的可用后台数据，合成材料仅作算术或报告文字审查。诊断单条或近 10 条内容，按 A 一手来源、B 用户数据、C 从业共识、D 待验证假设分级，产出不超过 5 条改进规则与回归钩子；无数据可做内容质检。适用于抖音、视频号、B站、小红书。不用于选题、写稿、职场或决策复盘、投放、抓取或账号操作。",
+      "path": "skills/loop-content-audit",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "6504a161fc472c69e55acb30d40852b70197c7d4b60af8a2c4ab2884be08cef8",
+      "source_repository": "steven-pku/loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "source_tag": "v0.3.1"
+    },
+    {
+      "name": "loop-decision",
+      "version": "0.3.1",
+      "description": "把重要决策变成可复盘闭环：先做可逆性分流，可逆小事简短放行；难逆取舍再做真选项、证据分级、premortem、红队、止损位与决策备忘录。复盘先看过程；结果已知则标注污染。适用于 offer、跳槽、大额购买、技术选型、合作与投资；不用于谈判话术、汇报写作、医疗／精神科用药决定、心理危机或紧急情况。",
+      "path": "skills/loop-decision",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "8de8ce600211e0b2a14ea45563ec44e6401fbddbf559717c5fb3526349c50a09",
+      "source_repository": "steven-pku/loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "source_tag": "v0.3.1"
+    },
+    {
+      "name": "loop-interview-writer",
+      "version": "0.2.3",
+      "description": "中文面试准备的 QA-loop：事实账本、自我介绍、STAR 故事、HR 非故事题、反问与模拟追问；支持面试官出题。定量、具体定性及真实失败均保留来源。简历转 loop-resume-writer；不做算法／白板／系统设计题解或 offer 议价，谈薪转 loop-negotiation，期望薪资 holding 仍可准备。",
+      "path": "skills/loop-interview-writer",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "7ea53cbf4c8f7bf692893b1e360c4f0d2452f31111c37821c0aa88c945e2fa12",
+      "source_repository": "steven-pku/loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "source_tag": "v0.2.3"
+    },
+    {
+      "name": "loop-negotiation",
+      "version": "0.4.2",
+      "description": "中文谈薪与职场关键对话准备：先核 BATNA 和底线，再做 Brief、话术卡、评分及受约束模拟。适用于录用意向已明确的 offer 议价、在职加薪、重要拒绝、离职与坏消息谈话；市场事实待核不编造。不用于技法百科、现场代打、模拟面试、offer 前薪资摸底、是否跳槽的决策、合同法律审查或日常措辞润色。",
+      "path": "skills/loop-negotiation",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "6ecf866136c9c32236d0e0890915ec5595a8d385f4fc0a86c0a111932469e6fc",
+      "source_repository": "steven-pku/loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "source_tag": "v0.4.2"
+    },
+    {
+      "name": "loop-report-writer",
+      "version": "0.3.1",
+      "description": "中文职场汇报 QA 闭环：写周报、月报、述职、晋升答辩、工作总结、OKR／项目复盘汇报，或诊断评分、把流水账改成成果。先问价值，再建成果账本；缺数据追问，有依据的推算须标注。Chinese workplace reports and performance self-reviews. Not for：平台提交、PPT 排版、公文、简历、面试、观点长文、生活／系统复盘、OKR 目标设定、谈薪对话或决策判断。",
+      "path": "skills/loop-report-writer",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "9fda5a1f9f997a04a5dd025b49c3da75cc1de12a8ba10115b2084434b18b6cc4",
+      "source_repository": "steven-pku/loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "source_tag": "v0.3.1"
+    },
+    {
+      "name": "loop-resume-writer",
+      "version": "0.3.4",
+      "description": "中文简历与求职信的 QA-loop：目标岗位分流、事实账本、JD 匹配、成就改写、诊断打分、一页压缩与平台版整理；支持招聘侧简历审阅。只优化真实经历的表达，不补造数字。面试准备转 loop-interview-writer，述职转 loop-report-writer；不做英文 ATS 简历或 LinkedIn。",
+      "path": "skills/loop-resume-writer",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "75221d86963a42fb2ad55dd93ce1a7f4ebc7eea3bb75ace9b36ea896888f3f63",
+      "source_repository": "steven-pku/loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "source_tag": "v0.3.4"
+    },
+    {
+      "name": "loop-script-writer",
+      "version": "0.3.1",
+      "description": "把中文口播脚本从文章腔改到能开口念：前 3 句 Hook Gate、朗读时长模拟、六维评分与最多两轮改写。用于抖音/视频号/B站/小红书视频的口播稿、提词稿、现稿诊断、文章改口播和时长压缩。Do not use for 图文长文（→ loop-article-writer）、选题（→ loop-topic-picker）、发布后复盘（→ loop-content-audit）、直播话术、分镜或发布操作。",
+      "path": "skills/loop-script-writer",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "bd23d90748ce8b7bd518daa96e6e45574b424443c97b087d3923686ab0f1d0be",
+      "source_repository": "steven-pku/loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "source_tag": "v0.3.1"
+    },
+    {
+      "name": "loop-topic-picker",
+      "version": "0.4.1",
+      "description": "中文选题决策 QA-loop：人设 Gate、选题池、评分淘汰与完整 Topic Brief。用于今天发什么、本周选题、热点追不追、现成清单排序、单题切入角度；区分事件存在与热度证据，无数据不编热度或先例。不用于正文写作（loop-script-writer／loop-article-writer）、发布后归因（loop-content-audit）、完整账号定位或热榜抓取。",
+      "path": "skills/loop-topic-picker",
+      "packaging_revision": 1,
+      "runtime_manifest_sha256": "7dab3f9c3a82bde631bfe631a29773139dac63930fbc684e8fb5423596b19ae0",
+      "source_repository": "steven-pku/loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "source_tag": "v0.4.1"
+    }
+  ]
+}

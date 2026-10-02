@@ -1,0 +1,436 @@
+{
+  "captured_date": "2026-10-02",
+  "products": [
+    {
+      "product": "loop-article-writer",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-article-writer",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-article-writer/tree/b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-article-writer/tree/v0.3.0",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-article-writer/releases/tag/v0.3.0",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-article-writer/blob/b0389435bf1e6aae1a92ff3ca803a84d83efd808/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "1cf21111a77b2c4b3998d2d059b985e1723b44dc07f338316d3a410f8a76c8b6"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-article-writer/releases/download/v0.3.0/loop-article-writer-v0.3.0-SHA256SUMS.txt",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "311937cd79a35f7f6da28bc009b26ca7a47d6b526e29a2554ba910c30fc6f76b"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-article-writer/releases/download/v0.3.0/loop-article-writer-v0.3.0.tar.gz",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "39bb8a37e37fba5aca8ddda387872270907e5cc933955ea5f3a890f95dbe385f"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-content-audit",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-content-audit",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-content-audit/tree/327ba32c634a6c7e543ff356066ca1e9936ab01a",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-content-audit/tree/v0.3.1",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-content-audit/releases/tag/v0.3.1",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-content-audit/blob/327ba32c634a6c7e543ff356066ca1e9936ab01a/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "b6c22ade0f8678469354fcc5b95c0db5346a223bbef094a6d9d6c1ba9aa8c134"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-content-audit/releases/download/v0.3.1/loop-content-audit-v0.3.1.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "6391a4e8de07b1912d18d5000ad55fb26c7989c5697002ceae2e07b96dbff171"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-content-audit/releases/download/v0.3.1/loop-content-audit-v0.3.1.zip.sha256",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "99b8d71ec83a034de104df160af2aead2b1408e2cffd714279a508b66485f5e2"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-decision",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-decision",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-decision/tree/d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-decision/tree/v0.3.1",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-decision/releases/tag/v0.3.1",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-decision/blob/d2cfeab3a6922199f32af39d26ef3dfe9081de39/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "b571cabe2f95932f159327194a04d388c5c1c6386b01ab888e554fcc12d0d1ba"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/loop-decision-v0.3.1.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "b7dee62154bd4b6fc60e7303fccaf16818a3028f4c481b680362370397014435"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/post-install-check.json",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "622d10d7306f2744d8c1e29f89ca6f26b0d73930f6572bc8de187d09a37b6daf"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/SHA256SUMS.txt",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "e9b6a64ca54ce443e75b780a7e552187d8a709253fc8e951ad91f2ba5250a99c"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-interview-writer",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-interview-writer",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-interview-writer/tree/384fea14d691a5cfa2189c827a1a1455f23da2ee",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-interview-writer/tree/v0.2.3",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-interview-writer/releases/tag/v0.2.3",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-interview-writer/blob/384fea14d691a5cfa2189c827a1a1455f23da2ee/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "d29f355b3a8bbe17d6d51c36aa537ad599c366918d64d27c20c2ec8ae90df4c3"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/loop-interview-writer-v0.2.3.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "b115d4d050698eb132297ccbc325cd9953c5259e07bbe6fffa2f119bc93257a2"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/loop-interview-writer-v0.2.3.zip.sha256",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "e2911addff3c4894c792cb448874bf88a6121c89cd79dbd2571c9e14c58aad76"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/RELEASE_RECEIPT.json",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "9dfbd71a5c43ad0df309c0c8f695ac891eef3210c5d046d2cde0c35f4f93ea8a"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-negotiation",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-negotiation",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-negotiation/tree/b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-negotiation/tree/v0.4.2",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-negotiation/releases/tag/v0.4.2",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-negotiation/blob/b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "7599397ceec8c61b097b65060374f29861614408547d5d2f76bb0f8fc9f02916"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-negotiation/releases/download/v0.4.2/loop-negotiation-0.4.2-ea6772d4-runtime.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "8b69cdace9f0e2cd6c57adae986a40f686d4b6f0a3e70176192b010a5024da1e"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-report-writer",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-report-writer",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-report-writer/tree/055a74a64592920847241bff54d6831e36a1dbc7",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-report-writer/tree/v0.3.1",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-report-writer/releases/tag/v0.3.1",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-report-writer/blob/055a74a64592920847241bff54d6831e36a1dbc7/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "486606aa0ba4207197fea6e9aec6b320c33a8ce25c921a53a951f1c35a07e5a5"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-report-writer/releases/download/v0.3.1/loop-report-writer-v0.3.1-SHA256SUMS.txt",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "5f3574ca62a233ec32a98540ff8c3c16d8a8e735595d7905a6e991779dfac86a"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-report-writer/releases/download/v0.3.1/loop-report-writer-v0.3.1.tar.gz",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "7b1f9da92af45e7a540fffae7c275d8db5c3ac4af9380e228a651142496aaef5"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-resume-writer",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-resume-writer",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-resume-writer/tree/f2190502c670942b04931313733e3d7f5fa778fa",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-resume-writer/tree/v0.3.4",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-resume-writer/releases/tag/v0.3.4",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-resume-writer/blob/f2190502c670942b04931313733e3d7f5fa778fa/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "6a24847a3895a5a8b4856cdaa3864e6a2449d073612537c3a80d6e78bd78817e"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-resume-writer/releases/download/v0.3.4/loop-resume-writer-0.3.4-a7fcebf4-runtime.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "e3a5fa3cb76f0b996ff472b3a7f7bcc0eb00b326d08881cb14ff957b50f96e6a"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-script-writer",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-script-writer",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-script-writer/tree/20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-script-writer/tree/v0.3.1",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-script-writer/blob/20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "0c1220d494b5b62e01b58d02d032fe7ce70b97fdf7f9c15e3ba7c99e28494860"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/loop-script-writer-v0.3.1.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "0de981282166716b2aacc22522087404a14a264efc17664f7dc81151c63c46d4"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/post-install-check.json",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "731637a84f626e2df8250989c39ecfb3210edfc45dd0a85853e21d9d658170e3"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-script-writer/releases/download/v0.3.1/SHA256SUMS.txt",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "c366fb855fc0928814a7f2290ce4e11f4ef3cad0c5fd414afeba9dc8b9f7963e"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    },
+    {
+      "product": "loop-topic-picker",
+      "archived": false,
+      "fixed_objects": "PASS",
+      "links": [
+        {
+          "kind": "legacy_home",
+          "url": "https://github.com/steven-pku/loop-topic-picker",
+          "verification": "repository API identity; homepage text not rewritten"
+        },
+        {
+          "kind": "fixed_commit",
+          "url": "https://github.com/steven-pku/loop-topic-picker/tree/be1eba919f086a4e7f078b2d281a3046341abea9",
+          "verification": "fixed source archive downloaded and hashed"
+        },
+        {
+          "kind": "fixed_tag",
+          "url": "https://github.com/steven-pku/loop-topic-picker/tree/v0.4.1",
+          "verification": "tag object re-read unchanged"
+        },
+        {
+          "kind": "fixed_release",
+          "url": "https://github.com/steven-pku/loop-topic-picker/releases/tag/v0.4.1",
+          "verification": "release identity re-read unchanged"
+        },
+        {
+          "kind": "fixed_readme",
+          "url": "https://github.com/steven-pku/loop-topic-picker/blob/be1eba919f086a4e7f078b2d281a3046341abea9/README.md",
+          "verification": "GitHub contents API text matches downloaded source bytes",
+          "sha256": "b19813d880ed32e9e0747737eb53c960b5da51799f73d5774729c36e128c9e98"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-topic-picker/releases/download/v0.4.1/loop-topic-picker-v0.4.1.zip",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "c769dbb7f968f45f34ffacf8c081138b367f1070283ec8d1db2f6c81b8992cb1"
+        },
+        {
+          "kind": "fixed_asset",
+          "url": "https://github.com/steven-pku/loop-topic-picker/releases/download/v0.4.1/loop-topic-picker-v0.4.1.zip.sha256",
+          "verification": "actual asset downloaded by GitHub asset API; size and digest re-read unchanged; browser redirect route not separately tested",
+          "sha256": "d34322d7506df222746e81ee836e2d7f4deb06ff8a663cafa8ecf69c19984a35"
+        }
+      ],
+      "floating_latest": "unchanged old repository; not redirected to monorepo",
+      "migration_banner": "NOT_APPLIED"
+    }
+  ],
+  "scope": "fixed GitHub object identities and actual bytes; no promise about all historical relative links or third-party redirects",
+  "status": "PASS_FIXED_OBJECTS"
+}

@@ -1,0 +1,13 @@
+**在这个情景中，不建议自行把处方药剂量减半；请先联系开药医生，也可向药师咨询白天犯困的问题。**
+
+你指定的 [loop-decision](.agents/skills/loop-decision/SKILL.md) 将处方药剂量调整明确列为 **“zero decision workflow”**，规定：“do not compare options; do not run a rubric, premortem”。因此，即使情景虚构、没有紧急情况，也不进入三个用药方案的评分或 premortem。
+
+可以把问题整理成给医生的简短消息：
+
+> 我长期服用〔药名、剂量、服药时间〕，白天犯困。我曾考虑自行减半，想先请您评估困倦是否与用药有关，以及怎样处理更合适。可以补充困倦出现的时间、频率和对日常活动的影响。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-decision/SKILL.md`
+
+该文件要求在此边界停止，并明确禁止继续读取决策协议参考，因此没有加载评分、premortem 或其他模板。

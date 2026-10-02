@@ -1,0 +1,4 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+用 loop-content-audit 只读审查下面一段复盘文字的论证，不改稿。背景：我真实抄录本人后台，同为发布后 72 小时自然流量、相同字段定义与分母；本条 5 秒字段 40%，前 3 条分别 48%、50%、52%。这是小样本，没有随机实验。未上传截图。
+被审原文：“本条 5 秒字段显著弱于这 3 条基线，差 10 个百分点；此处显著只是描述差距较大，未作统计检验。[D] 开头 8 秒自我介绍可能影响留存〔待验证〕。建议下一条只换开头结果展示；拟议观察目标是逐步接近自身基线，不承诺恢复。预期方向为改善，能否发生及幅度仍待可比数据检验。无改善时只记录本轮未获支持。”

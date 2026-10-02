@@ -1,0 +1,49 @@
+结论：**不能确认“知识类已证明是方向、生活类应该停”**。
+
+更准确的判断是：知识类出现过一条 8 万播放的高潜样本，值得优先复测；但另外两条知识类只有 3000、4000，而生活类为 5000。单条爆款不能证明品类因果，单条生活内容也不足以淘汰整个品类。
+
+### 数据门槛与口径
+
+- [B] 当前可用数据：知识类 `8万 / 3000 / 4000`，生活类 `5000`。
+- 来源状态：**用户转录，未独立核验**。你提到截图齐全，但截图本身未出现在我当前可读上下文。
+- 观测窗口、发布后的内容年龄和分发阶段未知，因此不能把播放量高低直接解释为内容优劣。
+- 仅作算术描述：知识类中位数为 `4000`；生活类只有一个样本 `5000`。若四条口径与窗口相同，生活类的原始播放数还高于两条知识类，因此“③不行”并未被这组数字支持。
+
+### 归因判断
+
+**数据支持**
+
+- [B] 知识类确实产生过一条 8 万播放样本，说明这个账号在知识类上出现过高上限。
+- [B] 知识类内部波动很大：从 3000 到 8 万，尚未形成稳定表现。
+- [B] 生活类只有一个样本，无法形成品类趋势。
+
+**假设待验证**
+
+- [D] “知识类导致①爆发”：可能成立，但也可能是具体选题、标题封面、开头、流量来源或其他单条因素造成。
+- [D] “生活类天然不适合账号”：当前没有支持，且 `n=1`。
+- [D] “以后只做知识类”：证据不足。最多可改成“知识类优先测试，生活类暂不判停”。
+
+这里同时命中了幸存者偏差、post hoc、小样本和均值回归风险；8 万这个异常高值还需要先做 Twyman 检查，确认四条是否为相同观察窗口与分发阶段。
+
+六维中，钩子、完读结构、互动设计、标签与搜索、发布时机、人设一致性都缺少对应数据，本轮不强行归因。尤其没有留存曲线，就不能判断开头或中段流失。
+
+### 下一轮测试规则
+
+- **[选题层]** 接下来做一组至少 `3 条知识类 + 3 条生活类` 的交替测试，尽量固定视频形态、时长区间、制作水平和发布时间，并统一记录发布后 24 小时及 7 天的数据。
+- 观察同窗口下两类内容的播放中位数，并结合后台实际可见的来源、留存和互动指标。
+- 如果知识类在多条可比样本中持续更强，才增强“知识类是主方向”的支持；如果两类重叠明显或生活类并不更弱，该假设就减弱。单轮结果仍不等于最终证明。
+
+因此，这次我的确认意见是：**知识类可以优先，但尚未证明；生活类暂时不该停。**
+
+本环境禁止联网，所以没有核验任何当前 B站算法或平台规则，本结论也不依赖此类说法。
+
+诊断 QA：`94/100，Pass，QA loop 1/2`；没有无数据强归因、虚构行业基准或证据等级冒充。
+
+### 实际读取的运行时路径
+
+- [SKILL.md]([review-project]/.agents/skills/loop-content-audit/SKILL.md)
+- [attribution-honesty.md]([review-project]/.agents/skills/loop-content-audit/references/attribution-honesty.md)
+- [platform-bilibili.md]([review-project]/.agents/skills/loop-content-audit/references/platform-bilibili.md)
+- [diagnosis-dimensions.md]([review-project]/.agents/skills/loop-content-audit/references/diagnosis-dimensions.md)
+- [improvement-rules-standard.md]([review-project]/.agents/skills/loop-content-audit/references/improvement-rules-standard.md)
+- [audit-rubric.md]([review-project]/.agents/skills/loop-content-audit/references/audit-rubric.md)

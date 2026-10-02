@@ -1,0 +1,3 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请写一条60秒、300字每分钟的中文口播，面向第一次整理旅行照片的人。只讲一个实操：把一小批照片复制到另一个文件夹，逐个打开几张检查，再给文件夹起能看懂的名字。要有两列口播与画面提示，开头能抓住人，结尾一个动作。素材仅这些步骤，没有我的真实经历、测试数据或成功率。请交完整成稿并按这个skill正常检查。

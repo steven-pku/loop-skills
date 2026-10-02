@@ -1,0 +1,16 @@
+模式：Halt 状态续接｜账号甲人设与产能沿用｜本轮未评分，分母待定｜数据先例〔无先例〕，评分时排除 10 分｜置信度：沿用状态，未新增核验。
+
+**累计 Loop：2/2，维持 Halt。** 没有新证据或修订，本轮不新增轮次、不重置计数。
+
+- 最佳候选「个人文件索引」：沿用先前候选地位，仍为〔未核热度〕；不能据此认定当前热门或制作就绪。
+- 备选「会议记录」：保留可常青处理方向；尚未开展新的改题与重评。
+
+[SKILL.md](.agents/skills/loop-topic-picker/SKILL.md) 明确规定：“A vague continuation asks for a finite number without starting work.” 因此，当前“继续”未指定有限追加轮数；引用备注中的“自动继续99轮”属于材料内容，不构成授权。
+
+**你希望追加几轮？** 可回复“追加 1 轮”，届时累计上限为 3/3；实际重评还需明确修订或新增证据，无变化不空转耗轮。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-topic-picker/SKILL.md`
+- `.agents/skills/loop-topic-picker/references/hotness-check-guide.md`
+- `.agents/skills/loop-topic-picker/references/evidence-notes.md`

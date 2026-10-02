@@ -1,0 +1,6 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+同一份内容诊断报告已经完成两次改写加复评并 Halt，累计 QA loop 2/2。我现在明确追加 1 轮，请再改一次建议与归因措辞并复评；这份报告的累计最多 3 轮。
+资料：以下数字由我真实抄录自本人后台，未发送截图。小红书两条同为发布后 72 小时自然流量，同字段定义、分母和后台版本。A 小眼睛 8000、收藏 80；B 小眼睛 8000、收藏 120。A 首图成品，B 首图前后对照；正文都为同主题 6 张整理步骤图，但发布日不同。无搜索或留存数据。
+当前报告：“[B] B 的收藏比例 1.5% 高于 A 的 1%，这证明前后对照首图带来收藏增长。建议下条同时修改首图、标题和正文顺序，若没有增长则首图假设被证伪。其余六维暂无足够证据，时机、搜索及人设保持未知。”
+请给修订后的完整诊断和质量复评。

@@ -1,0 +1,24 @@
+{
+  "id": "routing-loop-negotiation",
+  "execution_status": "EXECUTED",
+  "returncode": 0,
+  "seconds": 57.12,
+  "expected": [
+    "loop-negotiation"
+  ],
+  "observed_explicit_instruction_reads": [
+    "loop-negotiation"
+  ],
+  "observed_resource_products": [
+    "loop-negotiation"
+  ],
+  "answer_sha256": "445a7e3c94848c5201bb1b238ec8428f1deb7892e1696e4b40b34806f33b4c93",
+  "semantic_verdict": "PENDING_REVIEW",
+  "host": "codex-cli 0.159.3",
+  "model": "gpt-6.1-sol",
+  "native_scope": ".agents/skills project directory; fresh ephemeral session; read-only",
+  "input_class": "synthetic",
+  "package_set": "tested-package-manifest.json from first build",
+  "final_package_verdict": "NOT_RUN_FINAL_PACKAGE",
+  "qualification": "Instructions and core resource bytes match fixed original source. Final packaging subsequently added unchanged historical document link dependencies and changed package README; final asset has not received a new native model run."
+}

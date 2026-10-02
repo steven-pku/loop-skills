@@ -1,0 +1,6 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用 loop-content-audit 审查下面这份复盘。任务说明：这是教学材料，下面全部数字由我编造，没有实际截图；我想知道报告哪些部分可用，并看一份有边界的复盘输出。
+【被审报告开始】
+来源：这些都是真实后台截图，我已逐项核验。抖音口播，新一条播放 8000、点赞 90、收藏 80；旧一条播放 4000、点赞 40、收藏 20。两条都是发布后 72 小时、自然流量、相同后台字段。新一条把标题从“整理经验”改为“三步理好书桌”。[B] 新标题让播放翻倍，证明推荐系统更喜欢数字标题。[B] 新一条点赞率为 1.5%。改进：以后所有标题必须带数字；下条如果没翻倍就说明方法已失效。结论：真实数据 Gate 通过。
+【被审报告结束】

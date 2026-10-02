@@ -1,0 +1,800 @@
+{
+  "product": "loop-decision",
+  "version": "0.3.1",
+  "repository": "steven-pku/loop-decision",
+  "tag": "v0.3.1",
+  "tag_object": {
+    "sha": "6c2435aed1ac31d1a3378b4fdb931927b09a759a",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-decision/git/tags/6c2435aed1ac31d1a3378b4fdb931927b09a759a"
+  },
+  "commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+  "release_id": 392344478,
+  "release_url": "https://github.com/steven-pku/loop-decision/releases/tag/v0.3.1",
+  "assets": [
+    {
+      "id": 576325983,
+      "name": "loop-decision-v0.3.1.zip",
+      "size": 455648,
+      "digest": "sha256:b7dee62154bd4b6fc60e7303fccaf16818a3028f4c481b680362370397014435",
+      "browser_download_url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/loop-decision-v0.3.1.zip",
+      "updated_at": "2026-09-20T07:09:43Z"
+    },
+    {
+      "id": 576325984,
+      "name": "post-install-check.json",
+      "size": 865,
+      "digest": "sha256:622d10d7306f2744d8c1e29f89ca6f26b0d73930f6572bc8de187d09a37b6daf",
+      "browser_download_url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/post-install-check.json",
+      "updated_at": "2026-09-20T07:09:43Z"
+    },
+    {
+      "id": 576325985,
+      "name": "SHA256SUMS.txt",
+      "size": 91,
+      "digest": "sha256:e9b6a64ca54ce443e75b780a7e552187d8a709253fc8e951ad91f2ba5250a99c",
+      "browser_download_url": "https://github.com/steven-pku/loop-decision/releases/download/v0.3.1/SHA256SUMS.txt",
+      "updated_at": "2026-09-20T07:09:43Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "96b03ab21904309584696a13db5f4c97c3d5fb48a134c9886a7bc9bacaf7d223",
+  "captured_at": "2026-10-02T21:46:52.173757+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-decision",
+  "runtime_manifest_sha256": "8de8ce600211e0b2a14ea45563ec44e6401fbddbf559717c5fb3526349c50a09",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "a6b3eaf5cde7a569819cf3b7325a276390bb55a253dbb7e2e4a8ede8abd4769f",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/cover.jpg",
+      "sha256": "bc028c56df23b2aa3f117f3b28046fa6e71c896a6e3a75a3cb2f7daac8c7e900",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/offer-decision-full-loop.md",
+      "sha256": "8f975dd05496cce97e4ec09e8b4ad79cf54b9eaf814fc4d398e408aae5a427cc",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/anchors-and-sources.md",
+      "sha256": "eb6d207e0520e328cfb7baca8c6af439cb29ed184d4ca33d5d413bf6e7bb0023",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/decision-brief-template.md",
+      "sha256": "501d634555b66a09bc8f7acd64e3e40c9aae474db7b7a83c8c84c537d668a5c8",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/decision-memo-template.md",
+      "sha256": "87bf822298dda346550522337e25465bbb0a9ae8b53b56dbdd6f40d844b495d2",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/decision-rubric.md",
+      "sha256": "d9419bab37afd322b2c26537108268d5cb7960694de89677605b8d88d69127b3",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/evidence-grading.md",
+      "sha256": "f7d7bfb194088d7df8a4829d41e57994ba05c8dc8d775e3a348a8d4f831c151e",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/premortem-pass.md",
+      "sha256": "be1b469434ef33561e2728c8a518a8d6978973611a60a8bcaa893898768cff97",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/red-team-pass.md",
+      "sha256": "c54e6f9b9d8608d1336e3ecd9cfdc435d8ff1a809bdda2e3043b153cf0313a67",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-decision/CHANGELOG.md",
+      "sha256": "91e377831c9bee8107377a73d421717da778d840d1738e7e85e3baa5d6bf70f9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-decision/LICENSE",
+      "sha256": "e6e7514ba6f941e42e12290d8067d17c804c2fce49d4477bab41c901ae184498",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-decision/REVIEW.md",
+      "sha256": "62776e27db26942b85c15ee7857941d8c8b41e999fd9b415237e3838e6dbe380",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-decision/SECURITY.md",
+      "sha256": "783cd072cdc6f6f7ac8e4214c1cff33cbf8c379351ebd816f532f061980587cb",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-decision/SKILL.md",
+      "sha256": "a6b3eaf5cde7a569819cf3b7325a276390bb55a253dbb7e2e4a8ede8abd4769f",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/cover.jpg",
+      "target_path": "skills/loop-decision/assets/cover.jpg",
+      "sha256": "bc028c56df23b2aa3f117f3b28046fa6e71c896a6e3a75a3cb2f7daac8c7e900",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/historical-coverage.json",
+      "target_path": "skills/loop-decision/evals/historical-coverage.json",
+      "sha256": "2b977b3458169066aad83cb24118e8e2745f8a3ec3fea12065c4f634f20b9df6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1.md",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1.md",
+      "sha256": "513dc35b64682fa61fe3fdcce5771910d571cdf118fa21c8924ce73af49f26e1",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "sha256": "e2b9e21aea8516c1380da0b4517229e67387e7229cfafbb1150d713b07a1c02d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-medication/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-medication/input.txt",
+      "sha256": "11bc2c1c961048d7cde8bb16fe8a4774efa84a52356e1df01eba00448225f5e5",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-medication/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-medication/output.txt",
+      "sha256": "a39685970e5cacf43a6e5998ea4538c512ea7404ffc7abf401ea542fba9f33e6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-retrospective/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-retrospective/input.txt",
+      "sha256": "b13377bc9fbc8f32109a84c6601c1b1da6f9047620886fa4bddad5e19a80d6f6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-retrospective/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-retrospective/output.txt",
+      "sha256": "6b782b228217781a5c25788c1e5ce333751b8ae20df0eb1fc1a6df5ccfe17e33",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-type2/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-type2/input.txt",
+      "sha256": "022bf15874ae1257c11209e8e1e1722d004616690f4d6991e9fb06c6f2c71454",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/boundary-type2/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/boundary-type2/output.txt",
+      "sha256": "a74f0968cf03b7ce9ecab6cc42a26a7891f6928bf1c6eb5cfda5bdc51ced1ed9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/brief-gate-field/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/brief-gate-field/input.txt",
+      "sha256": "9dafbf338fd17abc8017a55defe261e38160e28f1a7b633cfc36c4e5c42a5043",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/brief-gate-field/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/brief-gate-field/output.txt",
+      "sha256": "4c031c8514780ed6c266a3943feedcd7dacbe97b020e51ae98b6d00cb6da2816",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-claimed-verified-unavailable/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-claimed-verified-unavailable/input.txt",
+      "sha256": "aa25c6e2161ea0cd03a73c3ad7563942be2c03d88aee91539e982629a91a4e74",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-claimed-verified-unavailable/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-claimed-verified-unavailable/output.txt",
+      "sha256": "a75f446819b03e597964d032d9375696a7637a764fe2ecb737cbf9e4de0246e9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-effective-plan/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-effective-plan/input.txt",
+      "sha256": "857b43415441a1b609d067bbfe3c08967af483abe7c18e09612504b6765314b9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-effective-plan/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-effective-plan/output.txt",
+      "sha256": "a8a142ac0a17d1083dd568d4d40ed42499c2dbda1d0934ee4f906f4e27028254",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-vague-plan/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-vague-plan/input.txt",
+      "sha256": "9aceaca06697e8511f9e616a461d8943baad9a0e8788e7b27221fd1249701d81",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-vague-plan/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-vague-plan/output.txt",
+      "sha256": "d43a682a7c47c682142c57aa847ceb389832281a893bcbe2ff4786121c1b94fe",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-verified/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-verified/input.txt",
+      "sha256": "13baa90eea3ba12f63ed74d4b5d6fef16a0966abe2c05b4ad295afd61051a6f9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/evidence-verified/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/evidence-verified/output.txt",
+      "sha256": "7f88c1cc55c92d3c9a46b947a0a39159c2ea7d79de9f1aeb3d426a6f62531a20",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f0-genuine-preference/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f0-genuine-preference/input.txt",
+      "sha256": "298fce36fe436b8cc3380dedb21693a9eddce106c813f88a60076c74a94ec7b6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f0-genuine-preference/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f0-genuine-preference/output.txt",
+      "sha256": "e74576b0e7b0b1c8ed6e0b8b3e0d55bc3c0855b2fb46189bc790c2cf5fb1ad7f",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f2-assertion-unverified/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f2-assertion-unverified/input.txt",
+      "sha256": "676ceed442664018d6d90028ca499a2a2475632f52631ff8d7a624261e3bdc31",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f2-assertion-unverified/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f2-assertion-unverified/output.txt",
+      "sha256": "f8b9b3ab31d4aeb783fe33405ab63c54e1ad74c3797bfefd76dda8df77db71da",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f2-guess-relabel/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f2-guess-relabel/input.txt",
+      "sha256": "20332b1e940383b2ab8534d3e114b4622cd8936911598a75c185afa5c7856de7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/f2-guess-relabel/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/f2-guess-relabel/output.txt",
+      "sha256": "9bc40a0fe8dd3f713080cf80cb622887bbd74b0b7da91b5bca7c86496ca214ae",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/forward-library-platform/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/forward-library-platform/input.txt",
+      "sha256": "a6dca4135629f2a4622ee76dcd925b395dd984bda6f42f0867b2d642b94f2d1a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/forward-library-platform/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/forward-library-platform/output.txt",
+      "sha256": "8bc5be0f7b79c6711040eb64e3220e6e19d4a66490c181ebdfa5224b4113dac7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/loop-budget-continuation/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/loop-budget-continuation/input.txt",
+      "sha256": "509cfbecd7d65cc2a5e60a7d1465971a77b6781543ce8faab4a56602b1cfd121",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/loop-budget-continuation/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/loop-budget-continuation/output.txt",
+      "sha256": "27f51ab69b4bc13006934873e5b9d873cbc6bb6c249f3322e704f56d3a248043",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/no-tools-disclosure/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/no-tools-disclosure/input.txt",
+      "sha256": "d7d87c7688446e069ebd87bf0756a777ee3003323fa42d25a2f7990def4c5367",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/no-tools-disclosure/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/no-tools-disclosure/output.txt",
+      "sha256": "ed4b2e97e6d41fa3d2d25c56fb974e2fa60165f4a8eae5cc88c6fc0aafefab66",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/redteam-evidence-null/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/redteam-evidence-null/input.txt",
+      "sha256": "9d7c2da57e9c126f49602450a4cf852a9c0c80f6c2e0a39ae7a105ab1f5fc239",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/redteam-evidence-null/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/redteam-evidence-null/output.txt",
+      "sha256": "054f34875ada34d42043f0625cb88c3037364223cb3ae71a0c299d7f9c93f8d1",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/redteam-real-gap/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/redteam-real-gap/input.txt",
+      "sha256": "261fcf7d7c539fb8683019c09127c206f0ac81d09e8513a8736610521aa482f8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/redteam-real-gap/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/redteam-real-gap/output.txt",
+      "sha256": "3922dbe76f6db756df0bc31a247ac970e04f7b5b6ffc1fd17d11f8f9b25435c6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-decorative/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-decorative/input.txt",
+      "sha256": "e39e875de3f0fd946b57ef38ee314cac80f589ee99855b7959a2a637d21eb17b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-decorative/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-decorative/output.txt",
+      "sha256": "a2f998e3ff07529f93176e0ce48eddf8b7e65c3c1785abe96ee15f981038736b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-effective/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-effective/input.txt",
+      "sha256": "2d8f1c8a3652ec609b3f8f98e1bbdda60a13c09b3dc6f356c9b4a54602ee5cc6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-effective/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-effective/output.txt",
+      "sha256": "bfdb32d469f11b1729f5811e8dcffb9f1c026f45d0877f6c5d57b0312427ebee",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-incomplete-detail/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-incomplete-detail/input.txt",
+      "sha256": "a86ff254f63007d85b5a1cf29baeaf9254a1987e92074aa006cbbc5c5fdb9082",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-no-owner/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-no-owner/input.txt",
+      "sha256": "6e2af7c4b0344faa1e5d2e5dc74379216184ff25e554aacb6105cfd6ea520664",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r1/stoploss-no-owner/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r1/stoploss-no-owner/output.txt",
+      "sha256": "9cbc834af4eac61d3e2bbf3308bb32b3ea440d6701d24d15e19f897dc83311f2",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f0-genuine-preference/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f0-genuine-preference/input.txt",
+      "sha256": "298fce36fe436b8cc3380dedb21693a9eddce106c813f88a60076c74a94ec7b6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f0-genuine-preference/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f0-genuine-preference/output.txt",
+      "sha256": "eda2f89ccc898cfff2f97b759883ef7072a492deaf99966fba02182e2451ebf8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f2-assertion-unverified/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f2-assertion-unverified/input.txt",
+      "sha256": "676ceed442664018d6d90028ca499a2a2475632f52631ff8d7a624261e3bdc31",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f2-assertion-unverified/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f2-assertion-unverified/output.txt",
+      "sha256": "b815fc5627a576e451eaee25e846f07fa4c77b7d1c310110146f31b6dd4aabf7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f2-guess-relabel/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f2-guess-relabel/input.txt",
+      "sha256": "20332b1e940383b2ab8534d3e114b4622cd8936911598a75c185afa5c7856de7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/f2-guess-relabel/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/f2-guess-relabel/output.txt",
+      "sha256": "6a61d140030f50141f5b442b5a3300352fb5d4b097e46e32ec8c4900ba1fbce6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/forward-library-platform/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/forward-library-platform/input.txt",
+      "sha256": "a6dca4135629f2a4622ee76dcd925b395dd984bda6f42f0867b2d642b94f2d1a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/forward-library-platform/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/forward-library-platform/output.txt",
+      "sha256": "51fd6a362ef68f8c2595c30bd656b738c66c68088d8d98a4675dd5cee1fd685c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/no-tools-disclosure/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/no-tools-disclosure/input.txt",
+      "sha256": "d7d87c7688446e069ebd87bf0756a777ee3003323fa42d25a2f7990def4c5367",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/no-tools-disclosure/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/no-tools-disclosure/output.txt",
+      "sha256": "90d3f3bfd0bf903846e71d4afb7fafb7b8a82d15c5f73b2a126c9326ebca6c5e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-evidence-null/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-evidence-null/input.txt",
+      "sha256": "9d7c2da57e9c126f49602450a4cf852a9c0c80f6c2e0a39ae7a105ab1f5fc239",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-evidence-null/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-evidence-null/output.txt",
+      "sha256": "370db138b4a5a93f338066b8998c0d9292fa8ed3ba054681944cfabb007b64a4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-observed-strawman/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-observed-strawman/input.txt",
+      "sha256": "be68de83ee9b8635083f456b121b35a51403599500c90742fd29dae9c35691b6",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-observed-strawman/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-observed-strawman/output.txt",
+      "sha256": "9ee1442c4e6189a663161b3970ba5e8e60e7bebf5cd1939dabfe3fcea63f1670",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-real-gap/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-real-gap/input.txt",
+      "sha256": "261fcf7d7c539fb8683019c09127c206f0ac81d09e8513a8736610521aa482f8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-real-gap/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-real-gap/output.txt",
+      "sha256": "868c13039521bf7190c9cd9da93caeaa8014943b850c04c2858840d7e02c2dae",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-sham-null/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-sham-null/input.txt",
+      "sha256": "113853bbaee1e1f42a455660b63ee0dbffe60eaafcaea59f2a32091f7909cf9b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/redteam-sham-null/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/redteam-sham-null/output.txt",
+      "sha256": "099a33ce5552417144642c518494dfa701c3505ddd7576bcb4b0a35204f57260",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/stoploss-incomplete-detail/input.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/stoploss-incomplete-detail/input.txt",
+      "sha256": "a86ff254f63007d85b5a1cf29baeaf9254a1987e92074aa006cbbc5c5fdb9082",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/r2/stoploss-incomplete-detail/output.txt",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/r2/stoploss-incomplete-detail/output.txt",
+      "sha256": "5875f58c49dc9e26f9f4ed36604f8afc0759a5a4e0710b8d3c6de2c8165264ab",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/smoke-manifest.json",
+      "target_path": "skills/loop-decision/evals/releases/2026-09-20-v0.3.1/smoke-manifest.json",
+      "sha256": "794881857cfe74592e601caacef359f47f228b657e49a042d74e2508c2bd4f61",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "examples/offer-decision-full-loop.md",
+      "target_path": "skills/loop-decision/examples/offer-decision-full-loop.md",
+      "sha256": "8f975dd05496cce97e4ec09e8b4ad79cf54b9eaf814fc4d398e408aae5a427cc",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/anchors-and-sources.md",
+      "target_path": "skills/loop-decision/references/anchors-and-sources.md",
+      "sha256": "eb6d207e0520e328cfb7baca8c6af439cb29ed184d4ca33d5d413bf6e7bb0023",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/decision-brief-template.md",
+      "target_path": "skills/loop-decision/references/decision-brief-template.md",
+      "sha256": "501d634555b66a09bc8f7acd64e3e40c9aae474db7b7a83c8c84c537d668a5c8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/decision-memo-template.md",
+      "target_path": "skills/loop-decision/references/decision-memo-template.md",
+      "sha256": "87bf822298dda346550522337e25465bbb0a9ae8b53b56dbdd6f40d844b495d2",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/decision-rubric.md",
+      "target_path": "skills/loop-decision/references/decision-rubric.md",
+      "sha256": "d9419bab37afd322b2c26537108268d5cb7960694de89677605b8d88d69127b3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/evidence-grading.md",
+      "target_path": "skills/loop-decision/references/evidence-grading.md",
+      "sha256": "f7d7bfb194088d7df8a4829d41e57994ba05c8dc8d775e3a348a8d4f831c151e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/premortem-pass.md",
+      "target_path": "skills/loop-decision/references/premortem-pass.md",
+      "sha256": "be1b469434ef33561e2728c8a518a8d6978973611a60a8bcaa893898768cff97",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/red-team-pass.md",
+      "target_path": "skills/loop-decision/references/red-team-pass.md",
+      "sha256": "c54e6f9b9d8608d1336e3ecd9cfdc435d8ff1a809bdda2e3043b153cf0313a67",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-decision-v0.3.1.zip",
+      "sha256": "b7dee62154bd4b6fc60e7303fccaf16818a3028f4c481b680362370397014435",
+      "runtime_files_compared": 10,
+      "runtime_mismatches": [],
+      "asset_files": 94
+    },
+    {
+      "asset": "post-install-check.json",
+      "sha256": "622d10d7306f2744d8c1e29f89ca6f26b0d73930f6572bc8de187d09a37b6daf",
+      "kind": "receipt_or_checksum"
+    },
+    {
+      "asset": "SHA256SUMS.txt",
+      "sha256": "e9b6a64ca54ce443e75b780a7e552187d8a709253fc8e951ad91f2ba5250a99c",
+      "kind": "receipt_or_checksum"
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}
