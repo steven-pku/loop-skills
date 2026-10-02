@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "monorepo_commit": "792ed95e9778410a2298c6c1c3f2c99b68576a2a",
-  "source_tree_status": "uncommitted preparation",
+  "monorepo_commit": "94be45bf44c991773ede8d380013d808acc5502f",
+  "source_tree_status": "clean fixed commit",
   "products": [
     {
       "name": "loop-article-writer",

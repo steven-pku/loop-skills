@@ -182,6 +182,18 @@
     }
   ],
   "scope": "archive bytes, directory layout, complete backups, clean replacement and restore; not native model execution or installer source-lock migration",
-  "package_manifest_sha256": "a52198a707fad19c39e4a0886577d20888e5a3eeea7ffe53699dde843d97aa07",
-  "artifact_identity_note": "Final candidate packaging includes unchanged historical link dependencies; native model tests used earlier packages and are separately qualified."
+  "monorepo_source_commit": "94be45bf44c991773ede8d380013d808acc5502f",
+  "package_manifest_sha256": "9bd142f1c88c92bffe54f75feba507a8528e1ce140116b0ec451eac64324c7e8",
+  "asset_sha256s": {
+    "loop-article-writer": "eb7b3a3048743f9e0104707e8631338dc72a2c7becb4f925982c1b177419bfb3",
+    "loop-content-audit": "0cdbd04cf2dcfd278fa34c7944699491be69f97fdc0e49fa8cbee04034d9ca5c",
+    "loop-decision": "8c93559555b9f47c2e38b52bb4689b170772ce68e7cd1e316bc8fe44c5d076b3",
+    "loop-interview-writer": "5d148b090a99152b51adbfc56bd8281f715bec583c2079ebe2d6ecce9f098b23",
+    "loop-negotiation": "582225d5ad1d838bd3ce606087a79cf812a07bb260544a8ee6de82c582ee46f2",
+    "loop-report-writer": "b54a0b9c873d44aa873872a834755a7b0f4ee209c043b0f2ba7f18b6e49d2df4",
+    "loop-resume-writer": "31bdd0e030f9b88e6e848f6a536307298ca8208e33e0cb72413045088f07239c",
+    "loop-script-writer": "cb0dc81ab26123d8b467b9d9775bf1fc8dfe8f782ac98664b52826babffa49f9",
+    "loop-topic-picker": "4d4657fbb6f7160889a5a1453e726f5641a691b583b7736ebb44a4a589974bdd"
+  },
+  "native_model_status": "NOT_RUN_FINAL_PACKAGE"
 }
