@@ -1,0 +1,359 @@
+{
+  "execution_count": 21,
+  "all_execution_returncodes_zero": true,
+  "all_expected_explicit_instruction_sets_match": true,
+  "semantic_verdict": "PENDING_GPT_6_PRO_REVIEW",
+  "final_packages": "NOT_RUN_NATIVE_FINAL_PACKAGE",
+  "results": [
+    {
+      "id": "single-loop-article-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "expected": [
+        "loop-article-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-article-writer"
+      ],
+      "observed_resource_products": [
+        "loop-article-writer"
+      ],
+      "answer_sha256": "3f4060719acf8a162be4fc024fd0e47ede5ba45a326622451eeff6ec0b1a2eba",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-content-audit",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 28.92,
+      "expected": [
+        "loop-content-audit"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-content-audit"
+      ],
+      "observed_resource_products": [
+        "loop-content-audit"
+      ],
+      "answer_sha256": "0c8ba7b90e9024d02d7f937a32528ab232638a1c80e0fa57a6c24f3b60ff3bd2",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-decision",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 61.25,
+      "expected": [
+        "loop-decision"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-decision"
+      ],
+      "observed_resource_products": [
+        "loop-decision"
+      ],
+      "answer_sha256": "e1d6ef09cc6d1c1b5a16aa7174fc9213aef17b7087090a35d60d3309b8e6f8b8",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-interview-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 76.71,
+      "expected": [
+        "loop-interview-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-interview-writer"
+      ],
+      "observed_resource_products": [
+        "loop-interview-writer"
+      ],
+      "answer_sha256": "8e950cd29a6805249548c91ae608ab5782d596659cc5be29683c3085fcf17833",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-negotiation",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 59.11,
+      "expected": [
+        "loop-negotiation"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-negotiation"
+      ],
+      "observed_resource_products": [
+        "loop-negotiation"
+      ],
+      "answer_sha256": "69020cf7a223cbdf8d3bd3a57ca64c8cd9160cfe5f5035a70862895167d83514",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-report-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 50.39,
+      "expected": [
+        "loop-report-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-report-writer"
+      ],
+      "observed_resource_products": [
+        "loop-report-writer"
+      ],
+      "answer_sha256": "2e37df603814a97f87cbdacca75e5aba87ab8b5826dbef9deea374d05a7ab864",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-resume-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 49.3,
+      "expected": [
+        "loop-resume-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-resume-writer"
+      ],
+      "observed_resource_products": [
+        "loop-resume-writer"
+      ],
+      "answer_sha256": "0860e6c3818f936a0c8cbf5d8ca073397ce57dba0ce9e2d4f771927a7a5f19b8",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-script-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 89.32,
+      "expected": [
+        "loop-script-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-script-writer"
+      ],
+      "observed_resource_products": [
+        "loop-script-writer"
+      ],
+      "answer_sha256": "37d6f5e54c0ff7fcb13903c4ed29d1dacf800a94ed5ac544523e2238bb3a72fa",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "single-loop-topic-picker",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 137.76,
+      "expected": [
+        "loop-topic-picker"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-topic-picker"
+      ],
+      "observed_resource_products": [
+        "loop-topic-picker"
+      ],
+      "answer_sha256": "26e15f477d8558e027a25a3a756e1881db6986f8130ef9729d93ab4f76f1f57c",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-article-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 68.43,
+      "expected": [
+        "loop-article-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-article-writer"
+      ],
+      "observed_resource_products": [
+        "loop-article-writer"
+      ],
+      "answer_sha256": "8292e7ea6b2f8e31c6535aefb52353cc3e8803ab1d78d3ca0a04cc91fa210fda",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-content-audit",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 40.31,
+      "expected": [
+        "loop-content-audit"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-content-audit"
+      ],
+      "observed_resource_products": [
+        "loop-content-audit"
+      ],
+      "answer_sha256": "57e5b9ac6237efedad3b9d4c439406089888ba8308ada27e702273ae896bd20c",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-decision",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 62.65,
+      "expected": [
+        "loop-decision"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-decision"
+      ],
+      "observed_resource_products": [
+        "loop-decision"
+      ],
+      "answer_sha256": "ca0e15b917d41f4cdb129d79a4a7aaab0f91ae52f46ffcd03c500d05bac11691",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-interview-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 56.46,
+      "expected": [
+        "loop-interview-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-interview-writer"
+      ],
+      "observed_resource_products": [
+        "loop-interview-writer"
+      ],
+      "answer_sha256": "bbe10f7779e056b40c04dffab77747321ea686c0c159c052a5afc390dfe0861b",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-negotiation",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 57.12,
+      "expected": [
+        "loop-negotiation"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-negotiation"
+      ],
+      "observed_resource_products": [
+        "loop-negotiation"
+      ],
+      "answer_sha256": "445a7e3c94848c5201bb1b238ec8428f1deb7892e1696e4b40b34806f33b4c93",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-report-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 41.21,
+      "expected": [
+        "loop-report-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-report-writer"
+      ],
+      "observed_resource_products": [
+        "loop-report-writer"
+      ],
+      "answer_sha256": "b3137261809b1b8337a52a337e485f6b5a529972099e650edf8aae75ce845ba9",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-resume-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 44.97,
+      "expected": [
+        "loop-resume-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-resume-writer"
+      ],
+      "observed_resource_products": [
+        "loop-resume-writer"
+      ],
+      "answer_sha256": "856074af18e104fd520bc48d707bdd5dbff893194eff33a35ce9c59f116bacad",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-script-writer",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 81.0,
+      "expected": [
+        "loop-script-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-script-writer"
+      ],
+      "observed_resource_products": [
+        "loop-script-writer"
+      ],
+      "answer_sha256": "eb0e7ef763220489494a63df45673b573ae1fc5ceb86ce871fe8ff4c08bbb23b",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-loop-topic-picker",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 99.97,
+      "expected": [
+        "loop-topic-picker"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-topic-picker"
+      ],
+      "observed_resource_products": [
+        "loop-topic-picker"
+      ],
+      "answer_sha256": "0365b7d4a5c3f4112e4f2dbc390c50a4224f8b0042007304814c48e261707cf4",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-overlap-content",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 95.56,
+      "expected": [
+        "loop-topic-picker"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-topic-picker"
+      ],
+      "observed_resource_products": [
+        "loop-topic-picker"
+      ],
+      "answer_sha256": "bf40a767449a6dd9c58768bfeab40b40f3c787893eab297b002a6853a6bbc5fa",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-overlap-career",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 102.03,
+      "expected": [
+        "loop-interview-writer"
+      ],
+      "observed_explicit_instruction_reads": [
+        "loop-interview-writer"
+      ],
+      "observed_resource_products": [
+        "loop-interview-writer"
+      ],
+      "answer_sha256": "6d2142f431ddb85db5042025a2c0e6499448115b429ab1590b1d05653d290b51",
+      "semantic_verdict": "PENDING_REVIEW"
+    },
+    {
+      "id": "routing-unrelated",
+      "execution_status": "EXECUTED",
+      "returncode": 0,
+      "seconds": 12.07,
+      "expected": [],
+      "observed_explicit_instruction_reads": [],
+      "observed_resource_products": [],
+      "answer_sha256": "6524d33a3f316d8648ba1613248a56a8eedf374d15288931095958192d7b8f1d",
+      "semantic_verdict": "PENDING_REVIEW"
+    }
+  ]
+}

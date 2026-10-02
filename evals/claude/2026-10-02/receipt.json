@@ -1,0 +1,16 @@
+{
+  "host": "Claude Code 2.1.287",
+  "declared_model_at_initialization": "claude-opus-5-5",
+  "project_route": ".claude/skills",
+  "status": "BLOCKED",
+  "attempts": 1,
+  "case": "single-loop-article-writer",
+  "result_is_error": true,
+  "visible_result": "You've hit your session limit \u00b7 resets 11:10pm (Asia/Singapore)",
+  "observed_loop_slash_commands": [],
+  "observed_runtime_resource_reads": [],
+  "isolated_configuration_authentication": "not logged in",
+  "remaining_planned_cases": "NOT_RUN",
+  "final_packages": "NOT_RUN_NATIVE",
+  "scope": "No authentication copied, login performed, paid usage enabled or alternate provider selected. Quota failure is not a semantic pass."
+}

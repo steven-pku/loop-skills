@@ -1,0 +1,24 @@
+{
+  "id": "single-loop-negotiation",
+  "execution_status": "EXECUTED",
+  "returncode": 0,
+  "seconds": 59.11,
+  "expected": [
+    "loop-negotiation"
+  ],
+  "observed_explicit_instruction_reads": [
+    "loop-negotiation"
+  ],
+  "observed_resource_products": [
+    "loop-negotiation"
+  ],
+  "answer_sha256": "69020cf7a223cbdf8d3bd3a57ca64c8cd9160cfe5f5035a70862895167d83514",
+  "semantic_verdict": "PENDING_REVIEW",
+  "host": "codex-cli 0.159.3",
+  "model": "gpt-6.1-sol",
+  "native_scope": ".agents/skills project directory; fresh ephemeral session; read-only",
+  "input_class": "synthetic",
+  "package_set": "tested-package-manifest.json from first build",
+  "final_package_verdict": "NOT_RUN_FINAL_PACKAGE",
+  "qualification": "Instructions and core resource bytes match fixed original source. Final packaging subsequently added unchanged historical document link dependencies and changed package README; final asset has not received a new native model run."
+}

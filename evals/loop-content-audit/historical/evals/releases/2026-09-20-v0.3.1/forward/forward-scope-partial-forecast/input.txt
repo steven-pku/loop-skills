@@ -1,0 +1,3 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请只读检查下列复盘片段的逻辑，不评完整报告、不改稿。我说的是同口径真实后台转录，未附截图：三条收藏率为1%、1.1%、1.2%，新条为1.3%，样本小。我写“收藏率比这三条略高，原因未知；下一条只试调整首图信息顺序，预期观察收藏率是否仍高于这组基线，但不保证改善”。给这段实际可评的维度及结论，别假设有未给你的其他章节。

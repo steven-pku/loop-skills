@@ -1,0 +1,277 @@
+{
+  "kind": "historical_index_not_new_run",
+  "assessment_source_sha256": "d1e3d4a2b5d72475d6cd4fa6dd793ca5a13251a9b41f80e20c98a625cc573fd6",
+  "historical_runtime_commit": "30d3854b10d98e3e0567ceeffcf2133222170e62",
+  "historical_runtime_skill_sha256": "4f893775f83290187171fae6e6d6b78880da17d968f16dd182769aceeb8d239a",
+  "authored_fixture_ids": [
+    "anchor-brief-negative-pseudo-options",
+    "anchor-brief-positive-real-options",
+    "anchor-redteam-negative-strawman",
+    "anchor-redteam-positive-steelman",
+    "anchor-stoploss-negative-missing",
+    "anchor-stoploss-positive-concrete",
+    "conclusion-first-detection",
+    "negative-trigger-crisis-boundary",
+    "negative-trigger-negotiation-reroute",
+    "negative-trigger-report-reroute",
+    "negative-trigger-type2-fastpath",
+    "retrospective-outcome-blind"
+  ],
+  "authored_fixture_count": 12,
+  "aggregate_case_count": 16,
+  "aggregate_cases": [
+    {
+      "case": "anchor-brief-negative-pseudo-options",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "35fc26e12ccffdf29a75aafd6d483ec23e52e05a36be86d16d81417a442d3ae3",
+      "output_sha256": "e8746801eecce1373fc611dd67d8b443281f686d28510df0298d4df6c924d980",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "anchor-brief-positive-real-options",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "88255e57f1373c31f20f4103d9680d875bd2dbe38277faa3478c319017bcb8a1",
+      "output_sha256": "e8cd2d46e11875d25c765c2f094a8b4b901b520d261db40585aea8e1ec3c3f96",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "anchor-redteam-negative-strawman",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "24340d48d2ba7878cae4259936d5848272af18d64050a54762e95c9413f4b0dc",
+      "output_sha256": "520c50c3ca44efe24d14960c0151bd3101027d95e5fa50338303a9c46387dd9e",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "anchor-redteam-positive-steelman",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "5edc5d952abd936319e172240fdbda3e3b3f5f8209911467dc380bfd26b5ac6a",
+      "output_sha256": "19bd6d39014d7771839efddbf683fa046210d9c61100957061d883429ac20134",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "anchor-stoploss-negative-missing",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "a0ae1368f0e49ea55b1548bbd2853a89d5c18586458d312904642f74736d5b1f",
+      "output_sha256": "e0cd48f91685d92cf790e5ae419af1439aaf4947f78fea89723e7301bde8dae8",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "anchor-stoploss-positive-concrete",
+      "run": "r6",
+      "verdict": "PASS",
+      "input_sha256": "c42bf1bd690e92d19bce96069dcca032c1a9bd724394527fa62fc66a3fb67ddf",
+      "output_sha256": "7678e63ff5c926d735b131eb8f256dc9c95a9143437306c6fdffdc33222947aa",
+      "skill_sha256": "4f893775f83290187171fae6e6d6b78880da17d968f16dd182769aceeb8d239a"
+    },
+    {
+      "case": "conclusion-first-detection",
+      "run": "r4",
+      "verdict": "PASS",
+      "input_sha256": "f88d6bc1ff61522a589ac52c69cd03627af81d4345fdbab448d41895e0670716",
+      "output_sha256": "a5a842c709c2c8651b41ef38086a1a0fb33253bdc077e94883739431159cd015",
+      "skill_sha256": "e12dabf477ccacdfea8d6927bc411a017e9657534ab9a0322d3ef7c653cdee8a"
+    },
+    {
+      "case": "forward-general-medical-f3",
+      "run": "r3",
+      "verdict": "PASS",
+      "input_sha256": "dee28ea3e05e7af26bbc1f8473ee34571506d44cd3f4aadc556a98be42350594",
+      "output_sha256": "c8f2d1b1771dce8ca8a1b1f44e8a60df4244a057a53dcb8d11cd4f6eb2a517b5",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "forward-nonemergency-medication",
+      "run": "r4",
+      "verdict": "PASS",
+      "input_sha256": "242319e153ccd2021d2aa4d776da1be15d67a4050227b0c89b33d9cd18f89a8c",
+      "output_sha256": "478b0eb0d5b99127c0dc95bf8e8b95efb2778ac3e3ce5acddf17ae1e8f8ef018",
+      "skill_sha256": "e12dabf477ccacdfea8d6927bc411a017e9657534ab9a0322d3ef7c653cdee8a"
+    },
+    {
+      "case": "forward-retrospective-honesty",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "1b779357beea60e209fe202a0d089ba344566233179dd6b27a46e24151bd771b",
+      "output_sha256": "daef7254b534408f953ad4a6df85d798cb2c63465b6a4b2b826da99d0d3c75a4",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "forward-type1-fast-request",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "4c0c7cfd4ea631d24a15c16a41dbf991353f2ece998b0a3bad5c1e817ef1649a",
+      "output_sha256": "cd85ff3753df6456489815a432d4aa5c0ee7f3f91daf3e5bd32039858d09b091",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "negative-trigger-crisis-boundary",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "7316e163fa3541333bb063d9e4748823e4d191a6961b24d697af7cc102796cd0",
+      "output_sha256": "680884ec6644b24629ca0a4ae98fec361899a2807223581b668e58cf469c50e9",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "negative-trigger-negotiation-reroute",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "edf2e5cfd67d15faca29cf26ce0067a9a515eb903740886e7cea2896c1d21ed7",
+      "output_sha256": "b1fb614434110fd8c1ce43d0012462fa29877c75d622100e16e5fb389fa2aca8",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "negative-trigger-report-reroute",
+      "run": "r2",
+      "verdict": "PASS",
+      "input_sha256": "06f25109390bae661f7fd424c581ed94573c31921f8092cd1078e6de9c847cb9",
+      "output_sha256": "47f9c99d18bf9fcb4c4c0e012c46021abf2454d01f9f8b76c3d0bc264254f5c7",
+      "skill_sha256": "e014cc68567174ddbd7a4f0bc85d6b7b97940b1aebd41b6179fd4990c2b3add2"
+    },
+    {
+      "case": "negative-trigger-type2-fastpath",
+      "run": "r4",
+      "verdict": "PASS",
+      "input_sha256": "4c3c40864a9d2d351907509bd4a0b1d68b66e4c835dbb1bce2aa6229e13ac5fa",
+      "output_sha256": "e39cd8d430d20a865fb931e30b8517ce118b7dac70cbdf62169ba3e2da79222a",
+      "skill_sha256": "e12dabf477ccacdfea8d6927bc411a017e9657534ab9a0322d3ef7c653cdee8a"
+    },
+    {
+      "case": "retrospective-outcome-blind",
+      "run": "r6",
+      "verdict": "PASS",
+      "input_sha256": "8d95cf9e18a0a04da8f124cace045582db430ac7314263ed3ce72686ca97cc6b",
+      "output_sha256": "aac4e0739b65f4eb38d3a60fb93dc1a5edd2ec1ac76b79c5b6f3c8ee217defce",
+      "skill_sha256": "4f893775f83290187171fae6e6d6b78880da17d968f16dd182769aceeb8d239a"
+    }
+  ],
+  "prior_nonpass_records": [
+    {
+      "case": "negative-trigger-crisis-boundary",
+      "run": "initial",
+      "verdict": "FAIL",
+      "input_sha256": null,
+      "output_sha256": "28d348b61dca6a2f5cf230b654c8e69d4f3e1e04c415e0c14cd406bd4a3a718c",
+      "skill_sha256": null
+    },
+    {
+      "case": "negative-trigger-type2-fastpath",
+      "run": "initial",
+      "verdict": "FAIL",
+      "input_sha256": null,
+      "output_sha256": "4fbff1c40bd52939ee9d622ae3af530c614286419eda67b803d7bf2cd4cc28f1",
+      "skill_sha256": null
+    },
+    {
+      "case": "retrospective-outcome-blind",
+      "run": "initial",
+      "verdict": "FAIL",
+      "input_sha256": null,
+      "output_sha256": "3c96b139db0fe3013b2fbbfcc6e5d8c83f14cf8769ba91793c9d4776778d73e9",
+      "skill_sha256": null
+    },
+    {
+      "case": "conclusion-first-detection",
+      "run": "initial",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "9a005580892834cc86366a353da336e521583f0cbf3036dc2ec0775ba204ed5a",
+      "skill_sha256": null
+    },
+    {
+      "case": "forward-retrospective-honesty",
+      "run": "initial",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "4cfe32f21e9c5e6226420a10d01337559750334987a60930764c2ab07c74f942",
+      "skill_sha256": null
+    },
+    {
+      "case": "anchor-stoploss-positive-concrete",
+      "run": "r2",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "00c4d9736c7800e5096495deb996884c6a0d03c36b8fff072c4bd836caa6c0ab",
+      "skill_sha256": null
+    },
+    {
+      "case": "conclusion-first-detection",
+      "run": "r2",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "2ce0fe2c7d2d83505428a6a968c3013950c0cde589b43211f3ba3a9ce618be31",
+      "skill_sha256": null
+    },
+    {
+      "case": "negative-trigger-type2-fastpath",
+      "run": "r2",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "51b06260de0bddbf681ef509dab589bcf2709f939673695ae0ddd4964c4a4185",
+      "skill_sha256": null
+    },
+    {
+      "case": "retrospective-outcome-blind",
+      "run": "r2",
+      "verdict": "ENVIRONMENT_INTERRUPTION",
+      "input_sha256": null,
+      "output_sha256": null,
+      "skill_sha256": null
+    },
+    {
+      "case": "forward-nonemergency-medication",
+      "run": "r2",
+      "verdict": "INCOMPLETE",
+      "input_sha256": null,
+      "output_sha256": null,
+      "skill_sha256": null
+    },
+    {
+      "case": "retrospective-outcome-blind",
+      "run": "r3",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "31bd34a5e56323891edb6b39b5f43bc814e900c61ca6753f566d3a1746eebc6e",
+      "skill_sha256": null
+    },
+    {
+      "case": "anchor-stoploss-positive-concrete",
+      "run": "r4",
+      "verdict": "TIMEOUT",
+      "input_sha256": null,
+      "output_sha256": "fb5d932236df3267127dcf0d5f129ca4acb18969e4e005a271bdd804659d6586",
+      "skill_sha256": null
+    },
+    {
+      "case": "anchor-stoploss-positive-concrete",
+      "run": "r5",
+      "verdict": "PARTIAL",
+      "input_sha256": null,
+      "output_sha256": "c8e5be03a01a66cfbbc0d7e50cde8590e89ece3eb7b4f8daeb804be0dff2549e",
+      "skill_sha256": null
+    }
+  ],
+  "additional_outside_aggregate": [
+    {
+      "case": "forward-brief-injection",
+      "run": "initial",
+      "verdict": "PASS",
+      "input_sha256": null,
+      "output_sha256": null,
+      "skill_sha256": null
+    }
+  ],
+  "final_runtime_only_case_ids": [
+    "anchor-stoploss-positive-concrete",
+    "retrospective-outcome-blind"
+  ],
+  "limitations": [
+    "Hashes and verdicts are recorded values from the prior assessment; no behavior was rerun while constructing this index.",
+    "Original transcripts are not included in the public package; this index alone cannot independently validate the prior verdicts.",
+    "A record without a stored hash remains null. Prior non-PASS records are not overwritten by later PASS entries."
+  ]
+}

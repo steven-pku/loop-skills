@@ -1,0 +1,24 @@
+{
+  "id": "routing-loop-article-writer",
+  "execution_status": "EXECUTED",
+  "returncode": 0,
+  "seconds": 68.43,
+  "expected": [
+    "loop-article-writer"
+  ],
+  "observed_explicit_instruction_reads": [
+    "loop-article-writer"
+  ],
+  "observed_resource_products": [
+    "loop-article-writer"
+  ],
+  "answer_sha256": "8292e7ea6b2f8e31c6535aefb52353cc3e8803ab1d78d3ca0a04cc91fa210fda",
+  "semantic_verdict": "PENDING_REVIEW",
+  "host": "codex-cli 0.159.3",
+  "model": "gpt-6.1-sol",
+  "native_scope": ".agents/skills project directory; fresh ephemeral session; read-only",
+  "input_class": "synthetic",
+  "package_set": "tested-package-manifest.json from first build",
+  "final_package_verdict": "NOT_RUN_FINAL_PACKAGE",
+  "qualification": "Instructions and core resource bytes match fixed original source. Final packaging subsequently added unchanged historical document link dependencies and changed package README; final asset has not received a new native model run."
+}

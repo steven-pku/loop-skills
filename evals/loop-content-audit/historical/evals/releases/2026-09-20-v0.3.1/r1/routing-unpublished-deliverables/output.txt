@@ -1,0 +1,17 @@
+这三项都属于**发布前内容策划与创作**，应分别转入对应流程，不能合并成一次 loop-content-audit 复盘。
+
+已读取的 [SKILL.md](.agents/skills/loop-content-audit/SKILL.md) 在 Scope Gate 明确要求：“Name the destination and stop this workflow.” 因此本次完成流程分流，不进入数据诊断，也不要求你补后台数据。
+
+| 需求 | 合适流程 | 可直接交接的任务说明 |
+|---|---|---|
+| 未来一周选出 3 个整理类选题 | `loop-topic-picker` | 为未来一周筛选 3 个整理类选题；进入流程时补充发布平台、目标受众及可拍摄素材。 |
+| 从零写 60 秒收纳盒口播脚本 | `loop-script-writer` | 创作约 60 秒的收纳盒口播；补充目标受众、使用场景及可核实的产品特点。 |
+| 将“先刷墙再换灯最后软装”扩写为 9 张小红书图文正文 | `loop-article-writer` | 围绕给定顺序规划 9 张图文的逐页正文；补充适用空间、读者和表达风格。 |
+
+**以上目标流程尚未调用。** 目前没有已发布内容，也没有待审查的完整内容，本次无需进入“无数据质检”、表现归因或诊断评分。
+
+实际读取的运行时文件：
+
+- `.agents/skills/loop-content-audit/SKILL.md`
+
+Scope Gate 已足以完成本次分流，无需加载后续诊断步骤的 references。

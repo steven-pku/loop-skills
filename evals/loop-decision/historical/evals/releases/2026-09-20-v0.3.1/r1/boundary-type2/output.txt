@@ -1,0 +1,9 @@
+- **判定：Type 2，可逆小事。** 一键恢复，成本只有十分钟，直接试就好。
+- **考量：** 按你个人使用的主题理解，你喜欢浅色是主要依据；同事偏爱深色只是另一种偏好。
+- **建议：选浅色，试用十分钟。**
+- **退出条件：** 如果实际阅读时觉得文字难辨认，就一键恢复原配色。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-decision/SKILL.md`
+- `.agents/skills/loop-decision/references/anchors-and-sources.md`

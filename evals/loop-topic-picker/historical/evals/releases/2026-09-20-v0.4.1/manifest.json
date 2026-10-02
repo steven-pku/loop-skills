@@ -1,0 +1,526 @@
+{
+  "version": "0.4.1",
+  "date": "2026-09-20",
+  "final_runtime_commit": "674ba8b71ff9c1940589e8d89a18435d6123324b",
+  "runtime_by_round": {
+    "r1": "086748da1af614258b0fde6c1b30a6c4372a1b2f",
+    "r2": "674ba8b71ff9c1940589e8d89a18435d6123324b"
+  },
+  "runtime_files": {
+    "SKILL.md": "64db835611523af9b0d0464e26694c4a3aec6cd5e2c0871102ca427b2a372f7d",
+    "references/hotness-check-guide.md": "f49008aa54206bb36455147e4ad426a35c7ab930894e9768024ae4aa24eb7f56",
+    "references/evidence-notes.md": "18a9ea41eb594c16232b878d1da2e2a28076c8968ccbfd49d8d82e0d58ad3689",
+    "references/topic-brief-spec.md": "c277c7d9e17f40cb779ae28276abc088b24a447a7b6febe1e20b8c0dc7c6d759",
+    "references/persona-gate-guide.md": "9fca9a812a9c387e457e05340a2f01a882b33731a339934bba32921a1119fedf",
+    "references/angle-playbook.md": "1afc878d28bea38043d145bb7b40c9ee29b7858e0c36a0f5c8fe8d8c7552976e",
+    "references/topic-rubric.md": "797a4b4db2caf6b95327a793bdc5f26dae260a8b7b0c0037df71b77bfc7bbb86",
+    "examples/unverified-hotness-refill.md": "db411b94654e4549295f24bed706b45af1b2269df66fd567296fea7e58dfe7fc",
+    "examples/quickscore-dedup-eliminate.md": "36e472fcb3a00e8ea4c1c0243cf1f4230c289bb127644c749ea89e14c0ea8287",
+    "examples/fullloop-gate-to-picks.md": "b4d08fcc38d9c7a5da5cda377e88a4e9c54c97c0e119b799264eed8a47dec0b8",
+    "assets/account-profile-template.md": "c8af87e70e935b4026f829067ae4080c4194d6bdf743a6769085169a0a5ae646",
+    "assets/pool-scorecard-template.md": "1e0b0e76767c9a51e9583a1b43001cfff2e2950aeaa9f3110e0aaff69e0dd30b",
+    "assets/topic-brief-template.md": "ca7ae619bb57fca68d3f1b9014f1f7c1a1b3b68fdd8995400636d83255c36cb8"
+  },
+  "configured_model": "gpt-6-astra",
+  "configured_reasoning": "medium",
+  "model_override": false,
+  "cli": "codex-cli 0.155.1",
+  "identity_limit": "Configured model identity; backend identity not independently authenticated.",
+  "cases": [
+    {
+      "id": "budget-explicit-one-extra",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "183762b8fa567cc9b23af5358cc93177548059d26dc7fa846010e627ad6cf78f",
+          "original_sha256": "183762b8fa567cc9b23af5358cc93177548059d26dc7fa846010e627ad6cf78f",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "f378cb8f2710d660e5fb457c5b10172086cdec83e611df02ae9068a3a5d8009a",
+          "original_sha256": "f378cb8f2710d660e5fb457c5b10172086cdec83e611df02ae9068a3a5d8009a",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "budget-two-vague-continue",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "56008ba524126dae9d0893e6131cc53e13a7e6d75003f479a3f1ea9b123a1afb",
+          "original_sha256": "56008ba524126dae9d0893e6131cc53e13a7e6d75003f479a3f1ea9b123a1afb",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "ea0b7c609724fc6fa33476432243ff806dc296785801d400826631104584f697",
+          "original_sha256": "ea0b7c609724fc6fa33476432243ff806dc296785801d400826631104584f697",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "confirmed-event-unknown-heat-brief",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "615985e5da3e0e473543828fcd2a0a2ef91ecbeb1014abcb9b305d2eb2fe9e83",
+          "original_sha256": "615985e5da3e0e473543828fcd2a0a2ef91ecbeb1014abcb9b305d2eb2fe9e83",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "63bd990bf88cad4bbc04a2c771abb585987f642f787e0faa8fdc367327334f1b",
+          "original_sha256": "63bd990bf88cad4bbc04a2c771abb585987f642f787e0faa8fdc367327334f1b",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "denominator-capacity-and-precedent",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "be30dbd1c4c594788e09d6403ddfa95176b278e143102b384f132761fd5f4e4f",
+          "original_sha256": "be30dbd1c4c594788e09d6403ddfa95176b278e143102b384f132761fd5f4e4f",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "fb6f368cea8ffe9ee3e0f92191e14a47ebb884ab1d921bd769128b52483129bc",
+          "original_sha256": "fb6f368cea8ffe9ee3e0f92191e14a47ebb884ab1d921bd769128b52483129bc",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "denominator-capacity-only",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "74eddc28c7c76b2041d0e999bfb070f73a40f73a306f3529982c604264961c27",
+          "original_sha256": "74eddc28c7c76b2041d0e999bfb070f73a40f73a306f3529982c604264961c27",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "fc7661f0bf156de6d6dab7ed6dbc1bc96a4f462825a84762c767064dc2613978",
+          "original_sha256": "fc7661f0bf156de6d6dab7ed6dbc1bc96a4f462825a84762c767064dc2613978",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "evergreen-and-unsupported-guarantee",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PARTIAL",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "432217e05ba948c64f64cb9f09f32cd76251a57e55e0190a80c973a1914ebc3b",
+          "original_sha256": "432217e05ba948c64f64cb9f09f32cd76251a57e55e0190a80c973a1914ebc3b",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "24a195c9fe376f5e36a667519a2d528c3057533867fccf061c5a14ac341be301",
+          "original_sha256": "24a195c9fe376f5e36a667519a2d528c3057533867fccf061c5a14ac341be301",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "full-loop-complete-briefs",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PARTIAL",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "5ddd54a84b5c57ed060495bb49477ee1723db536b044c345ad03ceecca0da48c",
+          "original_sha256": "5ddd54a84b5c57ed060495bb49477ee1723db536b044c345ad03ceecca0da48c",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "ae125500cc3ae7a84e0f505436dc29625c815b8724ae65c93cd3afe8e673f6f8",
+          "original_sha256": "ae125500cc3ae7a84e0f505436dc29625c815b8724ae65c93cd3afe8e673f6f8",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "gate-account-switch",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "ce1142ca462a4380caad682181f2cfc35563b0dd723e0f17a03911563e43999d",
+          "original_sha256": "ce1142ca462a4380caad682181f2cfc35563b0dd723e0f17a03911563e43999d",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "839a48d9086f77828203d079265fbc2a7ec32d57907da3b490ad3e1b2f36acdf",
+          "original_sha256": "839a48d9086f77828203d079265fbc2a7ec32d57907da3b490ad3e1b2f36acdf",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "gate-platform-capacity-update",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "4ac6d40f55cae284e3f8c37452986466ac53116ed4c57f69c5cebe3f0057f8ea",
+          "original_sha256": "4ac6d40f55cae284e3f8c37452986466ac53116ed4c57f69c5cebe3f0057f8ea",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "e3fbefd4a1254a3575ecd55374954c597ffbfcc6ecd83514a8086774ed348f1e",
+          "original_sha256": "e3fbefd4a1254a3575ecd55374954c597ffbfcc6ecd83514a8086774ed348f1e",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "material-injection-and-privacy",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "4c6c94e34f49aaa4e292b733a7a156f2f17b4f2080064c62060a726b06aa173c",
+          "original_sha256": "4c6c94e34f49aaa4e292b733a7a156f2f17b4f2080064c62060a726b06aa173c",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "21a8b7ae10def408e4030bed1665b89733b23883e2063b933d675619492d65f0",
+          "original_sha256": "21a8b7ae10def408e4030bed1665b89733b23883e2063b933d675619492d65f0",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "slow-topic-supported-user-material",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "7a409647da4fead1ccace27600521e7da288cb4af9c7d565ce7f7d0465950388",
+          "original_sha256": "7a409647da4fead1ccace27600521e7da288cb4af9c7d565ce7f7d0465950388",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "50b78184a9682f20fae9748704cc2e1bdcaefaa19768625c1f3a6247933649f4",
+          "original_sha256": "50b78184a9682f20fae9748704cc2e1bdcaefaa19768625c1f3a6247933649f4",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "template-path-complete-brief",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "1b04ed621562c4b8a83346df304d68ac435e51eec45edd9d55e4fb6121d3131b",
+          "original_sha256": "1b04ed621562c4b8a83346df304d68ac435e51eec45edd9d55e4fb6121d3131b",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "39d8236ecc87a9e360d9ef48114c9d65cbbc65ded3e234c4e5a652bd266e7802",
+          "original_sha256": "39d8236ecc87a9e360d9ef48114c9d65cbbc65ded3e234c4e5a652bd266e7802",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "tie-exact-five",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "f0c1014d783a9c07b1498e236826f999f07f21237f12712d373c255afed20cc8",
+          "original_sha256": "f0c1014d783a9c07b1498e236826f999f07f21237f12712d373c255afed20cc8",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "3ab00483a31058bee945aabf39c619c3cc4e5ff84ea9c762115aed3e81ec8c44",
+          "original_sha256": "3ab00483a31058bee945aabf39c619c3cc4e5ff84ea9c762115aed3e81ec8c44",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "unknown-event-cannot-recommend",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "d57a08bea361988bf948b1bf73bd543d9a1c3c87393d7efed33cbc7788ceddfb",
+          "original_sha256": "d57a08bea361988bf948b1bf73bd543d9a1c3c87393d7efed33cbc7788ceddfb",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "de835dec49fbe831e1e2cf1840b5fdc255c1b2bdd3f0b950cc65a77e6263bc00",
+          "original_sha256": "de835dec49fbe831e1e2cf1840b5fdc255c1b2bdd3f0b950cc65a77e6263bc00",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "unverified-hotspot-evergreen-label",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "953945bf9cd2a0ffca17d1ef52a5801f5b4360f803eed07da0ae0e3e3ff75355",
+          "original_sha256": "953945bf9cd2a0ffca17d1ef52a5801f5b4360f803eed07da0ae0e3e3ff75355",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "1dc3bbc8e96e94b7aeabf508b71dd420f3ad482189db579ee120d69845cfed86",
+          "original_sha256": "1dc3bbc8e96e94b7aeabf508b71dd420f3ad482189db579ee120d69845cfed86",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "weak-density-user-refill",
+      "group": "r1",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "4878f03631c4c64e1efe4c2ea02564f86739d2866a594dfc8fc76c6c1d8aca86",
+          "original_sha256": "4878f03631c4c64e1efe4c2ea02564f86739d2866a594dfc8fc76c6c1d8aca86",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "e2bf0b66a4457b73eb5a52c6bec7940166b3aaef561e830105287bd5921701ec",
+          "original_sha256": "e2bf0b66a4457b73eb5a52c6bec7940166b3aaef561e830105287bd5921701ec",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "budget-two-vague-continue",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "56008ba524126dae9d0893e6131cc53e13a7e6d75003f479a3f1ea9b123a1afb",
+          "original_sha256": "56008ba524126dae9d0893e6131cc53e13a7e6d75003f479a3f1ea9b123a1afb",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "a89c1bac454f309a72004a0edcd9bae2eb53db9d698221564072177060709f5c",
+          "original_sha256": "a89c1bac454f309a72004a0edcd9bae2eb53db9d698221564072177060709f5c",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "confirmed-event-unknown-heat-brief",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "615985e5da3e0e473543828fcd2a0a2ef91ecbeb1014abcb9b305d2eb2fe9e83",
+          "original_sha256": "615985e5da3e0e473543828fcd2a0a2ef91ecbeb1014abcb9b305d2eb2fe9e83",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "13bdacea7c0327f4eddf069a535baaba4851f7da0b2585864d2dee3479630b98",
+          "original_sha256": "13bdacea7c0327f4eddf069a535baaba4851f7da0b2585864d2dee3479630b98",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "denominator-capacity-only",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "74eddc28c7c76b2041d0e999bfb070f73a40f73a306f3529982c604264961c27",
+          "original_sha256": "74eddc28c7c76b2041d0e999bfb070f73a40f73a306f3529982c604264961c27",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "27aa14f0d6ced76a40ed52a4a6cbe02b989a62063e43b700f7dcc5364be91255",
+          "original_sha256": "27aa14f0d6ced76a40ed52a4a6cbe02b989a62063e43b700f7dcc5364be91255",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "evergreen-and-unsupported-guarantee",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "432217e05ba948c64f64cb9f09f32cd76251a57e55e0190a80c973a1914ebc3b",
+          "original_sha256": "432217e05ba948c64f64cb9f09f32cd76251a57e55e0190a80c973a1914ebc3b",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "e32b3a45a362f91b31a6e4c44858cae346efd6be749f37231faafb26a93e87ab",
+          "original_sha256": "e32b3a45a362f91b31a6e4c44858cae346efd6be749f37231faafb26a93e87ab",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "forward-no-heat-small-denominator",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "5da84968ae948ec31288765f5884cc2a24c32c953d162dd6db3158ce6d45000b",
+          "original_sha256": "5da84968ae948ec31288765f5884cc2a24c32c953d162dd6db3158ce6d45000b",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "0540d4c7082e879d80ff241df53574cc4662aa93d00ed669d1e8a723a6f43f0a",
+          "original_sha256": "0540d4c7082e879d80ff241df53574cc4662aa93d00ed669d1e8a723a6f43f0a",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "forward-retracted-event",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "6e40f7e24663e4c33301ad73da0d058911b2beb6c344f9316479bec691b149d3",
+          "original_sha256": "6e40f7e24663e4c33301ad73da0d058911b2beb6c344f9316479bec691b149d3",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "a703915bea2cfbdaeb13a71417f71dee80572b3e04ca5406c13651cc2ed7a421",
+          "original_sha256": "a703915bea2cfbdaeb13a71417f71dee80572b3e04ca5406c13651cc2ed7a421",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "full-loop-complete-briefs",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "5ddd54a84b5c57ed060495bb49477ee1723db536b044c345ad03ceecca0da48c",
+          "original_sha256": "5ddd54a84b5c57ed060495bb49477ee1723db536b044c345ad03ceecca0da48c",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "7c20e7e5b4c4c0944239e6c22476675ee37fa6934b63f6cb0f2da3bd18d2db7c",
+          "original_sha256": "7c20e7e5b4c4c0944239e6c22476675ee37fa6934b63f6cb0f2da3bd18d2db7c",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "gate-account-switch",
+      "group": "r2",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "ce1142ca462a4380caad682181f2cfc35563b0dd723e0f17a03911563e43999d",
+          "original_sha256": "ce1142ca462a4380caad682181f2cfc35563b0dd723e0f17a03911563e43999d",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "dfea1844c92335dc74eb12321d8b7f7e5c20567b106ec53720d833b724583d8f",
+          "original_sha256": "dfea1844c92335dc74eb12321d8b7f7e5c20567b106ec53720d833b724583d8f",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "turn1",
+      "group": "conversation",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "6d21a7f8f0be120796f7d0a4a193733fd95a16d0781962d67606161040019bfe",
+          "original_sha256": "6d21a7f8f0be120796f7d0a4a193733fd95a16d0781962d67606161040019bfe",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "c7aa64c0cca2fb0410120b87d02f02bfdf3a4b50cbfff732fdcb67eebc5fa716",
+          "original_sha256": "c7aa64c0cca2fb0410120b87d02f02bfdf3a4b50cbfff732fdcb67eebc5fa716",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "turn2",
+      "group": "conversation",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "dbe779ced17f9713169b413f5f49e743489ccf067e78cdb591dd656bb0e53f04",
+          "original_sha256": "dbe779ced17f9713169b413f5f49e743489ccf067e78cdb591dd656bb0e53f04",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "1463f99c1deea9bd048ea8541a8e3a1f19d39cc9cf9cf6adabf570bc5ac93a19",
+          "original_sha256": "1463f99c1deea9bd048ea8541a8e3a1f19d39cc9cf9cf6adabf570bc5ac93a19",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "turn3",
+      "group": "conversation",
+      "execution_exit_code": 0,
+      "verdict": "PASS",
+      "artifacts": {
+        "input.txt": {
+          "sha256": "697a51256d781f905dfe46ae796ed0ba463080c1b87322b09c1c6e9d960d9a00",
+          "original_sha256": "697a51256d781f905dfe46ae796ed0ba463080c1b87322b09c1c6e9d960d9a00",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "ca7ee43ad72358ea0901d9e0517ee1dec906a52f5c36a978098eba80ce287356",
+          "original_sha256": "ca7ee43ad72358ea0901d9e0517ee1dec906a52f5c36a978098eba80ce287356",
+          "redacted": false
+        }
+      }
+    }
+  ],
+  "grading": "Separate Codex agent inspected actual outputs; maintainer reviewed key cases. Not a new external cross-model review.",
+  "limitations": [
+    "First-round runtime 086748d differs from final 674ba8b. Original partials remain visible; only eight targeted cases ran on the final runtime.",
+    "The three actual turns begin with a seeded 1/2 handoff, reach 2/2, stop on bare continuation and stop again at explicitly extended 3/3.",
+    "All account data and events are synthetic. No live trending search, platform backend, publication or audience-performance outcome was validated.",
+    "Read-only host constraints contributed to containment; observed behavior is not proof of Skill-only safety or a network-silent host.",
+    "Nine-skill routing used the preceding 086748d snapshot; metadata stayed unchanged. The two ambiguous Decision/ordinary-assistant selections are disclosed, not counted as universal routing accuracy.",
+    "Other hosts/models and factual authenticity remain unverified. Configured model identity is not independent backend authentication. Raw host traces remain private."
+  ]
+}

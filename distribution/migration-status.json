@@ -1,0 +1,23 @@
+{
+  "status": "HOLD",
+  "source_import": "PASS: nine fixed public tag trees, release assets match core runtime",
+  "imported_files": 325,
+  "core_runtime_bytes": "unchanged",
+  "bundled_document_closure": "PASS after retaining original linked historical documents",
+  "static_controls": "PASS including runtime tamper, unexpected resource, missing license and indirect link",
+  "version_controls": "PASS: root docs, runtime version increase, packaging revision increase; untracked new file detection corrected",
+  "final_archives": "nine deterministic ZIPs; identical repeat-build digests",
+  "file_level_installation": "18 old-new-old sequences and four conflict fixtures PASS on final packages",
+  "codex_earlier_package_execution": "21 executed, returncode zero; observed instruction read sets match all frozen expectations",
+  "codex_semantic_grading": "PENDING GPT 6 Pro; browser connection unavailable before dispatch",
+  "claude": "BLOCKED quota; isolated config has no authentication; no Loop command advertised in limited probe",
+  "final_native_package_test": "NOT_RUN; native tests used earlier packages before historical document closure correction",
+  "formal_release": "NOT_CREATED",
+  "main_switch": "NOT_PERFORMED",
+  "old_repository_banner_archive": "NOT_PERFORMED",
+  "known_limits": [
+    "Manual folder replacement only; no third-party installer/source-lock relocation validation",
+    "Fixed old object identities and bytes verified via GitHub API; browser download redirect routes not separately tested",
+    "Historical outputs preserved, not regraded; no claim of full product regression or business outcomes"
+  ]
+}

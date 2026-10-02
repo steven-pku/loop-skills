@@ -1,0 +1,58 @@
+{
+  "definition": "SHA256 of sorted relative_path + NUL + file_sha256 + LF; runtime text and agent metadata only",
+  "runtime_sha256": "93f86acf6c2ca49e59674b923802e324b7ca35d4df33cda7bf67cc3bcc7ac4f9",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "ae72f2bf0b6d13ab380b185bb109cc65d5d72e93b62adaef587bfc35fe89685a"
+    },
+    {
+      "path": "assets/materials-questions-template.md",
+      "sha256": "aa94c18c50769b6937e615c92d183e3edd8873691bd949e0e5ae267750081823"
+    },
+    {
+      "path": "assets/qa-scorecard-template.md",
+      "sha256": "f854d6a7a73d5543e4368b8aec5ab4de7a6764637f1b0f3a279ceeae665a3183"
+    },
+    {
+      "path": "assets/report-brief-template.md",
+      "sha256": "f783c7673981b52bddd63fe8adaff46660baf85633c0faf9fe570f770ba6adf4"
+    },
+    {
+      "path": "examples/fabrication-refusal.md",
+      "sha256": "da1bbe97fed0db80c45b522d234697c8f94bc5de4e54c901cba6eaea93a7a9c7"
+    },
+    {
+      "path": "examples/self-review-promotion.md",
+      "sha256": "7ba292ae76006f561583b9cd6bb78dfd2625a1bc90bcba1a317818b86f9b68bb"
+    },
+    {
+      "path": "examples/weekly-fast-loop.md",
+      "sha256": "74d68099861131fbb865417ac8ffc5eebf45251a4ee2beb5a1d91f199e11c5b2"
+    },
+    {
+      "path": "references/achievement-rewrite-patterns.md",
+      "sha256": "d05903d0e7bcf97f0ccaf5e80c525c913862e33516c6ff393c23123d81b8b0db"
+    },
+    {
+      "path": "references/evidence-notes.md",
+      "sha256": "652e5a79217c55678572aac34da633cf61ed2d8e5d8f4cecc52e5d5a62e02611"
+    },
+    {
+      "path": "references/report-rubric.md",
+      "sha256": "e25340d91391424afc0df2cd31159858945b4569a97f62c1908a193548cdcf0a"
+    },
+    {
+      "path": "references/results-ledger.md",
+      "sha256": "e9ff0056501f104a572f726ca8d833c16d42b9204bfd90f5c11f21dc60ff3d0b"
+    },
+    {
+      "path": "references/scenario-guide.md",
+      "sha256": "a012af64e398ed8619b135aa5102abb6d4d299525974f689587aa82aa99a3a93"
+    },
+    {
+      "path": "references/value-gate-guide.md",
+      "sha256": "3720d8c22f4b6848f645a5fbf991f2309e6e6d98e889fb4ae278012426058dc5"
+    }
+  ]
+}

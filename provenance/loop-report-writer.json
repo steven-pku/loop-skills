@@ -1,0 +1,264 @@
+{
+  "product": "loop-report-writer",
+  "version": "0.3.1",
+  "repository": "steven-pku/loop-report-writer",
+  "tag": "v0.3.1",
+  "tag_object": {
+    "sha": "2be2a689adcc444ea12e42fd3b0807643a9b8760",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-report-writer/git/tags/2be2a689adcc444ea12e42fd3b0807643a9b8760"
+  },
+  "commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+  "release_id": 392131172,
+  "release_url": "https://github.com/steven-pku/loop-report-writer/releases/tag/v0.3.1",
+  "assets": [
+    {
+      "id": 575066833,
+      "name": "loop-report-writer-v0.3.1-SHA256SUMS.txt",
+      "size": 99,
+      "digest": "sha256:5f3574ca62a233ec32a98540ff8c3c16d8a8e735595d7905a6e991779dfac86a",
+      "browser_download_url": "https://github.com/steven-pku/loop-report-writer/releases/download/v0.3.1/loop-report-writer-v0.3.1-SHA256SUMS.txt",
+      "updated_at": "2026-09-19T16:12:51Z"
+    },
+    {
+      "id": 575066832,
+      "name": "loop-report-writer-v0.3.1.tar.gz",
+      "size": 1128983,
+      "digest": "sha256:7b1f9da92af45e7a540fffae7c275d8db5c3ac4af9380e228a651142496aaef5",
+      "browser_download_url": "https://github.com/steven-pku/loop-report-writer/releases/download/v0.3.1/loop-report-writer-v0.3.1.tar.gz",
+      "updated_at": "2026-09-19T16:12:52Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "5a3785fb222cdad82d12fd77c689e07071bd633b640df31171d47e90cef46724",
+  "captured_at": "2026-10-02T21:46:47.386926+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-report-writer",
+  "runtime_manifest_sha256": "9fda5a1f9f997a04a5dd025b49c3da75cc1de12a8ba10115b2084434b18b6cc4",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "ae72f2bf0b6d13ab380b185bb109cc65d5d72e93b62adaef587bfc35fe89685a",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/materials-questions-template.md",
+      "sha256": "aa94c18c50769b6937e615c92d183e3edd8873691bd949e0e5ae267750081823",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/og-card.png",
+      "sha256": "5834789b6b2063a98a81056bd0c1e586bdfd1b4cb83d2398b846b45581fc5775",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/qa-scorecard-template.md",
+      "sha256": "f854d6a7a73d5543e4368b8aec5ab4de7a6764637f1b0f3a279ceeae665a3183",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/report-brief-template.md",
+      "sha256": "f783c7673981b52bddd63fe8adaff46660baf85633c0faf9fe570f770ba6adf4",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/fabrication-refusal.md",
+      "sha256": "da1bbe97fed0db80c45b522d234697c8f94bc5de4e54c901cba6eaea93a7a9c7",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/self-review-promotion.md",
+      "sha256": "7ba292ae76006f561583b9cd6bb78dfd2625a1bc90bcba1a317818b86f9b68bb",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/weekly-fast-loop.md",
+      "sha256": "74d68099861131fbb865417ac8ffc5eebf45251a4ee2beb5a1d91f199e11c5b2",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/achievement-rewrite-patterns.md",
+      "sha256": "d05903d0e7bcf97f0ccaf5e80c525c913862e33516c6ff393c23123d81b8b0db",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/evidence-notes.md",
+      "sha256": "652e5a79217c55678572aac34da633cf61ed2d8e5d8f4cecc52e5d5a62e02611",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/report-rubric.md",
+      "sha256": "e25340d91391424afc0df2cd31159858945b4569a97f62c1908a193548cdcf0a",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/results-ledger.md",
+      "sha256": "e9ff0056501f104a572f726ca8d833c16d42b9204bfd90f5c11f21dc60ff3d0b",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/scenario-guide.md",
+      "sha256": "a012af64e398ed8619b135aa5102abb6d4d299525974f689587aa82aa99a3a93",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/value-gate-guide.md",
+      "sha256": "3720d8c22f4b6848f645a5fbf991f2309e6e6d98e889fb4ae278012426058dc5",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-report-writer/CHANGELOG.md",
+      "sha256": "76ba58fe60e3e1a73f24c7d8da583a8e00f22eae5c2c57ea2174f389d40fa9fe",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-report-writer/LICENSE",
+      "sha256": "f5ef1cb91215a16f97573a4f2099068c4069511c97c3e175375319e7ea1cfff3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-report-writer/SECURITY.md",
+      "sha256": "6fbdf1bc100c02c779f9d3dc52ee5b21920bfda05312d662e257dc1c8435d7d7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-report-writer/SKILL.md",
+      "sha256": "ae72f2bf0b6d13ab380b185bb109cc65d5d72e93b62adaef587bfc35fe89685a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/materials-questions-template.md",
+      "target_path": "skills/loop-report-writer/assets/materials-questions-template.md",
+      "sha256": "aa94c18c50769b6937e615c92d183e3edd8873691bd949e0e5ae267750081823",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/og-card.png",
+      "target_path": "skills/loop-report-writer/assets/og-card.png",
+      "sha256": "5834789b6b2063a98a81056bd0c1e586bdfd1b4cb83d2398b846b45581fc5775",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/qa-scorecard-template.md",
+      "target_path": "skills/loop-report-writer/assets/qa-scorecard-template.md",
+      "sha256": "f854d6a7a73d5543e4368b8aec5ab4de7a6764637f1b0f3a279ceeae665a3183",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/report-brief-template.md",
+      "target_path": "skills/loop-report-writer/assets/report-brief-template.md",
+      "sha256": "f783c7673981b52bddd63fe8adaff46660baf85633c0faf9fe570f770ba6adf4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/fabrication-refusal.md",
+      "target_path": "skills/loop-report-writer/examples/fabrication-refusal.md",
+      "sha256": "da1bbe97fed0db80c45b522d234697c8f94bc5de4e54c901cba6eaea93a7a9c7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/self-review-promotion.md",
+      "target_path": "skills/loop-report-writer/examples/self-review-promotion.md",
+      "sha256": "7ba292ae76006f561583b9cd6bb78dfd2625a1bc90bcba1a317818b86f9b68bb",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/weekly-fast-loop.md",
+      "target_path": "skills/loop-report-writer/examples/weekly-fast-loop.md",
+      "sha256": "74d68099861131fbb865417ac8ffc5eebf45251a4ee2beb5a1d91f199e11c5b2",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/achievement-rewrite-patterns.md",
+      "target_path": "skills/loop-report-writer/references/achievement-rewrite-patterns.md",
+      "sha256": "d05903d0e7bcf97f0ccaf5e80c525c913862e33516c6ff393c23123d81b8b0db",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/evidence-notes.md",
+      "target_path": "skills/loop-report-writer/references/evidence-notes.md",
+      "sha256": "652e5a79217c55678572aac34da633cf61ed2d8e5d8f4cecc52e5d5a62e02611",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/report-rubric.md",
+      "target_path": "skills/loop-report-writer/references/report-rubric.md",
+      "sha256": "e25340d91391424afc0df2cd31159858945b4569a97f62c1908a193548cdcf0a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/results-ledger.md",
+      "target_path": "skills/loop-report-writer/references/results-ledger.md",
+      "sha256": "e9ff0056501f104a572f726ca8d833c16d42b9204bfd90f5c11f21dc60ff3d0b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/scenario-guide.md",
+      "target_path": "skills/loop-report-writer/references/scenario-guide.md",
+      "sha256": "a012af64e398ed8619b135aa5102abb6d4d299525974f689587aa82aa99a3a93",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/value-gate-guide.md",
+      "target_path": "skills/loop-report-writer/references/value-gate-guide.md",
+      "sha256": "3720d8c22f4b6848f645a5fbf991f2309e6e6d98e889fb4ae278012426058dc5",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-report-writer-v0.3.1-SHA256SUMS.txt",
+      "sha256": "5f3574ca62a233ec32a98540ff8c3c16d8a8e735595d7905a6e991779dfac86a",
+      "kind": "receipt_or_checksum"
+    },
+    {
+      "asset": "loop-report-writer-v0.3.1.tar.gz",
+      "sha256": "7b1f9da92af45e7a540fffae7c275d8db5c3ac4af9380e228a651142496aaef5",
+      "runtime_files_compared": 14,
+      "runtime_mismatches": [],
+      "asset_files": 55
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

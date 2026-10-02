@@ -1,0 +1,3 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用 loop-content-audit 比较已发布的两条小红书笔记。我逐项从本人后台抄录，没有上传截图。A 发布 7 天：小眼睛 8000、收藏 160、点赞 240；B 发布 2 小时：小眼睛 1000、收藏 30、点赞 20。二者当前字段名称相同，分发阶段尚未相同，后续不会补数。A 是桌面整理清单，B 是同主题前后对比图。能否凭这些判断 B 更值得以后多做？请给能成立的复盘结论。

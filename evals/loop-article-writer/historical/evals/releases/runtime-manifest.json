@@ -1,0 +1,82 @@
+{
+  "definition": "SHA256 of sorted relative_path + NUL + file_sha256 + LF; runtime text and agent metadata only",
+  "runtime_sha256": "1e295ab9c5f80279a805aa0e1c66e0bfafb9845c6e5e4a3434f0b12ba5428558",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "24b7a066b2f539f51b140909288c827765b06c14db18f2c4f1089eefc43eecb0"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "4154b6816c0024cd7e5010002e237626d983b03160a925bd50c5be90d9281dff"
+    },
+    {
+      "path": "assets/article-brief-template.md",
+      "sha256": "c49895e36d3cf98b3eb77075e5d2b9c1d7b0478a9ab571f57f2c8cd88861b53a"
+    },
+    {
+      "path": "assets/prompt-examples.md",
+      "sha256": "7b133e86bfaf55eb7167ff57e27fc09a91231ebd980f2426fed57c15635b9c57"
+    },
+    {
+      "path": "assets/qa-scorecard-template.md",
+      "sha256": "68acda2b81471b8982e2e6ee2a3337f4e983360bdc5d6ec4e168a3c2d6b3c478"
+    },
+    {
+      "path": "assets/source-map-template.md",
+      "sha256": "e9db84d460a5d65442bf7819eb4c925fdd7ac32713ee3225a86c27d31fcfcd8e"
+    },
+    {
+      "path": "examples/qa-only-bad-draft.md",
+      "sha256": "6f5072670b5f3fee911fc826638f7322b912c5c25162c94a730c7f3b26137c23"
+    },
+    {
+      "path": "examples/wechat-full-loop.md",
+      "sha256": "1f842784c86e212135f3af6b6b49cfb6e994961b50df9b315ccb38ed4734995a"
+    },
+    {
+      "path": "examples/xhs-rewrite-qa.md",
+      "sha256": "f578aabc695d81052d37010e4946926bb1d6047e0998d0fa90d633421a552dbd"
+    },
+    {
+      "path": "references/anti-ai-style-guide.md",
+      "sha256": "3697cdd45c5a805d39a95b3feec8c3e1ee24df9186bb5686c7e8802fa0ab0ed5"
+    },
+    {
+      "path": "references/article-patterns.md",
+      "sha256": "82c40743cc4185cdcb6772c75de7f36daa32dbdb12c86babc6b54f60b0f052b3"
+    },
+    {
+      "path": "references/chinese-ai-tone-patterns.md",
+      "sha256": "2fea4a6d7209089c7b5d625c848771dd7084a85150ed24a984594daa28f05fe2"
+    },
+    {
+      "path": "references/fact-check-pass.md",
+      "sha256": "afe703d57d2cf1cbd45d2216d8c0e14bde8a1ecf6402af3cc831d3df3ea651d4"
+    },
+    {
+      "path": "references/fact-discipline.md",
+      "sha256": "b2b19ec268749ac0f609485a8d0755c3d6583fbe1aff90bc88b51eff467029a1"
+    },
+    {
+      "path": "references/platform-wechat-guide.md",
+      "sha256": "abf39f92f45c18fc831b1d0f927a2203b5560a6fc12492dfe2239cf3106eb0ee"
+    },
+    {
+      "path": "references/platform-x-guide.md",
+      "sha256": "8c15a0b2051b5f84fe4430e570ca5863acca381c6a541bc7e57c3688fe7af87f"
+    },
+    {
+      "path": "references/platform-xhs-guide.md",
+      "sha256": "d0c3885a11b84a58f6580c4c3d3fb7c488b47e8fc0a72f1ed122575fddb7afa6"
+    },
+    {
+      "path": "references/upgrade-log.md",
+      "sha256": "5c7aa8b4ca195452db38e99281c5a93aa11c06c23ba17d90dcaf1aaa7688fb95"
+    },
+    {
+      "path": "references/writing-rubric.md",
+      "sha256": "87891b63b78bd8e614092a45c61555585b273b54eb42cccf3ca92a4aae3249fc"
+    }
+  ]
+}

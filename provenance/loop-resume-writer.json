@@ -1,0 +1,328 @@
+{
+  "product": "loop-resume-writer",
+  "version": "0.3.4",
+  "repository": "steven-pku/loop-resume-writer",
+  "tag": "v0.3.4",
+  "tag_object": {
+    "sha": "46a0af1838f7413f63c0c2f1266adba8c8e880a4",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-resume-writer/git/tags/46a0af1838f7413f63c0c2f1266adba8c8e880a4"
+  },
+  "commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+  "release_id": 392987296,
+  "release_url": "https://github.com/steven-pku/loop-resume-writer/releases/tag/v0.3.4",
+  "assets": [
+    {
+      "id": 579105110,
+      "name": "loop-resume-writer-0.3.4-a7fcebf4-runtime.zip",
+      "size": 26020,
+      "digest": "sha256:e3a5fa3cb76f0b996ff472b3a7f7bcc0eb00b326d08881cb14ff957b50f96e6a",
+      "browser_download_url": "https://github.com/steven-pku/loop-resume-writer/releases/download/v0.3.4/loop-resume-writer-0.3.4-a7fcebf4-runtime.zip",
+      "updated_at": "2026-09-21T13:32:46Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "86a353eb751000548a1f25dd2d86eb8264ca2869f6d24b28bf2e68dfe34a2ab6",
+  "captured_at": "2026-10-02T21:46:52.970707+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-resume-writer",
+  "runtime_manifest_sha256": "75221d86963a42fb2ad55dd93ce1a7f4ebc7eea3bb75ace9b36ea896888f3f63",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "f5bea7f6b456c2f4c46f8ab3ea2154dafd627b3b70ab8a3266e9053f53340149",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/ledger-template.md",
+      "sha256": "7c5280df89cce7ceac993cfb5b9822f54cd3ecdb17fea0416229920b728e181c",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/qa-scorecard-template.md",
+      "sha256": "96bb1855c1f5707e684b943f416d1e8b93ff6e4baa9e6b96ee6a78b0d6d2b4cb",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/resume-brief-template.md",
+      "sha256": "f6a4b59f10be2eabed8439a316770626cc711b1e89cded798513c41e7695aa99",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/achievement-rewrite-patterns.md",
+      "sha256": "683dca545a5f6f1ee8f7077813e2a2c087a47c099783e4fe4a90e2d2b8c4df98",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/evidence-notes.md",
+      "sha256": "e8d4215aed0358ae085de10dd2477cdbe83de856f7fecd9dae9f49727dbfee3d",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/jd-mapping-guide.md",
+      "sha256": "defcf37593a36eba1b9c0dca7360b3a6c478fc0df6357dade760dffad1cb9fef",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-search-guide.md",
+      "sha256": "c819ec5bdfdecad99029a7a31ab9e4461ba6ba14f17315205dffc55ba964715e",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/resume-audit-mode.md",
+      "sha256": "74b97bfc5d804cbbd202dcb59d7b14b09bb186f6492497de969f5b771e2f5e40",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/resume-rubric.md",
+      "sha256": "eaafdd58dac7774ddfa60b884121a52f4eb3687f5210c1628e5038451fa5a789",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-resume-writer/CHANGELOG.md",
+      "sha256": "9c0bfa73968ad7d299ab26fb11155b77b44310045b97f94d8fd74f07fe5281cf",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-resume-writer/LICENSE",
+      "sha256": "f5ef1cb91215a16f97573a4f2099068c4069511c97c3e175375319e7ea1cfff3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-resume-writer/REVIEW.md",
+      "sha256": "6d387a4ca17719c0f3b3028de6d81e70dfe7e9c2b45c056bf784667e1eb85594",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-resume-writer/SECURITY.md",
+      "sha256": "88b535e07506a5a5f47475f18ca9fb6482f61002a536e58d4aee1768a8ca4483",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-resume-writer/SKILL.md",
+      "sha256": "f5bea7f6b456c2f4c46f8ab3ea2154dafd627b3b70ab8a3266e9053f53340149",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/ledger-template.md",
+      "target_path": "skills/loop-resume-writer/assets/ledger-template.md",
+      "sha256": "7c5280df89cce7ceac993cfb5b9822f54cd3ecdb17fea0416229920b728e181c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/qa-scorecard-template.md",
+      "target_path": "skills/loop-resume-writer/assets/qa-scorecard-template.md",
+      "sha256": "96bb1855c1f5707e684b943f416d1e8b93ff6e4baa9e6b96ee6a78b0d6d2b4cb",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/resume-brief-template.md",
+      "target_path": "skills/loop-resume-writer/assets/resume-brief-template.md",
+      "sha256": "f6a4b59f10be2eabed8439a316770626cc711b1e89cded798513c41e7695aa99",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.3.md",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-20-v0.3.3.md",
+      "sha256": "3d203813b3c68d294fe41d9cca77fcfd6a11a4d56a0e5a41ff4a2f2fab5ad50e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.3/manifest.json",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-20-v0.3.3/manifest.json",
+      "sha256": "a88d1479c650ad202c4cea6d59d3e08c127c0c71df6e819083f4e597aa773c1b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02.md",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02.md",
+      "sha256": "b64f145dd415497167f625e7ef3d5527668b7aa59f10c72efc51213c465d7f29",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/FINDINGS-ADDENDUM.md",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/FINDINGS-ADDENDUM.md",
+      "sha256": "1dbfea458b1e2079cd8fc2c82fb1f8d6062c6435c856c0bab7d5f94c0cfcb84e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/GRADING.md",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/GRADING.md",
+      "sha256": "74994c79b429b492eb6d950ace8a5b05dbc34f513871ba0f83574d1a4c96ef13",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/cases/R01/verdict.json",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/cases/R01/verdict.json",
+      "sha256": "edb00709d3ff4d07a2ba45e5b73a911722d6e5c1368fee736bc00c0f84a0a22c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-01-output.txt",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-01-output.txt",
+      "sha256": "eefc5da88bdb28aa449c78288804fb0c01fbeee89f7d2e48d8a2ca96c00ac857",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-02-output.txt",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-02-output.txt",
+      "sha256": "95331b870fcb83e4ff9bf3b34a4f50be42b71914313b7bfee278008ce84c9283",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-03-output.txt",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-03-output.txt",
+      "sha256": "083360b73a9506fa98f3f174d632f6bfc4947ea35f42a212a6c03fbd0699315d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-04-output.txt",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/cases/R02/turn-04-output.txt",
+      "sha256": "f7a84bdaea5ccac02dc383cdce07a6fd56cdd114da3e4153da9e8ef573ad5350",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.3.4-pro02/manifest.json",
+      "target_path": "skills/loop-resume-writer/evals/releases/2026-09-21-v0.3.4-pro02/manifest.json",
+      "sha256": "5b5c3776b1dc4ff77e54d3eeb305fe1d29d7109d4c16984ecb216a812f3c3c21",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/pre-repair-review.md",
+      "target_path": "skills/loop-resume-writer/evals/releases/pre-repair-review.md",
+      "sha256": "7aea5dd881845c55fe782d484fd4962bde7ee6d84eeba7fb878be96c4584ec95",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "references/achievement-rewrite-patterns.md",
+      "target_path": "skills/loop-resume-writer/references/achievement-rewrite-patterns.md",
+      "sha256": "683dca545a5f6f1ee8f7077813e2a2c087a47c099783e4fe4a90e2d2b8c4df98",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/career-facts-ledger.md",
+      "target_path": "skills/loop-resume-writer/references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/evidence-notes.md",
+      "target_path": "skills/loop-resume-writer/references/evidence-notes.md",
+      "sha256": "e8d4215aed0358ae085de10dd2477cdbe83de856f7fecd9dae9f49727dbfee3d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/jd-mapping-guide.md",
+      "target_path": "skills/loop-resume-writer/references/jd-mapping-guide.md",
+      "sha256": "defcf37593a36eba1b9c0dca7360b3a6c478fc0df6357dade760dffad1cb9fef",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-search-guide.md",
+      "target_path": "skills/loop-resume-writer/references/platform-search-guide.md",
+      "sha256": "c819ec5bdfdecad99029a7a31ab9e4461ba6ba14f17315205dffc55ba964715e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/resume-audit-mode.md",
+      "target_path": "skills/loop-resume-writer/references/resume-audit-mode.md",
+      "sha256": "74b97bfc5d804cbbd202dcb59d7b14b09bb186f6492497de969f5b771e2f5e40",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/resume-rubric.md",
+      "target_path": "skills/loop-resume-writer/references/resume-rubric.md",
+      "sha256": "eaafdd58dac7774ddfa60b884121a52f4eb3687f5210c1628e5038451fa5a789",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-resume-writer-0.3.4-a7fcebf4-runtime.zip",
+      "sha256": "e3a5fa3cb76f0b996ff472b3a7f7bcc0eb00b326d08881cb14ff957b50f96e6a",
+      "runtime_files_compared": 11,
+      "runtime_mismatches": [],
+      "asset_files": 13
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

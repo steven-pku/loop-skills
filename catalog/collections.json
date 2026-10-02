@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "semantics": "selection lists only; no automatic workflow",
+  "collections": {
+    "content": [
+      "loop-topic-picker",
+      "loop-article-writer",
+      "loop-script-writer",
+      "loop-content-audit"
+    ],
+    "career": [
+      "loop-report-writer",
+      "loop-resume-writer",
+      "loop-interview-writer",
+      "loop-negotiation"
+    ],
+    "decision": [
+      "loop-decision"
+    ]
+  }
+}

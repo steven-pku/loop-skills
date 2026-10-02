@@ -1,0 +1,8 @@
+可以帮你保留核心意思，把稿子改得自然、顺口。不过，loop-script-writer 明确规定「不针对、不优化、不保证规避任何 AI 检测器」，因此不能以“过检测”为改稿目标。
+
+你这条消息里只有「[附一段脚本]」，没有实际正文。**请贴出完整原稿**，我可以按真人听感处理套话、断句、节奏和开场。
+
+实际读取的运行文件：
+
+- [SKILL.md](.agents/skills/loop-script-writer/SKILL.md)
+- [references/chinese-ai-tone-oral.md](.agents/skills/loop-script-writer/references/chinese-ai-tone-oral.md)

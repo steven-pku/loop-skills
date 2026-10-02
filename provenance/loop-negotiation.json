@@ -1,0 +1,341 @@
+{
+  "product": "loop-negotiation",
+  "version": "0.4.2",
+  "repository": "steven-pku/loop-negotiation",
+  "tag": "v0.4.2",
+  "tag_object": {
+    "sha": "4ff2f9f318c0702cbae807036d521dd13da82007",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-negotiation/git/tags/4ff2f9f318c0702cbae807036d521dd13da82007"
+  },
+  "commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+  "release_id": 392987424,
+  "release_url": "https://github.com/steven-pku/loop-negotiation/releases/tag/v0.4.2",
+  "assets": [
+    {
+      "id": 579105452,
+      "name": "loop-negotiation-0.4.2-ea6772d4-runtime.zip",
+      "size": 40189,
+      "digest": "sha256:8b69cdace9f0e2cd6c57adae986a40f686d4b6f0a3e70176192b010a5024da1e",
+      "browser_download_url": "https://github.com/steven-pku/loop-negotiation/releases/download/v0.4.2/loop-negotiation-0.4.2-ea6772d4-runtime.zip",
+      "updated_at": "2026-09-21T13:32:57Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "94370890edb173917b1cdb59be42ea87a6a5a418f6017d7658176120d06805ef",
+  "captured_at": "2026-10-02T21:46:57.277920+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-negotiation",
+  "runtime_manifest_sha256": "6ecf866136c9c32236d0e0890915ec5595a8d385f4fc0a86c0a111932469e6fc",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "966ed55bc9e1b19a9c61d2eef5c487300fc39d6fc60a3b46e47f6454dbd932fa",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/negotiation-brief-template.md",
+      "sha256": "3da6e83cfc5deffb359397ff4189b012ff8e567ac5b3f58828a4782885163a25",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/qa-scorecard-template.md",
+      "sha256": "5f727680263fd905d7db138a1fe92ff5a80a211f8411537a2f9afc9907e93247",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/script-card-template.md",
+      "sha256": "043b2266226ba6fa37bc8d4a31c117fcd68f941e4240d09ef4f3a39186ca7453",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/batna-gate-guide.md",
+      "sha256": "ad3f7564ba917cacc58d201f21f2cacdc8b114086e7503299c757abb7da16b01",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/brief-guide.md",
+      "sha256": "3e45fc5df922be30e7f522fd6c5f665fb2b6bec2757bbc450bbb9de0eb48d0d4",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/cn-workplace-notes.md",
+      "sha256": "e77e38cb6fa334061c8584050e18bf538d6699fbf51b762b0f8dfe4f0de1a28d",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/evidence-notes.md",
+      "sha256": "ee6aa8eb5fe90393abcaacb0f1fd85e8c7d51de364f330245ab44bf068fb4412",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/mock-adversary-guide.md",
+      "sha256": "ac7ae1ba5d86979b1d09c053af5806ede98be0fc636243a53638edffa9c0ec3b",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/negotiation-rubric.md",
+      "sha256": "34e25bd8c5842cccd61069e3ca7a036999fb595e0aa4b5787cdfe927faf0167b",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/scenario-guide.md",
+      "sha256": "f0fccdbb4539de37aedef92731eda0b05c084fdad1100d49d8782f74b0400cb0",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/script-card-patterns.md",
+      "sha256": "6a869f5cf478b25ca4cd682c9f59f8b9363919a71176ef09d6b091e1ab35e3ba",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-negotiation/CHANGELOG.md",
+      "sha256": "ad3660541f72ae3a50851edd752083c18e3bf1808be3384899d741a9ac03baa4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-negotiation/LICENSE",
+      "sha256": "f5ef1cb91215a16f97573a4f2099068c4069511c97c3e175375319e7ea1cfff3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-negotiation/REVIEW.md",
+      "sha256": "509175ea85b66cda063eff21c881aedc61f7508718c47f3b505bc7028022cc29",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-negotiation/SECURITY.md",
+      "sha256": "01e97eb9cd9512003779482b51e9de60a2cadf7d6f1004b87f1953c704724020",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-negotiation/SKILL.md",
+      "sha256": "966ed55bc9e1b19a9c61d2eef5c487300fc39d6fc60a3b46e47f6454dbd932fa",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/negotiation-brief-template.md",
+      "target_path": "skills/loop-negotiation/assets/negotiation-brief-template.md",
+      "sha256": "3da6e83cfc5deffb359397ff4189b012ff8e567ac5b3f58828a4782885163a25",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/qa-scorecard-template.md",
+      "target_path": "skills/loop-negotiation/assets/qa-scorecard-template.md",
+      "sha256": "5f727680263fd905d7db138a1fe92ff5a80a211f8411537a2f9afc9907e93247",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/script-card-template.md",
+      "target_path": "skills/loop-negotiation/assets/script-card-template.md",
+      "sha256": "043b2266226ba6fa37bc8d4a31c117fcd68f941e4240d09ef4f3a39186ca7453",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.4.1.md",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-20-v0.4.1.md",
+      "sha256": "22783222eeca938edff9c2a24b668472f479e2cf5368145a2c8a15a24598e798",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.4.1/manifest.json",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-20-v0.4.1/manifest.json",
+      "sha256": "e58f83ae63a3c68ecf9b4b785f0d4016535f1ba645381b4acb5a9b796e55a271",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02.md",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02.md",
+      "sha256": "147a7b73977c49f073b53da6d16e69d5df49b3d0bb826603a68407b839ea6340",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/FINDINGS-ADDENDUM.md",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/FINDINGS-ADDENDUM.md",
+      "sha256": "748f014dc59581c8827739c1743f6e57bc97654c154148c7a10e21d1eb9b56b9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/GRADING.md",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/GRADING.md",
+      "sha256": "b02cf43cf99763feea2002c5921031e91d8e95ece21eca80b0c402b1ccc9ec8d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/cases/N01/turn-01-output.txt",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/cases/N01/turn-01-output.txt",
+      "sha256": "6a8c7ef0976dd3c0a773b03cd6680aea90a14f1d782dd7a184a7dcff4cc8f9ee",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/cases/N01/turn-02-output.txt",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/cases/N01/turn-02-output.txt",
+      "sha256": "ba065d25ee60441a9a740cddc0d0688516e7376e645a31743ef9ca8099d9a5bc",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/cases/N02/turn-01-output.txt",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/cases/N02/turn-01-output.txt",
+      "sha256": "33601128e43326aee380073bed83e66beb6d3ee6b52d690b05aca6bdf93ef301",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/cases/N03/turn-01-output.txt",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/cases/N03/turn-01-output.txt",
+      "sha256": "78b7fca0ad8d64f8eea33f4e1e35711833c86cd2f9952da3dfcc0a126a75c3a2",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/cases/N04/turn-01-output.txt",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/cases/N04/turn-01-output.txt",
+      "sha256": "79c36fc7798cb9116f3375c4ab289170d5a6b5e65898e582f95b2d47cd09e7ac",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-21-v0.4.2-pro02/manifest.json",
+      "target_path": "skills/loop-negotiation/evals/releases/2026-09-21-v0.4.2-pro02/manifest.json",
+      "sha256": "f1930974c4ce1928efd15ed8a5a4c2eded9f1208488a36186a83293bc3200772",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/pre-repair-review.md",
+      "target_path": "skills/loop-negotiation/evals/releases/pre-repair-review.md",
+      "sha256": "f5c0b24cd9dcd947193621fa2c93cbfd70e75354f4160587ec71fa7b28c0ae85",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "references/batna-gate-guide.md",
+      "target_path": "skills/loop-negotiation/references/batna-gate-guide.md",
+      "sha256": "ad3f7564ba917cacc58d201f21f2cacdc8b114086e7503299c757abb7da16b01",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/brief-guide.md",
+      "target_path": "skills/loop-negotiation/references/brief-guide.md",
+      "sha256": "3e45fc5df922be30e7f522fd6c5f665fb2b6bec2757bbc450bbb9de0eb48d0d4",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/cn-workplace-notes.md",
+      "target_path": "skills/loop-negotiation/references/cn-workplace-notes.md",
+      "sha256": "e77e38cb6fa334061c8584050e18bf538d6699fbf51b762b0f8dfe4f0de1a28d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/evidence-notes.md",
+      "target_path": "skills/loop-negotiation/references/evidence-notes.md",
+      "sha256": "ee6aa8eb5fe90393abcaacb0f1fd85e8c7d51de364f330245ab44bf068fb4412",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/mock-adversary-guide.md",
+      "target_path": "skills/loop-negotiation/references/mock-adversary-guide.md",
+      "sha256": "ac7ae1ba5d86979b1d09c053af5806ede98be0fc636243a53638edffa9c0ec3b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/negotiation-rubric.md",
+      "target_path": "skills/loop-negotiation/references/negotiation-rubric.md",
+      "sha256": "34e25bd8c5842cccd61069e3ca7a036999fb595e0aa4b5787cdfe927faf0167b",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/scenario-guide.md",
+      "target_path": "skills/loop-negotiation/references/scenario-guide.md",
+      "sha256": "f0fccdbb4539de37aedef92731eda0b05c084fdad1100d49d8782f74b0400cb0",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/script-card-patterns.md",
+      "target_path": "skills/loop-negotiation/references/script-card-patterns.md",
+      "sha256": "6a869f5cf478b25ca4cd682c9f59f8b9363919a71176ef09d6b091e1ab35e3ba",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-negotiation-0.4.2-ea6772d4-runtime.zip",
+      "sha256": "8b69cdace9f0e2cd6c57adae986a40f686d4b6f0a3e70176192b010a5024da1e",
+      "runtime_files_compared": 12,
+      "runtime_mismatches": [],
+      "asset_files": 14
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

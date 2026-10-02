@@ -1,0 +1,7 @@
+当前仍为 **QA loop 2/2，Proposed／待决定**。
+
+已读的 [SKILL.md](.agents/skills/loop-decision/SKILL.md) 规定：“Only a new, explicit user request naming a finite additional number of loops extends the budget.” 因此“继续”尚未指定追加轮数，不能启动第三轮。
+
+**你要追加几轮？**例如“追加 1 轮”，将记为 `QA loop 3/3 · 用户追加 1 轮`，完成后再次停止交接。
+
+本轮新增读取文件：无。

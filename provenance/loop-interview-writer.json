@@ -1,0 +1,251 @@
+{
+  "product": "loop-interview-writer",
+  "version": "0.2.3",
+  "repository": "steven-pku/loop-interview-writer",
+  "tag": "v0.2.3",
+  "tag_object": {
+    "sha": "ebe6c9443aa5b9c6327a897dc6ee42c710008510",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-interview-writer/git/tags/ebe6c9443aa5b9c6327a897dc6ee42c710008510"
+  },
+  "commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+  "release_id": 393042293,
+  "release_url": "https://github.com/steven-pku/loop-interview-writer/releases/tag/v0.2.3",
+  "assets": [
+    {
+      "id": 579229343,
+      "name": "loop-interview-writer-v0.2.3.zip",
+      "size": 40205,
+      "digest": "sha256:b115d4d050698eb132297ccbc325cd9953c5259e07bbe6fffa2f119bc93257a2",
+      "browser_download_url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/loop-interview-writer-v0.2.3.zip",
+      "updated_at": "2026-09-21T14:43:22Z"
+    },
+    {
+      "id": 579229344,
+      "name": "loop-interview-writer-v0.2.3.zip.sha256",
+      "size": 99,
+      "digest": "sha256:e2911addff3c4894c792cb448874bf88a6121c89cd79dbd2571c9e14c58aad76",
+      "browser_download_url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/loop-interview-writer-v0.2.3.zip.sha256",
+      "updated_at": "2026-09-21T14:43:22Z"
+    },
+    {
+      "id": 579229342,
+      "name": "RELEASE_RECEIPT.json",
+      "size": 852,
+      "digest": "sha256:9dfbd71a5c43ad0df309c0c8f695ac891eef3210c5d046d2cde0c35f4f93ea8a",
+      "browser_download_url": "https://github.com/steven-pku/loop-interview-writer/releases/download/v0.2.3/RELEASE_RECEIPT.json",
+      "updated_at": "2026-09-21T14:43:22Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "50b816699b6048a52fc44e13adb66026a222cc10216ea6558749266bba7a6c88",
+  "captured_at": "2026-10-02T21:46:57.343904+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-interview-writer",
+  "runtime_manifest_sha256": "7ea53cbf4c8f7bf692893b1e360c4f0d2452f31111c37821c0aa88c945e2fa12",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "14c035a680f62773cb0254d1f32f6ad759b1dc65ed7bdc0e473e724f8d730d0c",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/answer-scorecard-template.md",
+      "sha256": "90764715c494968a0f05cb2ef971c63a47ad711fb3f13e915b049742151502c9",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/cheatsheet-template.md",
+      "sha256": "e03e8c9b4936f3de310e4f22331fd7876794731dea5bcf91bd9e79274c1057ed",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/interview-brief-template.md",
+      "sha256": "5e1bd3013509f322be36670001323c349da28282434ad676ed394e740b31df2a",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/story-card-template.md",
+      "sha256": "887a56750cd7135343e93c083d1d883db44aef40d2a08804bffcff18a9c77324",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/interview-rubric.md",
+      "sha256": "bc0d87de9400a7df00db2573a1480e64f38a02177f5338243ecc8fd66ee998b8",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/interviewer-mode.md",
+      "sha256": "e3c0d1e379d5d3f1e99f48ff63569ec01f9dc149b63218371755929825069240",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/mock-followup-guide.md",
+      "sha256": "86b4dede589acf9f3932eae7a3c8e70d6ba761bf4205fe4bcbd8e3b50a22c9aa",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/question-taxonomy.md",
+      "sha256": "0adf6339aeeee3b73d100ee9ac1fd177e99281a4f04300ed048870e432e5b52c",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/spoken-answer-guide.md",
+      "sha256": "b8d76485a9b9a3577afd0d9bb845e6b7ebb990d59a5c656cc9677bd93560e8e5",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/star-story-bank-guide.md",
+      "sha256": "8cf3d955cd20c2e2c300db5838e2b3d9d28486b4b1038f09a20a98e34d961078",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-interview-writer/LICENSE",
+      "sha256": "f5ef1cb91215a16f97573a4f2099068c4069511c97c3e175375319e7ea1cfff3",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-interview-writer/REVIEW.md",
+      "sha256": "0fc16e90dec2f4680853bfd7c3fdd0c1c9b1067462f941fbbe5585ece50df0eb",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-interview-writer/SECURITY.md",
+      "sha256": "86166d588a2d898169382871b1bfcfbf6af8aaf34c03a7ba5e2a047c539adabc",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-interview-writer/SKILL.md",
+      "sha256": "14c035a680f62773cb0254d1f32f6ad759b1dc65ed7bdc0e473e724f8d730d0c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/answer-scorecard-template.md",
+      "target_path": "skills/loop-interview-writer/assets/answer-scorecard-template.md",
+      "sha256": "90764715c494968a0f05cb2ef971c63a47ad711fb3f13e915b049742151502c9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/cheatsheet-template.md",
+      "target_path": "skills/loop-interview-writer/assets/cheatsheet-template.md",
+      "sha256": "e03e8c9b4936f3de310e4f22331fd7876794731dea5bcf91bd9e79274c1057ed",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/interview-brief-template.md",
+      "target_path": "skills/loop-interview-writer/assets/interview-brief-template.md",
+      "sha256": "5e1bd3013509f322be36670001323c349da28282434ad676ed394e740b31df2a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/story-card-template.md",
+      "target_path": "skills/loop-interview-writer/assets/story-card-template.md",
+      "sha256": "887a56750cd7135343e93c083d1d883db44aef40d2a08804bffcff18a9c77324",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/career-facts-ledger.md",
+      "target_path": "skills/loop-interview-writer/references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/interview-rubric.md",
+      "target_path": "skills/loop-interview-writer/references/interview-rubric.md",
+      "sha256": "bc0d87de9400a7df00db2573a1480e64f38a02177f5338243ecc8fd66ee998b8",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/interviewer-mode.md",
+      "target_path": "skills/loop-interview-writer/references/interviewer-mode.md",
+      "sha256": "e3c0d1e379d5d3f1e99f48ff63569ec01f9dc149b63218371755929825069240",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/mock-followup-guide.md",
+      "target_path": "skills/loop-interview-writer/references/mock-followup-guide.md",
+      "sha256": "86b4dede589acf9f3932eae7a3c8e70d6ba761bf4205fe4bcbd8e3b50a22c9aa",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/question-taxonomy.md",
+      "target_path": "skills/loop-interview-writer/references/question-taxonomy.md",
+      "sha256": "0adf6339aeeee3b73d100ee9ac1fd177e99281a4f04300ed048870e432e5b52c",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/spoken-answer-guide.md",
+      "target_path": "skills/loop-interview-writer/references/spoken-answer-guide.md",
+      "sha256": "b8d76485a9b9a3577afd0d9bb845e6b7ebb990d59a5c656cc9677bd93560e8e5",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/star-story-bank-guide.md",
+      "target_path": "skills/loop-interview-writer/references/star-story-bank-guide.md",
+      "sha256": "8cf3d955cd20c2e2c300db5838e2b3d9d28486b4b1038f09a20a98e34d961078",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-interview-writer-v0.2.3.zip",
+      "sha256": "b115d4d050698eb132297ccbc325cd9953c5259e07bbe6fffa2f119bc93257a2",
+      "runtime_files_compared": 12,
+      "runtime_mismatches": [],
+      "asset_files": 18
+    },
+    {
+      "asset": "loop-interview-writer-v0.2.3.zip.sha256",
+      "sha256": "e2911addff3c4894c792cb448874bf88a6121c89cd79dbd2571c9e14c58aad76",
+      "kind": "receipt_or_checksum"
+    },
+    {
+      "asset": "RELEASE_RECEIPT.json",
+      "sha256": "9dfbd71a5c43ad0df309c0c8f695ac891eef3210c5d046d2cde0c35f4f93ea8a",
+      "kind": "receipt_or_checksum"
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

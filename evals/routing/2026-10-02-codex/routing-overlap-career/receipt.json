@@ -1,0 +1,24 @@
+{
+  "id": "routing-overlap-career",
+  "execution_status": "EXECUTED",
+  "returncode": 0,
+  "seconds": 102.03,
+  "expected": [
+    "loop-interview-writer"
+  ],
+  "observed_explicit_instruction_reads": [
+    "loop-interview-writer"
+  ],
+  "observed_resource_products": [
+    "loop-interview-writer"
+  ],
+  "answer_sha256": "6d2142f431ddb85db5042025a2c0e6499448115b429ab1590b1d05653d290b51",
+  "semantic_verdict": "PENDING_REVIEW",
+  "host": "codex-cli 0.159.3",
+  "model": "gpt-6.1-sol",
+  "native_scope": ".agents/skills project directory; fresh ephemeral session; read-only",
+  "input_class": "synthetic",
+  "package_set": "tested-package-manifest.json from first build",
+  "final_package_verdict": "NOT_RUN_FINAL_PACKAGE",
+  "qualification": "Instructions and core resource bytes match fixed original source. Final packaging subsequently added unchanged historical document link dependencies and changed package README; final asset has not received a new native model run."
+}

@@ -1,0 +1,23 @@
+**中段密度成立，暂落在 18–20/20 高档；节点摘要不足以精确打分。** 未见明确的连续铺垫或密度塌陷。
+
+| 时间 | 密度判断 |
+|---|---|
+| 30s：技巧一＋反例演示 | 方法与反例都提供价值，演示不算空转 |
+| 45s：「但这招有个坑」 | 有效转折，并由后面的规避法承接 |
+| 55s：坑的规避法 | 新增可执行信息，推进主线 |
+| 70s：技巧二＋前后对比 | 方法与数据构成价值点；「我自己账号的数据」按已给定的 F1 处理 |
+| 88s：「第三个技巧和前两个正好相反」 | 有内容指向的悬念桥，计作转折 |
+
+相邻标记间隔为 **15、10、15、18 秒**，但标记间隔不等于无信息的平台期，反例和对比数据也要计入密度。不能仅凭 70–88s 相隔 18 秒就扣分。
+
+优先核对 **70–88s 的对比是否持续给出新信息**；若数据很早讲完，后面一直重复技巧二，才有平台期风险。目前没有证据要求删改。每约 10 秒一个价值点或转折是本技能的工艺参考，非 B站官方门槛；3 分钟稿也不套用 10 分钟稿的宽松标准。
+
+朗读核验受限于缺少逐字稿，本次沿用给定时间点，只评密度。`QA loop: 0/2`，未改写。
+
+实际读取的运行文件（均在项目内）：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+- `.agents/skills/loop-script-writer/references/script-rubric.md`
+- `.agents/skills/loop-script-writer/references/pacing-and-length.md`
+- `.agents/skills/loop-script-writer/references/platform-notes.md`
+- `.agents/skills/loop-script-writer/references/fact-discipline.md`

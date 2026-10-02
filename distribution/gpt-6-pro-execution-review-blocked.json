@@ -1,0 +1,19 @@
+{
+  "run_id": "loop-series-execution-review-02",
+  "requested_model": "GPT 6 Pro",
+  "effort_policy": "normal/default Pro preset",
+  "authorization_source": "Persisted user instruction names GPT 6 Pro for this same Loop consolidation; user approved execution",
+  "data_class": "synthetic",
+  "browser_state": "BLOCKED",
+  "dispatch_count": 0,
+  "response_count": 0,
+  "boundary_incidents": [],
+  "reason": "Existing review tab read timed out before command dispatch; documented rebind of the same Chrome tab timed out and reset the runtime. No alternative browser or model selected.",
+  "root_disposition": "needs_more_evidence",
+  "start_time": "2026-10-02T22:29:00+08:00",
+  "end_time": "2026-10-02T22:31:04+08:00",
+  "input_sha256": "4a1da7c75bc8d84cd48a7fa099bf3502da93c2cb88af4ab5d6a461d64778e318",
+  "input_characters": 26060,
+  "prepared_after_connection_probe": true,
+  "timing_precision": "approximate root-observed capability probe window, not a dispatch timestamp"
+}

@@ -1,0 +1,25 @@
+**本次开头与事实检查通过。QA loop 保持 1/2**：本次仅诊断，没有改稿，不增加或重置轮数。
+
+按“有照片整理需求的普通用户”判断，Hook Gate 通过：第二句用“找照片却只记得默认文件夹名”形成**痛点钩子**，第三句提供“拍摄日期加地点”的方法，兑现了隐含的解决承诺；“先拿一个文件夹试试”也是明确的 CTA。
+
+| 检查项 | 评分 | 依据 |
+|---|---:|---|
+| Hook 强度 | 23/25 | 第一句“起花哨名字”与第二句“新建文件夹”对应的问题略有错位，扣 1 分；第二句“它叫新建文件夹”的“它”容易被听成指照片，扣 1 分。 |
+| 事实纪律 | 10/10 | “设想”明确标出假设场景，不是亲历事实 F1；首尾是建议，可按 F0 处理。没有效果保证、统计或其他需要核实的 F2/F3。 |
+
+朗读模拟：共 **63 字**，按 **260 字/分的工作假设**，净口播约 **14.5 秒**，不含停顿。第二句在“回来”“照片”后停顿，第三句沿原逗号换气，基本顺口；未见成段书面语。按你的范围，不判目标时长偏差。
+
+仅列改进方向，不提供替换稿：
+
+1. 统一“名字花哨”与“默认名难辨认”的问题焦点。
+2. 明确第二句“它”指的是文件夹。
+3. 朗读时保留上述气口，避免第二句一口气念完。
+
+实际读取的 runtime 文件如下，均在项目内：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+- `.agents/skills/loop-script-writer/references/hook-types.md`
+- `.agents/skills/loop-script-writer/references/fact-discipline.md`
+- `.agents/skills/loop-script-writer/references/pacing-and-length.md`
+- `.agents/skills/loop-script-writer/references/script-rubric.md`
+- `.agents/skills/loop-script-writer/references/colloquial-craft.md`

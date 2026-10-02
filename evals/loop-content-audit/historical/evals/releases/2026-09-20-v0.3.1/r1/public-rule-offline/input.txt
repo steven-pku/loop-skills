@@ -1,0 +1,5 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用 loop-content-audit 审查这段已发布内容复盘。这次环境没有浏览或联网工具，请在当前材料内完成。
+报告：“小红书的官方 CES 就是赞×1＋藏×1＋评×4＋转×4＋关注×8，所以该笔记权重达标。出处是一个介绍页链接：https://example.invalid/platform-rule 。网页要求登录并上传后台截图后才能看正文。”
+我没有提供任何后台数据或规则正文，请判断这段论证目前能支撑什么，以及什么证据会改变结论。

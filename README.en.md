@@ -1,45 +1,31 @@
-# Loop Skills
+# Loop Skills · Draft. Review. Improve
 
-[中文](README.md) | English
+[中文](README.md) · [Installation](docs/installation.md) · [Compatibility and evidence](docs/compatibility.md)
 
-This is an overview, not a line-by-line translation. The [Chinese README](README.md) is the primary guide.
+A family of Agent Skills for content, career preparation, and decisions, using explicit criteria, bounded revision, and traceable evidence.
 
-## What it is
+This branch is a consolidation candidate. Nine independently versioned, self-contained products live under `skills/`. Their original fixed releases remain available in the legacy repositories. Candidate installation, native execution and semantic review are separate gates; the default entry and legacy repositories have not been switched or archived.
 
-A series for content creation, career preparation, and important conversations. Each uses explicit review criteria and bounded revision to help identify and improve weak drafts.
+## Choose one product
 
-## Available releases
+| Product | Use it for |
+| --- | --- |
+| [Topic Picker](skills/loop-topic-picker) | Select topics and produce a brief; no article drafting |
+| [Article Writer](skills/loop-article-writer) | Chinese opinion articles and QA |
+| [Script Writer](skills/loop-script-writer) | Spoken-video scripts and QA |
+| [Content Audit](skills/loop-content-audit) | Evidence-graded content postmortems |
+| [Report Writer](skills/loop-report-writer) | Workplace reports from real achievements |
+| [Resume Writer](skills/loop-resume-writer) | Chinese resumes and career-facts ledgers |
+| [Interview Writer](skills/loop-interview-writer) | Spoken interview answers and preparation |
+| [Negotiation](skills/loop-negotiation) | Salary and critical workplace conversations |
+| [Decision](skills/loop-decision) | Reversibility, evidence and decision memos |
 
-All nine entries below have public, non-draft, non-prerelease GitHub Releases as checked on 2026-09-21. A release does not imply full-suite, cross-host or real-world validation.
+Install only the product you need. Each runtime bundle closes over its own resources. Shared root documentation explains the family; it is not a runtime dependency. See [installation](docs/installation.md), [migration and rollback](docs/migration.md), and the exact [compatibility scope](docs/compatibility.md).
 
-- [Article Writer v0.3.0](https://github.com/steven-pku/loop-article-writer/releases/tag/v0.3.0): Chinese opinion articles, stance checks, structural review and fact discipline.
-- [Report Writer v0.3.1](https://github.com/steven-pku/loop-report-writer/releases/tag/v0.3.1): weekly reports and promotion materials grounded in a user-supplied achievement ledger.
+## Evidence and limits
 
-- [Script Writer v0.3.1](https://github.com/steven-pku/loop-script-writer/releases/tag/v0.3.1): Chinese spoken-video scripts, duration checks, fact boundaries and bounded revisions.
+Original inputs, outputs and environment limitations remain in `evals/<product>/historical/`. [Original release and review records](REVIEW-CANDIDATES.md) are preserved. New execution does not regrade old HOLD, PARTIAL or NOT_RUN results. Provenance maps every imported file to its fixed source. Scores do not verify facts or authorize publication.
 
-- [Decision v0.3.1](https://github.com/steven-pku/loop-decision/releases/tag/v0.3.1): Decision preparation, evidence checks, red-team review and stop-loss planning.
-- [Content Audit v0.3.1](https://github.com/steven-pku/loop-content-audit/releases/tag/v0.3.1): published-content diagnosis, evidence boundaries, attribution and improvement suggestions.
-- [Resume Writer v0.3.4](https://github.com/steven-pku/loop-resume-writer/releases/tag/v0.3.4): Chinese resumes and cover letters, factual experience and job matching.
-- [Negotiation v0.4.2](https://github.com/steven-pku/loop-negotiation/releases/tag/v0.4.2): salary and important-conversation preparation, minimum conditions, alternatives and bounded simulation.
-- [Topic Picker v0.4.1](https://github.com/steven-pku/loop-topic-picker/releases/tag/v0.4.1): topic selection by audience problem, trend-evidence checks and Topic Briefs.
-- [Interview Writer v0.2.3](https://github.com/steven-pku/loop-interview-writer/releases/tag/v0.2.3): interview preparation grounded in real experience, spoken answers, story banks and follow-up questions.
+## Contribute and license
 
-## Releases and historical reviews
-
-The [release and historical review directory](REVIEW-CANDIDATES.md) summarizes version-specific evidence and limitations for all nine releases. It also preserves the five earlier candidate commits and their historical HOLD status; those old snapshots are not the current installation targets and are not retroactively marked as passed.
-
-This index integration checks public release metadata, version identity and documentation only; it adds no model tests. Earlier runs, targeted retests, actual user turns and within-call simulations remain separate. Old-version results are not transferred to a new runtime, and recorded model names do not independently authenticate the backend.
-
-## Start
-
-Open the selected release and follow its README for project-scoped installation, the actually tested host scope, and a minimal first-use example. Installation instructions are not themselves evidence of native execution. This directory itself is not an installable skill and has no `SKILL.md`.
-
-## Limits
-
-Instructions depend on the host model following them. Scores are review aids, not calibrated measurements or guarantees. Each release documents its actual tests and remaining limitations; installation and model behavior are separate checks. Review outputs and redact private information before sharing them with a model host or a public issue.
-
-Use the selected release tag rather than assuming the default branch matches it. Historical candidate entries are retained for traceability, not as current installation recommendations. The [Loop Pattern](LOOP-PATTERN.md) describes the common approach.
-
-## License
-
-[MIT](LICENSE). Individual repositories carry their own license and attribution details.
+[Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [MIT](LICENSE). Each product retains its original copyright and third-party notices. See [provenance](docs/provenance.md).

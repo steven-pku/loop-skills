@@ -1,0 +1,327 @@
+{
+  "product": "loop-content-audit",
+  "version": "0.3.1",
+  "repository": "steven-pku/loop-content-audit",
+  "tag": "v0.3.1",
+  "tag_object": {
+    "sha": "c00836665da299a3e2a739298d63abcc15704947",
+    "type": "tag",
+    "url": "https://api.github.com/repos/steven-pku/loop-content-audit/git/tags/c00836665da299a3e2a739298d63abcc15704947"
+  },
+  "commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+  "release_id": 392461989,
+  "release_url": "https://github.com/steven-pku/loop-content-audit/releases/tag/v0.3.1",
+  "assets": [
+    {
+      "id": 576972731,
+      "name": "loop-content-audit-v0.3.1.zip",
+      "size": 381002,
+      "digest": "sha256:6391a4e8de07b1912d18d5000ad55fb26c7989c5697002ceae2e07b96dbff171",
+      "browser_download_url": "https://github.com/steven-pku/loop-content-audit/releases/download/v0.3.1/loop-content-audit-v0.3.1.zip",
+      "updated_at": "2026-09-20T14:38:44Z"
+    },
+    {
+      "id": 576972732,
+      "name": "loop-content-audit-v0.3.1.zip.sha256",
+      "size": 96,
+      "digest": "sha256:99b8d71ec83a034de104df160af2aead2b1408e2cffd714279a508b66485f5e2",
+      "browser_download_url": "https://github.com/steven-pku/loop-content-audit/releases/download/v0.3.1/loop-content-audit-v0.3.1.zip.sha256",
+      "updated_at": "2026-09-20T14:38:44Z"
+    }
+  ],
+  "authoritative_source": "fixed_tag_source_tree",
+  "source_archive_sha256": "45dd7bc6cca5df83ea92208a5900ee1971beee397face77c1c513c9d728916a6",
+  "captured_at": "2026-10-02T21:46:52.171705+08:00",
+  "packaging_revision": 1,
+  "new_directory": "skills/loop-content-audit",
+  "runtime_manifest_sha256": "6504a161fc472c69e55acb30d40852b70197c7d4b60af8a2c4ab2884be08cef8",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "a1f1055686761d1fb4ddf1cc3a24b715d10707abbc8150ec424e12ff32d91c6a",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/cover.jpg",
+      "sha256": "917dd90ee27501f48e1b4b7194a3213021551a4ef6c0ae7612eb2f379b32bd37",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/single-post-diagnosis.md",
+      "sha256": "63d94902fe4f349647ca4ad4a31b3b2842b0784ad474ff3b77b73bfafc19da66",
+      "mode": "0o644"
+    },
+    {
+      "path": "examples/xhs-note-gate-downgrade.md",
+      "sha256": "c3da38e5b88012f1cb08f06c12b2dd1b8fe1fdee205d3257270a32eca0a05acf",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/attribution-honesty.md",
+      "sha256": "fda3bf8009dd3054b89894d7e8e3cefe13a4d5f8b287f73237f68003635ebf03",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/audit-rubric.md",
+      "sha256": "f25ff6cfae0ba2075253b59055a52d1e46e78967ec1c2b9c1e578fdc8427769a",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/diagnosis-dimensions.md",
+      "sha256": "2e987d7f39e2be810eb27c3b65c357806193cfc10c5be0be7a042e016711350a",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/improvement-rules-standard.md",
+      "sha256": "d4686e6530b10047086d735aeebf8463e8899aa16f8107923460d219903175cd",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-bilibili.md",
+      "sha256": "0898ddcda89ae5f375019632c412cba4a25f961589cf82ea7369c44777067358",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-douyin.md",
+      "sha256": "a828a3a48d6a8e40a8e388b5f5721235004a6ab33f3ca15f0fa3cdd7db288265",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-shipinhao.md",
+      "sha256": "4294e44911311fc4cf92e3245a9c74133c4571c07629292d7730ac723f647fba",
+      "mode": "0o644"
+    },
+    {
+      "path": "references/platform-xhs.md",
+      "sha256": "406c20876789ae7a837fc106911d53896ee1fa2c01c15f3f1f1342a22cc61ad7",
+      "mode": "0o644"
+    }
+  ],
+  "imported_files": [
+    {
+      "source_path": "CHANGELOG.md",
+      "target_path": "skills/loop-content-audit/CHANGELOG.md",
+      "sha256": "c4f267f585b2d09b4e9ed1c2113731cb50d99c1514127b0e50649be57b4d35ba",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "LICENSE",
+      "target_path": "skills/loop-content-audit/LICENSE",
+      "sha256": "e6e7514ba6f941e42e12290d8067d17c804c2fce49d4477bab41c901ae184498",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "REVIEW.md",
+      "target_path": "skills/loop-content-audit/REVIEW.md",
+      "sha256": "6c5993ff527e33285d8445c0c3b7f0bab87479a5a03bcf268c1efe3b041d0245",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SECURITY.md",
+      "target_path": "skills/loop-content-audit/SECURITY.md",
+      "sha256": "44e5d1bf235cd1151e6fc26282d4af6b0c00848ea7462d9e729e27b01c626997",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false
+    },
+    {
+      "source_path": "SKILL.md",
+      "target_path": "skills/loop-content-audit/SKILL.md",
+      "sha256": "a1f1055686761d1fb4ddf1cc3a24b715d10707abbc8150ec424e12ff32d91c6a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "assets/cover.jpg",
+      "target_path": "skills/loop-content-audit/assets/cover.jpg",
+      "sha256": "917dd90ee27501f48e1b4b7194a3213021551a4ef6c0ae7612eb2f379b32bd37",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1.md",
+      "target_path": "skills/loop-content-audit/evals/releases/2026-09-20-v0.3.1.md",
+      "sha256": "9eac016cc87822803ab052038265c8e4bb55fc3962b883c395a56a56d9cf316d",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "target_path": "skills/loop-content-audit/evals/releases/2026-09-20-v0.3.1/manifest.json",
+      "sha256": "1ccb27f9c6fba11264b3ebfb9251c8e993e3743a21b92d840b8419ed715af5e5",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/releases/2026-09-20.md",
+      "target_path": "skills/loop-content-audit/evals/releases/2026-09-20.md",
+      "sha256": "4d7bffd3b3e0e2d86b29305487f1b7982a8ccc5c84619a86a9b8516de96831ac",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/README.md",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/README.md",
+      "sha256": "18a42be362b49f2534afb5e71434834da84b72c235166dbf7076376f2b100aa9",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/anchor-attribution-positive-graded-input.txt",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/anchor-attribution-positive-graded-input.txt",
+      "sha256": "8ab08856ddca9aa57e0a837bcf83d1dc5ca37f98342c27b30bc3c605924cffb7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/anchor-attribution-positive-graded-output.txt",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/anchor-attribution-positive-graded-output.txt",
+      "sha256": "e20ad4583370dc7024d1d7372e7d503d82fb84521d77e2947814d2ed46bde32e",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/mode-batch-small-sample-input.txt",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/mode-batch-small-sample-input.txt",
+      "sha256": "b8a255b47ca02c6ed6a5b34aada7978592f5873eeb72e3a0cce664acdd705951",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/mode-batch-small-sample-output.txt",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/mode-batch-small-sample-output.txt",
+      "sha256": "2f629c0334b6f9e7fdca7374053a67ec755ac0a03b14825beb91a6cab430f3a1",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "evals/review-evidence/receipt.json",
+      "target_path": "skills/loop-content-audit/evals/review-evidence/receipt.json",
+      "sha256": "af99b9f838c1b34f7a8154b7dad2f2e2638aefc36cef828b55e7de96fb24dac7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": false,
+      "role": "unchanged historical document link dependency"
+    },
+    {
+      "source_path": "examples/single-post-diagnosis.md",
+      "target_path": "skills/loop-content-audit/examples/single-post-diagnosis.md",
+      "sha256": "63d94902fe4f349647ca4ad4a31b3b2842b0784ad474ff3b77b73bfafc19da66",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "examples/xhs-note-gate-downgrade.md",
+      "target_path": "skills/loop-content-audit/examples/xhs-note-gate-downgrade.md",
+      "sha256": "c3da38e5b88012f1cb08f06c12b2dd1b8fe1fdee205d3257270a32eca0a05acf",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/attribution-honesty.md",
+      "target_path": "skills/loop-content-audit/references/attribution-honesty.md",
+      "sha256": "fda3bf8009dd3054b89894d7e8e3cefe13a4d5f8b287f73237f68003635ebf03",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/audit-rubric.md",
+      "target_path": "skills/loop-content-audit/references/audit-rubric.md",
+      "sha256": "f25ff6cfae0ba2075253b59055a52d1e46e78967ec1c2b9c1e578fdc8427769a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/diagnosis-dimensions.md",
+      "target_path": "skills/loop-content-audit/references/diagnosis-dimensions.md",
+      "sha256": "2e987d7f39e2be810eb27c3b65c357806193cfc10c5be0be7a042e016711350a",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/improvement-rules-standard.md",
+      "target_path": "skills/loop-content-audit/references/improvement-rules-standard.md",
+      "sha256": "d4686e6530b10047086d735aeebf8463e8899aa16f8107923460d219903175cd",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-bilibili.md",
+      "target_path": "skills/loop-content-audit/references/platform-bilibili.md",
+      "sha256": "0898ddcda89ae5f375019632c412cba4a25f961589cf82ea7369c44777067358",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-douyin.md",
+      "target_path": "skills/loop-content-audit/references/platform-douyin.md",
+      "sha256": "a828a3a48d6a8e40a8e388b5f5721235004a6ab33f3ca15f0fa3cdd7db288265",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-shipinhao.md",
+      "target_path": "skills/loop-content-audit/references/platform-shipinhao.md",
+      "sha256": "4294e44911311fc4cf92e3245a9c74133c4571c07629292d7730ac723f647fba",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    },
+    {
+      "source_path": "references/platform-xhs.md",
+      "target_path": "skills/loop-content-audit/references/platform-xhs.md",
+      "sha256": "406c20876789ae7a837fc106911d53896ee1fa2c01c15f3f1f1342a22cc61ad7",
+      "mode": "0o644",
+      "type": "file",
+      "runtime": true
+    }
+  ],
+  "historical_evidence_status": "preserved; old environment limits apply",
+  "asset_comparison": [
+    {
+      "asset": "loop-content-audit-v0.3.1.zip",
+      "sha256": "6391a4e8de07b1912d18d5000ad55fb26c7989c5697002ceae2e07b96dbff171",
+      "runtime_files_compared": 12,
+      "runtime_mismatches": [],
+      "asset_files": 74
+    },
+    {
+      "asset": "loop-content-audit-v0.3.1.zip.sha256",
+      "sha256": "99b8d71ec83a034de104df160af2aead2b1408e2cffd714279a508b66485f5e2",
+      "kind": "receipt_or_checksum"
+    }
+  ],
+  "bundled_history_note": "Linked original review/acceptance documents retained to keep bundled documentation links self-contained; root historical snapshots remain the full archive. These are preserved evidence, not new tests."
+}

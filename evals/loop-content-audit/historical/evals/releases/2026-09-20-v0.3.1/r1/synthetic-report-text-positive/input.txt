@@ -1,0 +1,10 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+请用 loop-content-audit 只读审查下面完整教学报告的文字、逻辑和可执行性，给报告质量意见。所有数字都是教学合成值，我不请求判断真实账号表现。
+【报告】
+对象：合成演示报告。数据 Gate：不代表真实数据通过。演示两条相同字段与 72 小时自然流量：A 播放 8000、收藏 80；B 播放 8000、收藏 120。演示算术为 1% 与 1.5%，只在设定内描述 0.5 个百分点差异，不证明原因。未核任何平台机制，无行业及格线。资料不足以完成异常数核查；暂未发现算术不一致。
+六维：钩子只看到 A 先自我介绍、B 先展示结果；完读结构没有留存曲线；互动设计 A 无提问、B 问困难；标签与搜索未提供来源；发布时机同为周三 19 点；人设均为整理知识。这些是材料描述，不是已证实的效果原因。
+[D] 开头结果展示可能有助于观众较早理解收益〔待验证〕。规则一：下一次真实可比发布只替换开头自介为结果展示，归脚本层；对照本账号同口径 5 秒字段，反复可比观察上升才增强支持，无变化只记本轮未获支持。
+[D] 具体困难提问可能改变评论互动〔待验证〕。规则二：另一次只把结尾换成具体困难问题，归脚本层；对照本账号同窗评论率及评论主题，多次方向一致增强支持，无变化削弱支持。
+五查：比较集只有设定内两条；先后不构成原因；小样本不推总体；没有排除均值回归；异常数据需取真实原始口径再核。两项测试分开排队，不同时改；尚无真实证据可宣告成功或失败。
+【报告结束】

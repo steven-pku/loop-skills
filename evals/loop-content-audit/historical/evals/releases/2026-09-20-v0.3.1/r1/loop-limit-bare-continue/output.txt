@@ -1,0 +1,13 @@
+**QA loop：2/2，维持 Halt；保留交接中的最佳稿，本轮未改写、未复评。** 残余仍为缺首图点击、搜索来源数据，以及留存曲线。
+
+按你声明，数据来源继续记为“用户后台转录，未独立核验”；虚构人名和组织名不自动意味着数字为合成。
+
+[SKILL.md](.agents/skills/loop-content-audit/SKILL.md) 明确规定：“Ask for a finite extension without starting another revision.” 当前“继续改善”未指定追加轮数，因此不能启动第三轮。
+
+**是否追加 1 轮改写与复评，将上限从 2/2 调整为 2/3？**
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-content-audit/SKILL.md`
+- `.agents/skills/loop-content-audit/references/audit-rubric.md`
+- `.agents/skills/loop-content-audit/references/attribution-honesty.md`

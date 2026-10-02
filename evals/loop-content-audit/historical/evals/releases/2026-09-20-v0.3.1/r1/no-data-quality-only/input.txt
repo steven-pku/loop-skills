@@ -1,0 +1,4 @@
+Use the project-installed loop-content-audit at .agents/skills/loop-content-audit/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+我的小红书笔记已经发布，暂无任何后台数据，不要猜表现。请用 loop-content-audit 先做内容质量诊断，给下一次可验证的改进。
+标题：出租屋改造分享。首图：只有改完后的房间。正文图序：第 1 张工具，第 2 张刷墙过程，第 3 张换灯，第 4 张软装购物，第 5 张成品全景。正文：周末把房间收拾了一遍，先刷墙再换灯，最后买了窗帘。结尾：大家觉得怎么样？标签：出租屋、家居。没有历史内容和留存资料。

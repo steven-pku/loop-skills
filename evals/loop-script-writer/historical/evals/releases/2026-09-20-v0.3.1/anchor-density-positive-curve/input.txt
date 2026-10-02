@@ -1,0 +1,6 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+QA Only 诊断这条 3 分钟 B站口播稿的中段(只看密度):
+[稿件中段:第 30-90 秒依次是——技巧一(30s,含一个反例演示)→ 「但这招有个坑」转折(45s)
+→ 坑的规避法(55s)→ 技巧二(70s,含前后对比数据,标注「我自己账号的数据」F1)→
+指向技巧三的悬念桥(88s:「第三个技巧和前两个正好相反」)]

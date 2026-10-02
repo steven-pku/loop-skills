@@ -1,0 +1,8 @@
+请粘贴完整的 3 分钟口播正文。目前方括号内只有结构说明，没有实际稿件，无法据此忠实压缩。
+
+项目内 loop-script-writer 明确要求：“require the complete source text”。收到正文后，会按标准档 **260 字/分钟**（工作假设）压至约 260 字，优先保留钩子、最强技巧及其案例、单一 CTA，并复核朗读时长。
+
+实际读取的运行文件：
+
+- [SKILL.md](.agents/skills/loop-script-writer/SKILL.md)
+- [references/pacing-and-length.md](.agents/skills/loop-script-writer/references/pacing-and-length.md)

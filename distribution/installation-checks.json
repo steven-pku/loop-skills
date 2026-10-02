@@ -1,0 +1,187 @@
+{
+  "status": "PASS",
+  "upgrade_restore_sequences": 18,
+  "conflict_fixtures": 4,
+  "all_install_name_set": "exact nine on both filesystem layouts",
+  "rows": [
+    {
+      "route": "codex",
+      "product": "loop-article-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 68,
+      "new_files": 57
+    },
+    {
+      "route": "codex",
+      "product": "loop-content-audit",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 74,
+      "new_files": 26
+    },
+    {
+      "route": "codex",
+      "product": "loop-decision",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 94,
+      "new_files": 78
+    },
+    {
+      "route": "codex",
+      "product": "loop-interview-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 18,
+      "new_files": 16
+    },
+    {
+      "route": "codex",
+      "product": "loop-negotiation",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 14,
+      "new_files": 29
+    },
+    {
+      "route": "codex",
+      "product": "loop-report-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 55,
+      "new_files": 18
+    },
+    {
+      "route": "codex",
+      "product": "loop-resume-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 13,
+      "new_files": 28
+    },
+    {
+      "route": "codex",
+      "product": "loop-script-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 97,
+      "new_files": 60
+    },
+    {
+      "route": "codex",
+      "product": "loop-topic-picker",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 78,
+      "new_files": 22
+    },
+    {
+      "route": "codex",
+      "fixture": "user-edited-runtime",
+      "status": "PASS",
+      "unbacked_replace_refused": true,
+      "complete_backup_restore": true,
+      "new_install_has_residual": false
+    },
+    {
+      "route": "codex",
+      "fixture": "old-residual-file",
+      "status": "PASS",
+      "unbacked_replace_refused": true,
+      "complete_backup_restore": true,
+      "new_install_has_residual": false
+    },
+    {
+      "route": "claude",
+      "product": "loop-article-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 68,
+      "new_files": 57
+    },
+    {
+      "route": "claude",
+      "product": "loop-content-audit",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 74,
+      "new_files": 26
+    },
+    {
+      "route": "claude",
+      "product": "loop-decision",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 94,
+      "new_files": 78
+    },
+    {
+      "route": "claude",
+      "product": "loop-interview-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 18,
+      "new_files": 16
+    },
+    {
+      "route": "claude",
+      "product": "loop-negotiation",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 14,
+      "new_files": 29
+    },
+    {
+      "route": "claude",
+      "product": "loop-report-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 55,
+      "new_files": 18
+    },
+    {
+      "route": "claude",
+      "product": "loop-resume-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 13,
+      "new_files": 28
+    },
+    {
+      "route": "claude",
+      "product": "loop-script-writer",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 97,
+      "new_files": 60
+    },
+    {
+      "route": "claude",
+      "product": "loop-topic-picker",
+      "sequence": "fixed old asset -> complete backup outside discovery -> clean candidate install -> restore fixed old asset",
+      "status": "PASS",
+      "old_files": 78,
+      "new_files": 22
+    },
+    {
+      "route": "claude",
+      "fixture": "user-edited-runtime",
+      "status": "PASS",
+      "unbacked_replace_refused": true,
+      "complete_backup_restore": true,
+      "new_install_has_residual": false
+    },
+    {
+      "route": "claude",
+      "fixture": "old-residual-file",
+      "status": "PASS",
+      "unbacked_replace_refused": true,
+      "complete_backup_restore": true,
+      "new_install_has_residual": false
+    }
+  ],
+  "scope": "archive bytes, directory layout, complete backups, clean replacement and restore; not native model execution or installer source-lock migration",
+  "package_manifest_sha256": "a52198a707fad19c39e4a0886577d20888e5a3eeea7ffe53699dde843d97aa07",
+  "artifact_identity_note": "Final candidate packaging includes unchanged historical link dependencies; native model tests used earlier packages and are separately qualified."
+}

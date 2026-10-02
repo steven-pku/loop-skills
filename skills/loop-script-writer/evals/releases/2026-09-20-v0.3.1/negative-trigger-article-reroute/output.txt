@@ -1,0 +1,9 @@
+这项需求应路由到 **loop-article-writer**：3000 字公众号长文，主题「AI 时代普通人的技能焦虑」，有观点、有案例，结尾引导关注。
+
+你指定的 [loop-script-writer](.agents/skills/loop-script-writer/SKILL.md) 明确规定长文转交 `loop-article-writer`，并要求：“For these out-of-scope requests, name the destination and stop without drafting.” 因此本次停在适用范围检查，不生成正文。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+
+未读取其他参考文件：该技能要求先完成 Scope Gate，再读取写作协议；本次在此处已停止。

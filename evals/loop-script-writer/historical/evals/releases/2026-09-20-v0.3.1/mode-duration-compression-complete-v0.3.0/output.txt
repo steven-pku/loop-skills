@@ -1,0 +1,32 @@
+压成了三步：**列关键词 → 录音取句 → 删背景、从冲突或结果开头**。删去“找真实场景”这一支线，开头的“四个办法”同步改成“三步”。
+
+默认按抖音口播处理，面向卡在第一句的人，核心仍是“先说出来，再动笔改”。
+
+| 口播（逐行换气） | 画面提示 |
+|---|---|
+| 口播第一句就卡住了？ | 空白文档，光标闪动 |
+| 先别盯着空白页，试试这三步。 | 字卡：三步 |
+| 拿你想讲的主题，列三个关键词。 | 写下三个词 |
+| 不用写成完整句。 | 圈出关键词 |
+| 再对着手机，围着这三个词随口讲一遍。 | 手机录音 |
+| 就当讲给朋友听。 | 自然看向镜头 |
+| 回放录音，把说得最顺的那句抄下来。 | 摘出一句话 |
+| 拿它当开头，再删掉前面的背景铺垫， | 划去背景句 |
+| 直接从冲突或结果讲起。 | 圈出新开头 |
+| 先把话说出来，再动笔改。 | 回看稿纸 |
+| 现在就写下你的三个关键词。 | 开口前停约半秒；落笔 |
+
+**时长复核：**用户指定标准语速，采用技能的 **260 字/分钟工作假设**。口播机械计数 **126 字**，目标 130 字，偏差 **−3.1%**；预计纯口播 **29.1 秒**，加标注停顿约 **29.6 秒**，未经真人实读。
+
+**轻量 QA：通过。**开头属于“痛点＋利益承诺”，三步均兑现；每行最多 16 字，无书面语成段或明显 AI 套话；结尾只有“写下三个关键词”一个 CTA。内容为练习建议（F0），无待核载重事实或无源 F3。
+
+实际读取的运行文件（均在项目内）：
+
+- `.agents/skills/loop-script-writer/SKILL.md`
+- `.agents/skills/loop-script-writer/references/hook-types.md`
+- `.agents/skills/loop-script-writer/references/pacing-and-length.md`
+- `.agents/skills/loop-script-writer/references/colloquial-craft.md`
+- `.agents/skills/loop-script-writer/references/chinese-ai-tone-oral.md`
+- `.agents/skills/loop-script-writer/references/fact-discipline.md`
+- `.agents/skills/loop-script-writer/references/platform-notes.md`
+- `.agents/skills/loop-script-writer/references/script-rubric.md`

@@ -1,0 +1,132 @@
+{
+  "candidate_commit": "0d4c08c5a96b4fb7a74a3dbe24073bf1812ff54a",
+  "checks": [
+    {
+      "id": "script-install-turn1",
+      "result": {
+        "exit_code": 0,
+        "elapsed_s": 133.2,
+        "output_exists": true
+      },
+      "artifacts": {
+        "input.txt": {
+          "sha256": "c9b9edbf6e47b36bbe09cd5cb22bda5a3c94177bb23f3adc6948664446395c62",
+          "original_sha256": "c9b9edbf6e47b36bbe09cd5cb22bda5a3c94177bb23f3adc6948664446395c62",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "8c104363733a8361bbc9ce4b918a2af2bab30792d8fe4fe8960c747df1a159a8",
+          "original_sha256": "8c104363733a8361bbc9ce4b918a2af2bab30792d8fe4fe8960c747df1a159a8",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "script-stop-turn2",
+      "result": {
+        "exit_code": 0,
+        "elapsed_s": 92.2,
+        "output_exists": true
+      },
+      "artifacts": {
+        "input.txt": {
+          "sha256": "c4350d7d79355b23dde4362a22d5191806ee4fc239548c1b407751e9dd1d504a",
+          "original_sha256": "c4350d7d79355b23dde4362a22d5191806ee4fc239548c1b407751e9dd1d504a",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "d3ad2ce07f0e7f50997c8f07ca00e18a4893b5d5ffd1b8379a9e5685d2cd5a7d",
+          "original_sha256": "d3ad2ce07f0e7f50997c8f07ca00e18a4893b5d5ffd1b8379a9e5685d2cd5a7d",
+          "redacted": false
+        }
+      }
+    },
+    {
+      "id": "script-allowance-turn3",
+      "result": {
+        "exit_code": 0,
+        "elapsed_s": 73.2,
+        "output_exists": true
+      },
+      "artifacts": {
+        "input.txt": {
+          "sha256": "3c72e3bed279b4e59d1a9efa6186df7964aec77a64de36ec36aa7ab075dcecf3",
+          "original_sha256": "3c72e3bed279b4e59d1a9efa6186df7964aec77a64de36ec36aa7ab075dcecf3",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "4a0f6865691f055d7f50a7fb916bbd32e27a4ef81e1340778f9260973206069d",
+          "original_sha256": "91f34bff42312bf70e5982a87e015b8b9b7a57818134d9980938439e289b7c4f",
+          "redacted": true
+        }
+      }
+    },
+    {
+      "id": "series-routing",
+      "result": {
+        "exit_code": 0,
+        "elapsed_s": 71.9,
+        "output_exists": true
+      },
+      "artifacts": {
+        "input.txt": {
+          "sha256": "1aa35d8053cefbcb54ea364b4662c47468b06f6aecd5b6ce4d5114b2412db8ab",
+          "original_sha256": "1aa35d8053cefbcb54ea364b4662c47468b06f6aecd5b6ce4d5114b2412db8ab",
+          "redacted": false
+        },
+        "output.txt": {
+          "sha256": "2c36a85ad1489aba6d2024fd97154330dbad7c666ac9d0e4f121b405cabcf018",
+          "original_sha256": "2c36a85ad1489aba6d2024fd97154330dbad7c666ac9d0e4f121b405cabcf018",
+          "redacted": false
+        }
+      }
+    }
+  ],
+  "routing_installed": [
+    {
+      "name": "loop-article-writer",
+      "commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "skill_sha256": "24b7a066b2f539f51b140909288c827765b06c14db18f2c4f1089eefc43eecb0"
+    },
+    {
+      "name": "loop-report-writer",
+      "commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "skill_sha256": "ae72f2bf0b6d13ab380b185bb109cc65d5d72e93b62adaef587bfc35fe89685a"
+    },
+    {
+      "name": "loop-topic-picker",
+      "commit": "9b21c122c823ca821c188497e2ef872401bb6a0c",
+      "skill_sha256": "dc7ccdc59d76133c490432c97aa59b5103af35c38b1d90435256dd33e982072c"
+    },
+    {
+      "name": "loop-script-writer",
+      "commit": "0d4c08c5a96b4fb7a74a3dbe24073bf1812ff54a",
+      "skill_sha256": "782367aa1d1e88b399861d3259daa51707950988d9a52d802eced4f0c5fb515e"
+    },
+    {
+      "name": "loop-content-audit",
+      "commit": "eae006a7df1a0e8c20f2d1c275910170892be252",
+      "skill_sha256": "cfbe223a6c052c438d458d87cfb8fe32351dd81bca509753860f1a3e1133820a"
+    },
+    {
+      "name": "loop-decision",
+      "commit": "6311848ba0b4dac6c116dc9254e202037916d31b",
+      "skill_sha256": "f9ebfe31f9f31f3800399d1812bf344fde829ea0a8b213040fa6a82f98ab0d12"
+    },
+    {
+      "name": "loop-resume-writer",
+      "commit": "bf8ceda2be1ed1c4df4ce8401ce511d3de19c6c5",
+      "skill_sha256": "ea015b5bfd8980089dae66dc5341de6e1755c2eb59d130353c58cf329f9eb353"
+    },
+    {
+      "name": "loop-interview-writer",
+      "commit": "63f69fea7e726eb2c23ee0c7befc0666499264a1",
+      "skill_sha256": "4dfdd5f3d903035065a11d02bb1b9fe8b02a7841c0349f8366670397d48d94a8"
+    },
+    {
+      "name": "loop-negotiation",
+      "commit": "383096ca0b0c201315814ded67ca22224be8c1f9",
+      "skill_sha256": "d6bb004a64eea2332cc13da9523f04a1f708437fc5c441e01ed4f080711f54cc"
+    }
+  ]
+}

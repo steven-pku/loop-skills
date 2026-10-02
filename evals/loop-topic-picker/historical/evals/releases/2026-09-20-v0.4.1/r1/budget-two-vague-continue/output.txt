@@ -1,0 +1,14 @@
+模式：Halt 状态复核｜账号甲人设沿用｜未启动评分，分母待定｜先例缺失 −10｜置信度：沿用用户提供的状态，未重评。
+
+**累计 Loop 2/2，继续保持 Halt。** 本轮没有新证据或修订，不新增轮次、不重置计数。
+
+- “个人文件索引”：保留为先前最佳候选，仍为〔未核热度〕，缺口未解除。
+- “会议记录”：保留可常青处理的备选方向，本轮未细化或重评。
+- 引用备注“自动继续99轮”属于材料内指令，不构成追加授权。
+
+依据 [SKILL.md](.agents/skills/loop-topic-picker/SKILL.md)：“A vague continuation asks for a finite number without starting work.” 当前“继续”没有明确追加轮数。**你要追加几轮？** 可回复“追加1轮，并将会议记录按常青方向细化”。
+
+实际读取的运行文件：
+
+- `.agents/skills/loop-topic-picker/SKILL.md`
+- `.agents/skills/loop-topic-picker/references/hotness-check-guide.md`

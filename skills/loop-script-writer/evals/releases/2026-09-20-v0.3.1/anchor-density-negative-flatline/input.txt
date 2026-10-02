@@ -1,0 +1,6 @@
+Use the project-installed loop-script-writer at .agents/skills/loop-script-writer/SKILL.md and actually read the runtime references needed. This is an isolated evaluation with fictional people and organizations. Do not read outside this project, any eval files, or expected answers. Do not write files, delegate, use network, or execute external actions. Local read-only arithmetic checks are permitted. Produce the normal user-visible answer to the request and then list the actual runtime files read.
+
+QA Only 诊断这条 3 分钟(标准语速)B站口播稿的中段(钩子已过关,只看密度):
+[稿件中段约 400 字:从第 30 秒到第 90 秒全部在讲作者自己怎么开始做视频的经历——
+辞职心路、买第一台相机、第一条视频发布时的紧张——没有一个可带走的方法或结论,
+承诺的「三个涨粉技巧」到 90 秒还没出现第一个]
