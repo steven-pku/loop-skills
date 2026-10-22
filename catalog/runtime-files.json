@@ -1,0 +1,1451 @@
+{
+  "scope": "Runtime content copied from observed public default commits; no new behavior claim.",
+  "files": [
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/SKILL.md",
+      "sha256": "64db835611523af9b0d0464e26694c4a3aec6cd5e2c0871102ca427b2a372f7d"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/assets/account-profile-template.md",
+      "sha256": "c8af87e70e935b4026f829067ae4080c4194d6bdf743a6769085169a0a5ae646"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/assets/pool-scorecard-template.md",
+      "sha256": "1e0b0e76767c9a51e9583a1b43001cfff2e2950aeaa9f3110e0aaff69e0dd30b"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/assets/topic-brief-template.md",
+      "sha256": "ca7ae619bb57fca68d3f1b9014f1f7c1a1b3b68fdd8995400636d83255c36cb8"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/examples/fullloop-gate-to-picks.md",
+      "sha256": "b4d08fcc38d9c7a5da5cda377e88a4e9c54c97c0e119b799264eed8a47dec0b8"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/examples/quickscore-dedup-eliminate.md",
+      "sha256": "36e472fcb3a00e8ea4c1c0243cf1f4230c289bb127644c749ea89e14c0ea8287"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/examples/unverified-hotness-refill.md",
+      "sha256": "db411b94654e4549295f24bed706b45af1b2269df66fd567296fea7e58dfe7fc"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/angle-playbook.md",
+      "sha256": "1afc878d28bea38043d145bb7b40c9ee29b7858e0c36a0f5c8fe8d8c7552976e"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/evidence-notes.md",
+      "sha256": "18a9ea41eb594c16232b878d1da2e2a28076c8968ccbfd49d8d82e0d58ad3689"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/hotness-check-guide.md",
+      "sha256": "f49008aa54206bb36455147e4ad426a35c7ab930894e9768024ae4aa24eb7f56"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/persona-gate-guide.md",
+      "sha256": "9fca9a812a9c387e457e05340a2f01a882b33731a339934bba32921a1119fedf"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/topic-brief-spec.md",
+      "sha256": "c277c7d9e17f40cb779ae28276abc088b24a447a7b6febe1e20b8c0dc7c6d759"
+    },
+    {
+      "product": "loop-topic-picker",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "path": "skills/loop-topic-picker/references/topic-rubric.md",
+      "sha256": "797a4b4db2caf6b95327a793bdc5f26dae260a8b7b0c0037df71b77bfc7bbb86"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/SKILL.md",
+      "sha256": "24b7a066b2f539f51b140909288c827765b06c14db18f2c4f1089eefc43eecb0"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/agents/openai.yaml",
+      "sha256": "4154b6816c0024cd7e5010002e237626d983b03160a925bd50c5be90d9281dff"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/assets/article-brief-template.md",
+      "sha256": "c49895e36d3cf98b3eb77075e5d2b9c1d7b0478a9ab571f57f2c8cd88861b53a"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/assets/og-card.jpg",
+      "sha256": "116c5b36116e979bc8afc7349b5b1aa1fb2ccc8605aa937ec7a5060f712631e2"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/assets/prompt-examples.md",
+      "sha256": "7b133e86bfaf55eb7167ff57e27fc09a91231ebd980f2426fed57c15635b9c57"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/assets/qa-scorecard-template.md",
+      "sha256": "68acda2b81471b8982e2e6ee2a3337f4e983360bdc5d6ec4e168a3c2d6b3c478"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/assets/source-map-template.md",
+      "sha256": "e9db84d460a5d65442bf7819eb4c925fdd7ac32713ee3225a86c27d31fcfcd8e"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-correct-filler.expected.md",
+      "sha256": "d3d6caa4403de2601198efd9e82df9425c73d9e53759e774ff7d6d559a670680"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-correct-filler.input.md",
+      "sha256": "e3e706bc59c5068a09cf2f9c1b81df48f22156c2e7ea58420e59109a6ed55087"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-listicle.expected.md",
+      "sha256": "016af073be29db8bedab6d442b39973b415e86598e6f98ade32c83bf510c8ec3"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-listicle.input.md",
+      "sha256": "27609c92c1f710fe077a88af2c9f4a86aea9bddfdc991275c528970cacab7f89"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-vague-ai-change.expected.md",
+      "sha256": "22b4fae1e84c425f66dbe5e1c91e711e21d59f86802eabe852e79d57e34fb92b"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-negative-vague-ai-change.input.md",
+      "sha256": "28d38b03cec99e0a4fbffe3333584351039346808c6951326333b3510c10f67a"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-content-inflation.expected.md",
+      "sha256": "e4d279f9e61c297a241e8807752319629fcdc390b50e26f6bf15e22c183a8346"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-content-inflation.input.md",
+      "sha256": "4d34c2df9248f44c45af59ede1a07225c3c1fc03c5aa0068e3702570e7b1c255"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-wechat-depth.expected.md",
+      "sha256": "edc15ae347edd381728106b6e8749d77bd778f4a5f472b2eca4c7120dc17682b"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-wechat-depth.input.md",
+      "sha256": "dc6af64efcf5b5a6d58a4d25ee8329d51df01bea5cdff8083a698c32a35ef747"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-xhs-vs-wechat.expected.md",
+      "sha256": "55c67e1805ab2e0f77d3caeb932b881d4b55d7eb8d95870e0fa9ca10b8919864"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/anchor-positive-xhs-vs-wechat.input.md",
+      "sha256": "cd1f07ec9629acd09a0c6d7ef96a4b6d0f3785cbe853a9ab51b32f201c67ed2f"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/borderline-83.expected.md",
+      "sha256": "e5008e4bc694bee09de4fe34073d05472931410ecb09f316ac937c12768152b9"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/borderline-83.input.md",
+      "sha256": "48fed7a805073d76a1ab9e1b459a86dc829bdb6b5b72d998eb69d410adf74293"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/f3-unsourced-fatal.expected.md",
+      "sha256": "5ee5e10a6fd5ac107d9e133807179c5c9ce441768dcb0f77d4996bbf7e072ca7"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/f3-unsourced-fatal.input.md",
+      "sha256": "8f175102477f2e6a2715d8dcd141eaa405b963a9611800d40d895e4d28b022fb"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/method-fail-no-template.expected.md",
+      "sha256": "d91dfd43428ae1316d3072a814f6aca47a35f1e4bad148ca24d477f5c82360f3"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/method-fail-no-template.input.md",
+      "sha256": "eebeeaebde8e3288b7e72eb7a8e567e319a135b7d664b85e3e700712a8407959"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/method-pass-checklist.expected.md",
+      "sha256": "ab26ec2f4e7751a4040a08a4829eca2e3f97d4f719f685a59c321b63175f0542"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/method-pass-checklist.input.md",
+      "sha256": "1a9a958ba58c5a38de2eb10fd517465252fee73e5616e68fffa951e534bc5256"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/mixed-ai-human-carrier.expected.md",
+      "sha256": "3e2358ee82fd45c0aa90abf0cfa443f1fc268f00b6f1834fea4c0b059d8dc65d"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/mixed-ai-human-carrier.input.md",
+      "sha256": "30e7e269819e9fb366028c966d2f60619d793e4449784a4b37b1988d30265b5b"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/negative-trigger-detector-evasion.expected.md",
+      "sha256": "ae3c13d81456dc2b30c751ba81cd6bc1934072c7cf55d08d2bc013c9e6c4584c"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/negative-trigger-detector-evasion.input.md",
+      "sha256": "58f4711ed2b4df603dcbb732cd394732fc02a51910da3a4ebeb5cc04c910a753"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/negative-trigger-prompt-injection.expected.md",
+      "sha256": "e904566bee455758ce132e95ebbe74a8c416467c63fdaa95cda9acada0da5ac4"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/negative-trigger-prompt-injection.input.md",
+      "sha256": "a57718bba6aa9a588b7c0e2877fe18c1346d6b7026ce1a376aecf1f0b175b751"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/nonstandard-narrative-structure.expected.md",
+      "sha256": "98a8ab201957f76c255a34845169e07d86d65b728da9258200a19457f7e9bf9a"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/nonstandard-narrative-structure.input.md",
+      "sha256": "e2a70bf19b2e621ba5269c7da0af0f47847c2227aeb57f5fa9781f38dad53a2f"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/wechat-datapack-no-judgment.expected.md",
+      "sha256": "3d792d53bbab02857941f2c6c8bd2834b223ad871b6375c5f1d93d1c93fa5e11"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/wechat-datapack-no-judgment.input.md",
+      "sha256": "2bcb8edb9520ed2f24a5146c6d18eab31e327a1ae1143e62bbe3bd2482ba85eb"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/xhs-too-short-thin.expected.md",
+      "sha256": "b2ab626e0cf1e0e3a54c422f2c12c89d26e660aac1c29a8ee59679a91e64c2e7"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/evals/cases/xhs-too-short-thin.input.md",
+      "sha256": "7f3a094a5c00429653cd12866dc05e81b7f17bd1dc47b8c4548caa23a3575166"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/examples/qa-only-bad-draft.md",
+      "sha256": "6f5072670b5f3fee911fc826638f7322b912c5c25162c94a730c7f3b26137c23"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/examples/wechat-full-loop.md",
+      "sha256": "1f842784c86e212135f3af6b6b49cfb6e994961b50df9b315ccb38ed4734995a"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/examples/xhs-rewrite-qa.md",
+      "sha256": "f578aabc695d81052d37010e4946926bb1d6047e0998d0fa90d633421a552dbd"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/anti-ai-style-guide.md",
+      "sha256": "3697cdd45c5a805d39a95b3feec8c3e1ee24df9186bb5686c7e8802fa0ab0ed5"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/article-patterns.md",
+      "sha256": "82c40743cc4185cdcb6772c75de7f36daa32dbdb12c86babc6b54f60b0f052b3"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/chinese-ai-tone-patterns.md",
+      "sha256": "2fea4a6d7209089c7b5d625c848771dd7084a85150ed24a984594daa28f05fe2"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/fact-check-pass.md",
+      "sha256": "afe703d57d2cf1cbd45d2216d8c0e14bde8a1ecf6402af3cc831d3df3ea651d4"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/fact-discipline.md",
+      "sha256": "b2b19ec268749ac0f609485a8d0755c3d6583fbe1aff90bc88b51eff467029a1"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/platform-wechat-guide.md",
+      "sha256": "abf39f92f45c18fc831b1d0f927a2203b5560a6fc12492dfe2239cf3106eb0ee"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/platform-x-guide.md",
+      "sha256": "8c15a0b2051b5f84fe4430e570ca5863acca381c6a541bc7e57c3688fe7af87f"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/platform-xhs-guide.md",
+      "sha256": "d0c3885a11b84a58f6580c4c3d3fb7c488b47e8fc0a72f1ed122575fddb7afa6"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/upgrade-log.md",
+      "sha256": "5c7aa8b4ca195452db38e99281c5a93aa11c06c23ba17d90dcaf1aaa7688fb95"
+    },
+    {
+      "product": "loop-article-writer",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "path": "skills/loop-article-writer/references/writing-rubric.md",
+      "sha256": "87891b63b78bd8e614092a45c61555585b273b54eb42cccf3ca92a4aae3249fc"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/SKILL.md",
+      "sha256": "782367aa1d1e88b399861d3259daa51707950988d9a52d802eced4f0c5fb515e"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/assets/cover.jpg",
+      "sha256": "61f0277cee9c0496cb2c8120bb3ae76eda38454910063065c05c5f7dc758c071"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/examples/60s-douyin-full-loop.md",
+      "sha256": "04f240f1450f3f221368c1d92b27f1482bcc5a65fe9122dad471cf5a74bb730b"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/examples/qa-only-diagnosis.md",
+      "sha256": "3c9039a3e5e6df32937fcffc1aa6ce7a33b835299930c29a139367113e127a74"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/chinese-ai-tone-oral.md",
+      "sha256": "7860737817349a8d3fcb35bca166ed7fb3575b3630445106c09840874d42e3d2"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/colloquial-craft.md",
+      "sha256": "b9fc663a6d28af0c3406d3fa73b08301efcd5b025af407e1f9b04beec3522f9b"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/fact-discipline.md",
+      "sha256": "f1041675ac9111c2d4498b24ecc82b9828cad9601e5c2c29378cc9af7d641462"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/hook-types.md",
+      "sha256": "67467ef0a1cc5d5592fef167f744886b3e19d778adb4b292e6e756011f7335af"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/pacing-and-length.md",
+      "sha256": "2b1c190887e2223c55f1a4aae4ea9d821cc65b019cdbb6fcccfff27c28384043"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/platform-notes.md",
+      "sha256": "3df9b688bc9a49c80baeed1583d7494871b069a71ebc81d4d34998b59ed5db08"
+    },
+    {
+      "product": "loop-script-writer",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "path": "skills/loop-script-writer/references/script-rubric.md",
+      "sha256": "677672cadb519cb8052256af69dd053c9d04ecebbaf6768421b4aa21728605bb"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/SKILL.md",
+      "sha256": "a1f1055686761d1fb4ddf1cc3a24b715d10707abbc8150ec424e12ff32d91c6a"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/assets/cover.jpg",
+      "sha256": "917dd90ee27501f48e1b4b7194a3213021551a4ef6c0ae7612eb2f379b32bd37"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/examples/single-post-diagnosis.md",
+      "sha256": "63d94902fe4f349647ca4ad4a31b3b2842b0784ad474ff3b77b73bfafc19da66"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/examples/xhs-note-gate-downgrade.md",
+      "sha256": "c3da38e5b88012f1cb08f06c12b2dd1b8fe1fdee205d3257270a32eca0a05acf"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/attribution-honesty.md",
+      "sha256": "fda3bf8009dd3054b89894d7e8e3cefe13a4d5f8b287f73237f68003635ebf03"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/audit-rubric.md",
+      "sha256": "f25ff6cfae0ba2075253b59055a52d1e46e78967ec1c2b9c1e578fdc8427769a"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/diagnosis-dimensions.md",
+      "sha256": "2e987d7f39e2be810eb27c3b65c357806193cfc10c5be0be7a042e016711350a"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/improvement-rules-standard.md",
+      "sha256": "d4686e6530b10047086d735aeebf8463e8899aa16f8107923460d219903175cd"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/platform-bilibili.md",
+      "sha256": "0898ddcda89ae5f375019632c412cba4a25f961589cf82ea7369c44777067358"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/platform-douyin.md",
+      "sha256": "a828a3a48d6a8e40a8e388b5f5721235004a6ab33f3ca15f0fa3cdd7db288265"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/platform-shipinhao.md",
+      "sha256": "4294e44911311fc4cf92e3245a9c74133c4571c07629292d7730ac723f647fba"
+    },
+    {
+      "product": "loop-content-audit",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "path": "skills/loop-content-audit/references/platform-xhs.md",
+      "sha256": "406c20876789ae7a837fc106911d53896ee1fa2c01c15f3f1f1342a22cc61ad7"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/SKILL.md",
+      "sha256": "ae72f2bf0b6d13ab380b185bb109cc65d5d72e93b62adaef587bfc35fe89685a"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/assets/materials-questions-template.md",
+      "sha256": "aa94c18c50769b6937e615c92d183e3edd8873691bd949e0e5ae267750081823"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/assets/og-card.png",
+      "sha256": "5834789b6b2063a98a81056bd0c1e586bdfd1b4cb83d2398b846b45581fc5775"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/assets/qa-scorecard-template.md",
+      "sha256": "f854d6a7a73d5543e4368b8aec5ab4de7a6764637f1b0f3a279ceeae665a3183"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/assets/report-brief-template.md",
+      "sha256": "f783c7673981b52bddd63fe8adaff46660baf85633c0faf9fe570f770ba6adf4"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/examples/fabrication-refusal.md",
+      "sha256": "da1bbe97fed0db80c45b522d234697c8f94bc5de4e54c901cba6eaea93a7a9c7"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/examples/self-review-promotion.md",
+      "sha256": "7ba292ae76006f561583b9cd6bb78dfd2625a1bc90bcba1a317818b86f9b68bb"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/examples/weekly-fast-loop.md",
+      "sha256": "74d68099861131fbb865417ac8ffc5eebf45251a4ee2beb5a1d91f199e11c5b2"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/achievement-rewrite-patterns.md",
+      "sha256": "d05903d0e7bcf97f0ccaf5e80c525c913862e33516c6ff393c23123d81b8b0db"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/evidence-notes.md",
+      "sha256": "652e5a79217c55678572aac34da633cf61ed2d8e5d8f4cecc52e5d5a62e02611"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/report-rubric.md",
+      "sha256": "e25340d91391424afc0df2cd31159858945b4569a97f62c1908a193548cdcf0a"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/results-ledger.md",
+      "sha256": "e9ff0056501f104a572f726ca8d833c16d42b9204bfd90f5c11f21dc60ff3d0b"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/scenario-guide.md",
+      "sha256": "a012af64e398ed8619b135aa5102abb6d4d299525974f689587aa82aa99a3a93"
+    },
+    {
+      "product": "loop-report-writer",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "path": "skills/loop-report-writer/references/value-gate-guide.md",
+      "sha256": "3720d8c22f4b6848f645a5fbf991f2309e6e6d98e889fb4ae278012426058dc5"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/SKILL.md",
+      "sha256": "f5bea7f6b456c2f4c46f8ab3ea2154dafd627b3b70ab8a3266e9053f53340149"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/assets/ledger-template.md",
+      "sha256": "7c5280df89cce7ceac993cfb5b9822f54cd3ecdb17fea0416229920b728e181c"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/assets/qa-scorecard-template.md",
+      "sha256": "96bb1855c1f5707e684b943f416d1e8b93ff6e4baa9e6b96ee6a78b0d6d2b4cb"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/assets/resume-brief-template.md",
+      "sha256": "f6a4b59f10be2eabed8439a316770626cc711b1e89cded798513c41e7695aa99"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/achievement-rewrite-patterns.md",
+      "sha256": "683dca545a5f6f1ee8f7077813e2a2c087a47c099783e4fe4a90e2d2b8c4df98"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/evidence-notes.md",
+      "sha256": "e8d4215aed0358ae085de10dd2477cdbe83de856f7fecd9dae9f49727dbfee3d"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/jd-mapping-guide.md",
+      "sha256": "defcf37593a36eba1b9c0dca7360b3a6c478fc0df6357dade760dffad1cb9fef"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/platform-search-guide.md",
+      "sha256": "c819ec5bdfdecad99029a7a31ab9e4461ba6ba14f17315205dffc55ba964715e"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/resume-audit-mode.md",
+      "sha256": "74b97bfc5d804cbbd202dcb59d7b14b09bb186f6492497de969f5b771e2f5e40"
+    },
+    {
+      "product": "loop-resume-writer",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "path": "skills/loop-resume-writer/references/resume-rubric.md",
+      "sha256": "eaafdd58dac7774ddfa60b884121a52f4eb3687f5210c1628e5038451fa5a789"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/SKILL.md",
+      "sha256": "14c035a680f62773cb0254d1f32f6ad759b1dc65ed7bdc0e473e724f8d730d0c"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/assets/answer-scorecard-template.md",
+      "sha256": "90764715c494968a0f05cb2ef971c63a47ad711fb3f13e915b049742151502c9"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/assets/cheatsheet-template.md",
+      "sha256": "e03e8c9b4936f3de310e4f22331fd7876794731dea5bcf91bd9e79274c1057ed"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/assets/interview-brief-template.md",
+      "sha256": "5e1bd3013509f322be36670001323c349da28282434ad676ed394e740b31df2a"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/assets/story-card-template.md",
+      "sha256": "887a56750cd7135343e93c083d1d883db44aef40d2a08804bffcff18a9c77324"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/career-facts-ledger.md",
+      "sha256": "9a1516e52212c6d5dcd65c01e84f0f09dc9e7cd2ceb5672434881415e2b6abc9"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/interview-rubric.md",
+      "sha256": "bc0d87de9400a7df00db2573a1480e64f38a02177f5338243ecc8fd66ee998b8"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/interviewer-mode.md",
+      "sha256": "e3c0d1e379d5d3f1e99f48ff63569ec01f9dc149b63218371755929825069240"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/mock-followup-guide.md",
+      "sha256": "86b4dede589acf9f3932eae7a3c8e70d6ba761bf4205fe4bcbd8e3b50a22c9aa"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/question-taxonomy.md",
+      "sha256": "0adf6339aeeee3b73d100ee9ac1fd177e99281a4f04300ed048870e432e5b52c"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/spoken-answer-guide.md",
+      "sha256": "b8d76485a9b9a3577afd0d9bb845e6b7ebb990d59a5c656cc9677bd93560e8e5"
+    },
+    {
+      "product": "loop-interview-writer",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "path": "skills/loop-interview-writer/references/star-story-bank-guide.md",
+      "sha256": "8cf3d955cd20c2e2c300db5838e2b3d9d28486b4b1038f09a20a98e34d961078"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/SKILL.md",
+      "sha256": "966ed55bc9e1b19a9c61d2eef5c487300fc39d6fc60a3b46e47f6454dbd932fa"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/assets/negotiation-brief-template.md",
+      "sha256": "3da6e83cfc5deffb359397ff4189b012ff8e567ac5b3f58828a4782885163a25"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/assets/qa-scorecard-template.md",
+      "sha256": "5f727680263fd905d7db138a1fe92ff5a80a211f8411537a2f9afc9907e93247"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/assets/script-card-template.md",
+      "sha256": "043b2266226ba6fa37bc8d4a31c117fcd68f941e4240d09ef4f3a39186ca7453"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/batna-gate-guide.md",
+      "sha256": "ad3f7564ba917cacc58d201f21f2cacdc8b114086e7503299c757abb7da16b01"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/brief-guide.md",
+      "sha256": "3e45fc5df922be30e7f522fd6c5f665fb2b6bec2757bbc450bbb9de0eb48d0d4"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/cn-workplace-notes.md",
+      "sha256": "e77e38cb6fa334061c8584050e18bf538d6699fbf51b762b0f8dfe4f0de1a28d"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/evidence-notes.md",
+      "sha256": "ee6aa8eb5fe90393abcaacb0f1fd85e8c7d51de364f330245ab44bf068fb4412"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/mock-adversary-guide.md",
+      "sha256": "ac7ae1ba5d86979b1d09c053af5806ede98be0fc636243a53638edffa9c0ec3b"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/negotiation-rubric.md",
+      "sha256": "34e25bd8c5842cccd61069e3ca7a036999fb595e0aa4b5787cdfe927faf0167b"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/scenario-guide.md",
+      "sha256": "f0fccdbb4539de37aedef92731eda0b05c084fdad1100d49d8782f74b0400cb0"
+    },
+    {
+      "product": "loop-negotiation",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "path": "skills/loop-negotiation/references/script-card-patterns.md",
+      "sha256": "6a869f5cf478b25ca4cd682c9f59f8b9363919a71176ef09d6b091e1ab35e3ba"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/SKILL.md",
+      "sha256": "a6b3eaf5cde7a569819cf3b7325a276390bb55a253dbb7e2e4a8ede8abd4769f"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/assets/cover.jpg",
+      "sha256": "bc028c56df23b2aa3f117f3b28046fa6e71c896a6e3a75a3cb2f7daac8c7e900"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/examples/offer-decision-full-loop.md",
+      "sha256": "8f975dd05496cce97e4ec09e8b4ad79cf54b9eaf814fc4d398e408aae5a427cc"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/anchors-and-sources.md",
+      "sha256": "eb6d207e0520e328cfb7baca8c6af439cb29ed184d4ca33d5d413bf6e7bb0023"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/decision-brief-template.md",
+      "sha256": "501d634555b66a09bc8f7acd64e3e40c9aae474db7b7a83c8c84c537d668a5c8"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/decision-memo-template.md",
+      "sha256": "87bf822298dda346550522337e25465bbb0a9ae8b53b56dbdd6f40d844b495d2"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/decision-rubric.md",
+      "sha256": "d9419bab37afd322b2c26537108268d5cb7960694de89677605b8d88d69127b3"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/evidence-grading.md",
+      "sha256": "f7d7bfb194088d7df8a4829d41e57994ba05c8dc8d775e3a348a8d4f831c151e"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/premortem-pass.md",
+      "sha256": "be1b469434ef33561e2728c8a518a8d6978973611a60a8bcaa893898768cff97"
+    },
+    {
+      "product": "loop-decision",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "path": "skills/loop-decision/references/red-team-pass.md",
+      "sha256": "c54e6f9b9d8608d1336e3ecd9cfdc435d8ff1a809bdda2e3043b153cf0313a67"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/SKILL.md",
+      "sha256": "41c4947a118bc50656ed77e183d244bc74fc6ba6cad53c808c7ee85832317130"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/scope-operators.md",
+      "sha256": "674e712e8bba12dd5bf1f3919dbf9ce808748a663ea616f7a7aa57fedd80293e"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/six-gates.md",
+      "sha256": "71417f3bd99aa9cd9b5ffd06e12ebdf409eab3978f849fa7da83df24a823f222"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/scope.md",
+      "sha256": "47776895284e289b2117e04ade807758598f993813e6613076a471797f296013"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/ethics-red-flags.md",
+      "sha256": "8f3d6a340291a0b6f7f2b7e0c0dfe9475010f46f0174c3d1a80ce254b8bb477c"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/verdict-rules.md",
+      "sha256": "93c9f5efbe9a774e6b292c7fcd36c1c79ac2a65b293ca0bcbddc9418076bece1"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/references/method-fit.md",
+      "sha256": "325c6c4aa6d4b9bf40e8e07d40d69053734238389efa0d55b5f0045ecab0f281"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/examples/impossible-data.md",
+      "sha256": "4f8a054813d7450816ccc31b0f17aab477a4cc2c3727d2e22be3326b735d7f8f"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/examples/over-broad-topic.md",
+      "sha256": "ee85c1acacf34e838da07d120a66f21a78d865896892f20a6e4e52b1eb52667f"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/examples/successful-scope-reduction.md",
+      "sha256": "b1966d70981ea1ea85f46deabb91e5b552c29f7b29eab5a7eafd4d044fba5f79"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/templates/three-scope-options.md",
+      "sha256": "9498ecfc42fdea37831b49f8e4b199f212cb5db5ee9655ed61821aecadcfd28b"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/templates/advisor-brief.md",
+      "sha256": "e90b14df92c8924a4d2eb496b243ba843dfca899d24dc7296116d94bd0042181"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/templates/feasibility-intake.md",
+      "sha256": "533cc2a24fa48165446b0dad1ba651bf025f101aa762b6eec962dbe3c50087f3"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/templates/state-card.md",
+      "sha256": "294560fe974e7960b34cd6f4ce5ed88cf8db757b018b288b6922930a385dbe2d"
+    },
+    {
+      "product": "thesis-feasibility-gate",
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "path": "labs/thesis-feasibility-gate/templates/gate-scorecard.md",
+      "sha256": "f261ae6402182c112713ab559234f4b4f1258a25d074483906c5d7d454524592"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/SKILL.md",
+      "sha256": "8233b11734f0e0b658841a5be1af0fa74169fce7dc4008a808b8494db31f4a78"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/response-option-rules.md",
+      "sha256": "4e160977ebb1a68c90f4e3f253989a7305c53779bda72fa3715e35cd374ed9a7"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/flow-and-sampling.md",
+      "sha256": "435a3c0c6b34d12667b7636d7b6d9ec43add1ef582bb0b10a921a27fd36804c1"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/item-quality-rules.md",
+      "sha256": "5b5c1c1132f35825116a51abb1c10a0fce599a806a6638ddc92e52fb1d24533c"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/scope.md",
+      "sha256": "774a115c53d1726cc11fa3768743e466ccef7ac33c9f2d620b2f7dd131b62f89"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/severity-rubric.md",
+      "sha256": "bb6e3a66c95c64784e2a4cf43ccd5acd017335c03120cee9c5ab4ff49957035b"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/analysis-readiness.md",
+      "sha256": "84d5e654070eda6dc586f2f11bc7a3d276d63a91b3e67806b0dc1713b790c2c5"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/references/consent-and-privacy.md",
+      "sha256": "3149ed5044ced2a41304e119b2ec29106dbe3330c000c5493d530253b9abca60"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/examples/missing-core-variable.md",
+      "sha256": "fff99a1ac93b01d3a49dd3deef2b3567e49b327fef192c1935051a5014ce4931"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/examples/repaired-questionnaire.md",
+      "sha256": "812300045aa9b348b7f55efedeeb81074cc9b3c931eb56230feb0688f6090c70"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/examples/bad-options.md",
+      "sha256": "a39d50fa67d9ecd96021d551b8c38e6b1c277495c68c0b8667aed47a7888e902"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/survey-intake.md",
+      "sha256": "753b84aee8cb1df5f7aac23adb6fa4d9d1f80a8fa4d6db5277a8ef18caaa34b1"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/construct-item-matrix.md",
+      "sha256": "6c3baeb6b6904dd9f414a98871147ccc3adea878330b743adabfe27e3bc9edef"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/state-card.md",
+      "sha256": "aaf43ea6e2bf72cbf768b40a65164d71954ab7f95ed05451c4ad607275d89588"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/coding-plan.md",
+      "sha256": "6045c56184f0e51e368e8dbc7a805267ab1291b0b937eba22ce6009c6c0fe4db"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/pretest-plan.md",
+      "sha256": "64e12032ac3e5cb4d41365eb90bc55ad626960bbf1ef7ca49c467fa4f2914e93"
+    },
+    {
+      "product": "survey-preflight-loop",
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "path": "labs/survey-preflight-loop/templates/item-audit-table.md",
+      "sha256": "1d2e2d737992c3c5bd7a5b2b0ea855988f0093c6ce50dd79941fb9b77a0fe45e"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/SKILL.md",
+      "sha256": "99952b7edd0060a8a1c447a5d9c7473a1091aa232d435bdf8d53784671ea7a45"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/references/dependency-rules.md",
+      "sha256": "efffc3976ec00fa4d48804397ca1f01dd23cf79a877f07543dec9e9fa94e3b87"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/references/closure-rubric.md",
+      "sha256": "edb69df0e0227f9626fca9267016476d02b4a3cade1e8f2c1f3776aaac9ee6e6"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/references/feedback-taxonomy.md",
+      "sha256": "18924cf70b86d9f093e82183977d80a6f3ac80c8fd57277b57773595494bf308"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/references/academic-integrity.md",
+      "sha256": "e5b7eaeeebe303d55cf11578573129898922cf238bf6b09cd75a84d0682b5652"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/references/ambiguity-rules.md",
+      "sha256": "491f981e033e1a02ff2862bf802f4c4b676d1591d860273288cbe565a51dd8e3"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/examples/conflicting-feedback.md",
+      "sha256": "3ed28d53f47f64b168c7cbefc8aad2ff72f4bf090101d9f1fe82e400a48c6483"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/examples/vague-feedback.md",
+      "sha256": "b7dffb286c0d6bab0e40ba9bc4cf39cc56890bb0219af634ec5b9825e649c9df"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/examples/closure-review.md",
+      "sha256": "60bd306eb2b4bf1b0afee09cbde3e8eeb8c995454a6fbe41c48f99cd62e57413"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/templates/revision-plan.md",
+      "sha256": "86b68484f8756c5e96e3f74266ee0f1d625e35480c8c47f9ef0a7314d3728a93"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/templates/response-memo.md",
+      "sha256": "788e2d8ec31f0d46460ee5f4191fbaee5eb41b6b5b841ad81bc8904f0bc92ed4"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/templates/state-card.md",
+      "sha256": "84384c0694c0722b4c29719f424bbbf39f1cc44609852ff262a5a364155f8b0a"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/templates/feedback-intake.md",
+      "sha256": "38a7eb583c2eb2ae720c962104afcb216cb57de89afb61a80bc230d72b54ef7a"
+    },
+    {
+      "product": "advisor-feedback-loop",
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "path": "labs/advisor-feedback-loop/templates/feedback-matrix.md",
+      "sha256": "6681fddc200a07f3bd538b6b1fb7d103809675a74b7ee97cc95fae0332f2383c"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/SKILL.md",
+      "sha256": "064d110591977ead07575c2d2a31429cf8cf5a295b033070106225c79c9e80dd"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/risk-classification.md",
+      "sha256": "fef017846e347f790f670b6882cd9fcf9423aa62de9ffd6318a37957a5bd2c36"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/usage-event-model.md",
+      "sha256": "58c17fc462353154f1da38619cbedf1b29e6a85d8d5039cd68137b0259265669"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/privacy-and-secrecy.md",
+      "sha256": "25d1a62a3d81b75a9a41e92ece8e219c46a4b1626fdcb9ea027d0eec94ce0b22"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/policy-parsing.md",
+      "sha256": "0c9e09320bdfc21d0703fdcb49b4b2148360afef222c77acc655d9c0a3a48606"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/disclosure-rules.md",
+      "sha256": "6f6fd675fbb3a8dcd8d731d22cc6cdc50119d08b845291c5946d74b906d8a035"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/references/remediation-rules.md",
+      "sha256": "de27c7f099e9825c4bd79bebf029e4646fd07425f813b957025fd9108272677a"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/examples/missing-policy.md",
+      "sha256": "1cf54eb7b82758d26e5f3e643c725e77ee91cefdca43bb47b36dfde29f90039c"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/examples/prohibited-use.md",
+      "sha256": "c06e9fa7ebc648caa5b5d52fe1801317e226f8622df0c2d1940d761c1dfdfe25"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/examples/complete-record.md",
+      "sha256": "ca7e494292af9c1a37f7b79d38dafa17825f8253780dc0797357a7b35a59e9ac"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/ai-usage-ledger.md",
+      "sha256": "57b4b13f51e5bb254cd83b504769e349adcca7fdaee3aafcbbefc765bbec21e7"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/disclosure-draft.md",
+      "sha256": "2689e356de32d092cafeb1fdf1f3c2e4c3ea5670251ebaa2b6b43916fb1bfcea"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/policy-intake.md",
+      "sha256": "7dfa79e3414eeb3fa5d3d6a1f0755b17096f0d0354fae58b1ef197af6a599221"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/risk-matrix.md",
+      "sha256": "e802feb83a08e8e931b648e12a96136add2662e7f106ddc214e267d583f3d0c8"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/advisor-confirmation.md",
+      "sha256": "1a8a552d404e33c3e4258596adbc1a5501f87f338929bd0a13a67555768023a8"
+    },
+    {
+      "product": "academic-ai-ledger",
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "path": "labs/academic-ai-ledger/templates/state-card.md",
+      "sha256": "881ba451429025447eb085a3caf6f25b6e3ac7b00342e58e7562057cbf37a296"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/SKILL.md",
+      "sha256": "23dc055ec08e44190dab8f6b18baeba90ac94930da5a23f39c0996e5b11a9a79"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/jd-decomposition.md",
+      "sha256": "8e0271321a115671c54ce8e4c46db778eb567ce8a1ae124e65686bfe2bc4f5bf"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/honesty-and-disclosure.md",
+      "sha256": "13604019346e79c14cd325f337e66c83cbcedc9a5eff45f340c3b13e32b02d8f"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/employer-review-rubric.md",
+      "sha256": "569b61be960a35beb9af58bf8e13db56d2ee443f8e7683de683a1912fcfbebcf"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/project-patterns.md",
+      "sha256": "6dca00eb03d9f68ffbb37bf8e61695cee305f695a0e4db86cb3080f998380887"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/evidence-rules.md",
+      "sha256": "45bf793dd494068067012d4ba6c71aae4c4492fb0a3a05c7d38d3780cb55fe2d"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/references/role-scope.md",
+      "sha256": "f50ba90a0cf1b60fa595abbce83234e9e99636093d018fd83b793c6280f8a7a3"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/examples/product-ops-example.md",
+      "sha256": "b9edbc52591f5aa71f2b67aa1532ae93f432e60d0dbade46646ef7c7b3422663"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/examples/over-scoped-project.md",
+      "sha256": "b25b1673961b5ba074b522aff0056de44568d7140eb97f2bde7596ac27cd57f4"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/examples/user-ops-example.md",
+      "sha256": "01626799d2cee8da1839279ceba1bb37bc6a5a9e379cd29ff540be4567cbbe02"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/portfolio-one-pager.md",
+      "sha256": "a9cbb92a556a8844de5f3f3854aba289e3b07314089f40d0278b0926568ab1c8"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/project-option-card.md",
+      "sha256": "231fad0d811f1ec60246edd3818c09fe8ff708d8eda860a43ab845079b11a1a0"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/capability-evidence-matrix.md",
+      "sha256": "2e2169efe7e99103b4382cbd144656a509496cbeba7fead1d478b258ff654794"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/interview-story.md",
+      "sha256": "a039f823740c9a39cf93614bfcfa591f33df5dcbf7ca7d90869f6f5d57e71628"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/state-card.md",
+      "sha256": "0042a3259a6f5ff08bb0b753a71ea47f439007c5c8229f88bf98b19e4c4301ca"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/seven-day-plan.md",
+      "sha256": "bf965215e691d80366a8073e2c86b322a1408dfe61a0050733cd76768ad8d3aa"
+    },
+    {
+      "product": "internship-work-sample-loop",
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "path": "labs/internship-work-sample-loop/templates/jd-intake.md",
+      "sha256": "83feac8e03eaedc5c5d6dcbcca0901fa93c70d264d6ea002bed46ad8831e4e55"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/SKILL.md",
+      "sha256": "66a1aec4ec48742e0e0a2279ee4dc247a6c59d8012653dcb08e0fc001a5749fd"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/references/attribution-rules.md",
+      "sha256": "66c9fa522d64d72cbd80770dd81368e3e0a4599bc654991414799813845140b1"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/references/confidentiality.md",
+      "sha256": "07584be4e1bf9c54aa63a1b0fbdfc918dc00dd07daad66cf7d1a135f6c501398"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/references/evidence-model.md",
+      "sha256": "96e93869c30a0cf8cdab6302de244ebf8060cf9231b44f95b86fb591060a4f50"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/references/outcome-rules.md",
+      "sha256": "cfc369775aa621a7cfca309413c97157ed51f9b9c187b7058bd6205d4fe09e13"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/references/resume-language-rules.md",
+      "sha256": "dd589f8db3294a90c934db83de6e2808021fe9e6647dbdecbc74b92f90ef9a2a"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/examples/team-attribution.md",
+      "sha256": "8b7248e9957d30802905308ecf54220dce4136b8e8b1997725ad4fa4c4000474"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/examples/weak-evidence.md",
+      "sha256": "69ca54697a966776353ca91b8dfd2c81b8850d909ffab1d05ee39ce5160e444d"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/examples/final-impact-pack.md",
+      "sha256": "d3120d6ae88c8c15c0b1d624a5f45283b5f8cb353c642059d54d4f2d0dcbe61f"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/star-story.md",
+      "sha256": "184a448fa5c645a7868d7d6fd894efa1e57845440c6541853ef011c407997ea5"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/weekly-capture.md",
+      "sha256": "591264b131319a36e28df18b136092f5499e23d7261417458472a855a551a501"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/manager-feedback-request.md",
+      "sha256": "0ec367160571be0c469283d02f1ec7f5346e2bea253fd0781a1301ddedf4d79c"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/monthly-review.md",
+      "sha256": "d546075030df745fb1af4d8edacdc5dca78308ac2ac0d968a3aeacc4a753c8ff"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/state-card.md",
+      "sha256": "84805be44b1a8ad10884b585ae1a73050d215f7008516490cb8af0c501d2078f"
+    },
+    {
+      "product": "internship-evidence-loop",
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "path": "labs/internship-evidence-loop/templates/evidence-ledger.md",
+      "sha256": "7bca759a187d55047997d94c1e383fba0c2abe655d4819fc1a6e1b33447238b8"
+    }
+  ]
+}

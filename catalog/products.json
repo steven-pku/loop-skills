@@ -1,0 +1,157 @@
+{
+  "publication_state": "source-snapshot",
+  "products": [
+    {
+      "name": "loop-topic-picker",
+      "group": "内容创作",
+      "title": "选题筛选",
+      "path": "skills/loop-topic-picker",
+      "status": "previously-released",
+      "version": "0.4.1",
+      "source_commit": "be1eba919f086a4e7f078b2d281a3046341abea9",
+      "source_repository": "steven-pku/loop-topic-picker"
+    },
+    {
+      "name": "loop-article-writer",
+      "group": "内容创作",
+      "title": "观点长文",
+      "path": "skills/loop-article-writer",
+      "status": "previously-released",
+      "version": "0.3.0",
+      "source_commit": "b0389435bf1e6aae1a92ff3ca803a84d83efd808",
+      "source_repository": "steven-pku/loop-article-writer"
+    },
+    {
+      "name": "loop-script-writer",
+      "group": "内容创作",
+      "title": "口播脚本",
+      "path": "skills/loop-script-writer",
+      "status": "previously-released",
+      "version": "0.3.1",
+      "source_commit": "20c02e23a1d9895f85dbe73e222ec8c3bbf8f2fb",
+      "source_repository": "steven-pku/loop-script-writer"
+    },
+    {
+      "name": "loop-content-audit",
+      "group": "内容创作",
+      "title": "内容复盘",
+      "path": "skills/loop-content-audit",
+      "status": "previously-released",
+      "version": "0.3.1",
+      "source_commit": "327ba32c634a6c7e543ff356066ca1e9936ab01a",
+      "source_repository": "steven-pku/loop-content-audit"
+    },
+    {
+      "name": "loop-report-writer",
+      "group": "职场与决策",
+      "title": "工作汇报",
+      "path": "skills/loop-report-writer",
+      "status": "previously-released",
+      "version": "0.3.1",
+      "source_commit": "055a74a64592920847241bff54d6831e36a1dbc7",
+      "source_repository": "steven-pku/loop-report-writer"
+    },
+    {
+      "name": "loop-resume-writer",
+      "group": "职场与决策",
+      "title": "简历表达",
+      "path": "skills/loop-resume-writer",
+      "status": "previously-released",
+      "version": "0.3.4",
+      "source_commit": "f2190502c670942b04931313733e3d7f5fa778fa",
+      "source_repository": "steven-pku/loop-resume-writer"
+    },
+    {
+      "name": "loop-interview-writer",
+      "group": "职场与决策",
+      "title": "面试准备",
+      "path": "skills/loop-interview-writer",
+      "status": "previously-released",
+      "version": "0.2.3",
+      "source_commit": "384fea14d691a5cfa2189c827a1a1455f23da2ee",
+      "source_repository": "steven-pku/loop-interview-writer"
+    },
+    {
+      "name": "loop-negotiation",
+      "group": "职场与决策",
+      "title": "关键对话",
+      "path": "skills/loop-negotiation",
+      "status": "previously-released",
+      "version": "0.4.2",
+      "source_commit": "b71cf2d0210bdd8d36633287e0c5f0c2a0351ea9",
+      "source_repository": "steven-pku/loop-negotiation"
+    },
+    {
+      "name": "loop-decision",
+      "group": "职场与决策",
+      "title": "重要决策",
+      "path": "skills/loop-decision",
+      "status": "previously-released",
+      "version": "0.3.1",
+      "source_commit": "d2cfeab3a6922199f32af39d26ef3dfe9081de39",
+      "source_repository": "steven-pku/loop-decision"
+    },
+    {
+      "name": "thesis-feasibility-gate",
+      "group": "学术与实习实验室",
+      "title": "论文选题可行性",
+      "path": "labs/thesis-feasibility-gate",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "414328eac4da6379bbde8faae7a2ae47af96e729",
+      "source_repository": "steven-pku/thesis-feasibility-gate"
+    },
+    {
+      "name": "survey-preflight-loop",
+      "group": "学术与实习实验室",
+      "title": "问卷发放前检查",
+      "path": "labs/survey-preflight-loop",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "a9927d373686af9f510e4c4c271a4ca196688ab0",
+      "source_repository": "steven-pku/survey-preflight-loop"
+    },
+    {
+      "name": "advisor-feedback-loop",
+      "group": "学术与实习实验室",
+      "title": "导师反馈整理",
+      "path": "labs/advisor-feedback-loop",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "9e15f1de371855b5f822530545a8ee7806160ab7",
+      "source_repository": "steven-pku/advisor-feedback-loop"
+    },
+    {
+      "name": "academic-ai-ledger",
+      "group": "学术与实习实验室",
+      "title": "学术 AI 使用记录",
+      "path": "labs/academic-ai-ledger",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "12406eaa5ff2ed9e684d76a6d7ba557663f0357c",
+      "source_repository": "steven-pku/academic-ai-ledger"
+    },
+    {
+      "name": "internship-work-sample-loop",
+      "group": "学术与实习实验室",
+      "title": "实习岗位作品",
+      "path": "labs/internship-work-sample-loop",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "827c7dd75ed85853b0b5fe9382ac6653d01fffee",
+      "source_repository": "steven-pku/internship-work-sample-loop"
+    },
+    {
+      "name": "internship-evidence-loop",
+      "group": "学术与实习实验室",
+      "title": "实习成果整理",
+      "path": "labs/internship-evidence-loop",
+      "status": "experimental",
+      "version": null,
+      "source_commit": "e2c586e0551618ab047c33603d2c5c4e1db0532c",
+      "source_repository": "steven-pku/internship-evidence-loop"
+    }
+  ],
+  "packaging_revision": 2,
+  "host_validation": "not-revalidated"
+}

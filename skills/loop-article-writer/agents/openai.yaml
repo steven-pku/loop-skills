@@ -1,0 +1,5 @@
+# Optional Codex sidecar metadata. SKILL.md remains the runtime entrypoint.
+interface:
+  display_name: "Loop Article Writer"
+  short_description: "中文改稿/QA loop for 公众号/小红书 essays"
+  default_prompt: "Use $loop-article-writer to write, QA, rewrite, polish, or remove Chinese AI tone from my 公众号/小红书 article idea or draft."
